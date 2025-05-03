@@ -1,0 +1,3001 @@
+aid,fid,serviceType,operatingDays
+2,2943,Passenger,Daily
+25,3892,Passenger,"Tue, Thu"
+8,3429,Passenger,Mon-Fri
+12,3269,Passenger,"Tue, Thu"
+8,1865,Passenger,"Mon, Wed, Fri"
+7,1879,Passenger,Mon-Fri
+14,3665,Cargo,Daily
+22,3714,Cargo,Daily
+9,4182,Passenger,Weekends
+10,4328,Passenger,Weekends
+20,4741,Passenger,"Mon, Wed, Fri"
+20,3696,Passenger,Daily
+10,133,Cargo,"Tue, Thu"
+20,2373,Mixed,Daily
+21,2736,Passenger,Daily
+16,2280,Passenger,"Mon, Wed, Fri"
+15,89,Mixed,"Tue, Thu"
+6,2650,Passenger,"Mon, Wed, Fri"
+16,4270,Passenger,"Mon, Wed, Fri"
+20,162,Passenger,Mon-Fri
+15,4124,Passenger,"Tue, Thu"
+15,841,Passenger,"Tue, Thu"
+11,3649,Cargo,"Tue, Thu"
+23,2595,Passenger,"Mon, Wed, Fri"
+11,941,Cargo,Weekends
+2,2206,Cargo,Weekends
+25,1349,Passenger,Mon-Fri
+23,4683,Mixed,Weekends
+10,2445,Passenger,"Tue, Thu"
+6,2237,Cargo,Daily
+15,4312,Passenger,Daily
+8,734,Mixed,"Mon, Wed, Fri"
+19,3361,Cargo,Weekends
+25,4117,Mixed,"Tue, Thu"
+18,3754,Passenger,Mon-Fri
+20,866,Cargo,"Tue, Thu"
+8,1050,Cargo,Weekends
+25,1854,Passenger,"Mon, Wed, Fri"
+17,2865,Mixed,Weekends
+19,2922,Mixed,"Tue, Thu"
+12,2355,Cargo,"Tue, Thu"
+25,2329,Mixed,"Mon, Wed, Fri"
+21,3906,Cargo,Daily
+11,4476,Cargo,Mon-Fri
+19,4073,Mixed,Mon-Fri
+16,3802,Passenger,Weekends
+13,1702,Cargo,Daily
+20,791,Cargo,"Tue, Thu"
+16,4176,Mixed,Mon-Fri
+1,1330,Passenger,Mon-Fri
+6,1757,Cargo,"Tue, Thu"
+10,1225,Passenger,Weekends
+20,2533,Passenger,"Mon, Wed, Fri"
+4,1942,Mixed,"Tue, Thu"
+2,2993,Mixed,Daily
+22,4226,Mixed,"Tue, Thu"
+2,4832,Mixed,"Mon, Wed, Fri"
+6,2915,Mixed,Mon-Fri
+24,476,Cargo,Daily
+19,3030,Cargo,Mon-Fri
+20,1291,Cargo,"Mon, Wed, Fri"
+13,4937,Cargo,Daily
+22,4548,Passenger,Weekends
+19,2942,Cargo,Weekends
+9,1202,Passenger,Mon-Fri
+5,38,Passenger,"Tue, Thu"
+16,4966,Mixed,Weekends
+17,2676,Cargo,Weekends
+9,2828,Mixed,Mon-Fri
+9,140,Mixed,"Mon, Wed, Fri"
+11,1623,Mixed,"Tue, Thu"
+17,2129,Passenger,"Tue, Thu"
+20,2296,Mixed,Mon-Fri
+14,1825,Cargo,"Mon, Wed, Fri"
+11,2654,Cargo,Weekends
+8,3575,Cargo,Daily
+23,26,Passenger,"Tue, Thu"
+8,3503,Cargo,"Mon, Wed, Fri"
+13,612,Cargo,Daily
+11,3333,Passenger,Weekends
+25,3193,Mixed,Daily
+13,2581,Cargo,Daily
+18,1019,Mixed,Daily
+14,3286,Mixed,"Mon, Wed, Fri"
+25,3758,Cargo,Weekends
+9,4660,Passenger,"Mon, Wed, Fri"
+11,167,Passenger,Weekends
+1,440,Passenger,"Mon, Wed, Fri"
+2,572,Cargo,Weekends
+25,1098,Cargo,"Mon, Wed, Fri"
+18,4739,Passenger,Weekends
+21,2626,Mixed,"Mon, Wed, Fri"
+4,2018,Passenger,"Tue, Thu"
+7,2319,Mixed,Daily
+20,425,Passenger,"Tue, Thu"
+21,4149,Passenger,Mon-Fri
+6,1755,Mixed,Daily
+16,2398,Passenger,"Tue, Thu"
+21,2787,Mixed,Mon-Fri
+21,483,Cargo,"Mon, Wed, Fri"
+10,4538,Passenger,"Mon, Wed, Fri"
+20,3417,Cargo,Daily
+13,874,Passenger,"Mon, Wed, Fri"
+25,2771,Passenger,Weekends
+17,4593,Passenger,Mon-Fri
+11,1300,Mixed,Daily
+3,471,Cargo,"Mon, Wed, Fri"
+1,3446,Cargo,Weekends
+5,4880,Cargo,Mon-Fri
+2,4621,Mixed,Weekends
+11,243,Cargo,Mon-Fri
+2,3944,Cargo,Mon-Fri
+4,4167,Cargo,Weekends
+9,4034,Passenger,"Tue, Thu"
+16,3343,Cargo,"Tue, Thu"
+5,120,Mixed,"Mon, Wed, Fri"
+11,4893,Cargo,"Tue, Thu"
+17,2863,Passenger,Daily
+10,2205,Cargo,"Mon, Wed, Fri"
+5,2561,Cargo,"Tue, Thu"
+11,4713,Cargo,Mon-Fri
+4,1350,Passenger,Daily
+25,1163,Cargo,Weekends
+6,3118,Cargo,"Mon, Wed, Fri"
+11,4204,Cargo,Weekends
+4,2423,Passenger,"Mon, Wed, Fri"
+10,3652,Cargo,"Tue, Thu"
+17,2891,Cargo,Daily
+6,4019,Passenger,Daily
+10,4079,Mixed,"Mon, Wed, Fri"
+11,3510,Mixed,Weekends
+2,2789,Cargo,Mon-Fri
+1,5,Cargo,Weekends
+10,671,Mixed,Mon-Fri
+21,4194,Passenger,Weekends
+21,1856,Cargo,Weekends
+17,128,Mixed,"Tue, Thu"
+24,2687,Mixed,Mon-Fri
+7,4362,Cargo,"Mon, Wed, Fri"
+18,3818,Cargo,Weekends
+9,793,Cargo,Weekends
+15,3977,Mixed,Mon-Fri
+11,1643,Mixed,Weekends
+3,130,Passenger,Mon-Fri
+9,4803,Mixed,Mon-Fri
+11,1047,Cargo,"Tue, Thu"
+16,4432,Mixed,Mon-Fri
+15,4588,Mixed,Weekends
+24,3932,Cargo,Mon-Fri
+23,225,Cargo,"Tue, Thu"
+18,364,Passenger,Mon-Fri
+5,3092,Cargo,"Mon, Wed, Fri"
+22,3207,Passenger,Daily
+23,306,Passenger,"Mon, Wed, Fri"
+6,1609,Mixed,Daily
+13,3633,Mixed,Daily
+17,1492,Mixed,Daily
+4,3038,Mixed,"Mon, Wed, Fri"
+3,4841,Cargo,Weekends
+10,3625,Passenger,Daily
+18,3991,Cargo,Weekends
+17,3826,Cargo,Daily
+13,4495,Mixed,"Tue, Thu"
+1,683,Mixed,"Tue, Thu"
+3,4885,Mixed,Weekends
+11,3475,Mixed,"Tue, Thu"
+6,3183,Passenger,"Tue, Thu"
+16,3325,Passenger,"Tue, Thu"
+15,2944,Cargo,Daily
+20,3409,Cargo,Mon-Fri
+18,396,Passenger,"Mon, Wed, Fri"
+4,2813,Mixed,"Tue, Thu"
+23,1629,Passenger,"Tue, Thu"
+7,1978,Mixed,"Tue, Thu"
+21,4320,Passenger,"Mon, Wed, Fri"
+1,4302,Cargo,Daily
+5,955,Mixed,Daily
+1,324,Passenger,"Tue, Thu"
+8,3691,Cargo,"Mon, Wed, Fri"
+5,1064,Mixed,Daily
+16,4340,Passenger,Mon-Fri
+15,1340,Cargo,Mon-Fri
+1,4461,Passenger,"Mon, Wed, Fri"
+1,2169,Passenger,"Tue, Thu"
+8,2189,Passenger,Daily
+8,62,Passenger,"Mon, Wed, Fri"
+23,3162,Cargo,Daily
+18,4243,Cargo,Weekends
+7,2087,Mixed,"Mon, Wed, Fri"
+23,1312,Passenger,Daily
+1,3543,Mixed,Mon-Fri
+24,1376,Passenger,"Tue, Thu"
+15,541,Passenger,"Mon, Wed, Fri"
+22,2732,Passenger,Mon-Fri
+2,2857,Passenger,Mon-Fri
+12,4843,Mixed,"Mon, Wed, Fri"
+2,34,Cargo,Mon-Fri
+5,3506,Mixed,"Mon, Wed, Fri"
+5,2381,Cargo,Mon-Fri
+13,2114,Cargo,Weekends
+24,395,Mixed,"Tue, Thu"
+17,2308,Passenger,"Mon, Wed, Fri"
+22,4725,Mixed,"Tue, Thu"
+21,2478,Mixed,Daily
+23,2973,Passenger,"Mon, Wed, Fri"
+19,3143,Mixed,Mon-Fri
+21,1594,Passenger,Mon-Fri
+13,327,Cargo,"Tue, Thu"
+11,4026,Passenger,"Mon, Wed, Fri"
+9,1050,Passenger,"Tue, Thu"
+15,343,Passenger,Daily
+2,1945,Passenger,"Tue, Thu"
+2,4945,Passenger,Mon-Fri
+1,1117,Cargo,Daily
+23,4801,Passenger,Weekends
+17,3437,Passenger,Mon-Fri
+16,4961,Passenger,"Mon, Wed, Fri"
+17,3785,Passenger,Daily
+16,2441,Mixed,Mon-Fri
+19,1129,Passenger,Mon-Fri
+6,4411,Cargo,Daily
+7,669,Cargo,Weekends
+6,800,Mixed,Weekends
+15,521,Passenger,"Mon, Wed, Fri"
+19,1687,Cargo,Weekends
+7,394,Mixed,Daily
+7,2518,Passenger,Mon-Fri
+20,2508,Mixed,Mon-Fri
+25,4881,Cargo,"Tue, Thu"
+25,1347,Mixed,"Tue, Thu"
+7,3946,Cargo,Weekends
+14,1287,Passenger,Mon-Fri
+10,1183,Cargo,Weekends
+23,3246,Cargo,Mon-Fri
+3,3524,Mixed,Mon-Fri
+11,1712,Passenger,"Mon, Wed, Fri"
+11,3034,Cargo,Weekends
+25,152,Cargo,Weekends
+18,4701,Passenger,Daily
+24,1129,Mixed,"Tue, Thu"
+2,1474,Cargo,Daily
+13,2381,Passenger,"Mon, Wed, Fri"
+13,1176,Cargo,Mon-Fri
+10,898,Mixed,Weekends
+5,3594,Mixed,Weekends
+21,1628,Mixed,"Tue, Thu"
+24,2466,Cargo,"Tue, Thu"
+4,2171,Mixed,"Mon, Wed, Fri"
+23,3039,Mixed,Weekends
+22,2845,Mixed,"Mon, Wed, Fri"
+20,3867,Cargo,"Tue, Thu"
+22,706,Mixed,Mon-Fri
+24,2485,Passenger,"Mon, Wed, Fri"
+17,3150,Passenger,"Mon, Wed, Fri"
+13,569,Mixed,Daily
+10,4051,Mixed,Mon-Fri
+19,3252,Passenger,Mon-Fri
+19,1028,Passenger,Daily
+1,4962,Passenger,"Mon, Wed, Fri"
+6,2100,Cargo,Daily
+17,3558,Mixed,Weekends
+19,4272,Mixed,"Mon, Wed, Fri"
+3,4060,Cargo,Daily
+16,1016,Passenger,"Tue, Thu"
+10,2016,Mixed,"Mon, Wed, Fri"
+25,4085,Mixed,Daily
+13,1555,Mixed,"Tue, Thu"
+19,3770,Mixed,"Mon, Wed, Fri"
+19,4507,Cargo,Mon-Fri
+12,375,Cargo,"Tue, Thu"
+6,2664,Mixed,"Mon, Wed, Fri"
+14,2320,Passenger,"Tue, Thu"
+6,3637,Mixed,"Mon, Wed, Fri"
+5,3468,Cargo,Mon-Fri
+4,941,Cargo,Daily
+21,808,Mixed,Daily
+25,2575,Cargo,Weekends
+16,3488,Passenger,Mon-Fri
+7,2227,Cargo,"Mon, Wed, Fri"
+15,3537,Mixed,"Mon, Wed, Fri"
+8,3809,Passenger,Mon-Fri
+23,3324,Cargo,Weekends
+24,1271,Mixed,Mon-Fri
+9,3878,Passenger,"Tue, Thu"
+25,1873,Cargo,Mon-Fri
+4,2277,Cargo,Daily
+2,252,Cargo,Daily
+10,4609,Passenger,Weekends
+20,4937,Cargo,Daily
+10,3125,Passenger,Weekends
+11,4892,Cargo,"Mon, Wed, Fri"
+18,351,Cargo,Daily
+10,1812,Cargo,Weekends
+1,2107,Mixed,"Tue, Thu"
+17,2641,Passenger,Weekends
+22,998,Mixed,Weekends
+16,821,Mixed,"Tue, Thu"
+10,1199,Cargo,Weekends
+12,1409,Mixed,"Tue, Thu"
+16,2645,Passenger,Daily
+8,3311,Passenger,"Mon, Wed, Fri"
+15,1275,Passenger,Mon-Fri
+2,4213,Passenger,"Mon, Wed, Fri"
+25,2125,Passenger,Mon-Fri
+2,438,Cargo,"Mon, Wed, Fri"
+10,3104,Passenger,"Mon, Wed, Fri"
+23,736,Mixed,"Tue, Thu"
+24,3662,Cargo,Mon-Fri
+20,1693,Passenger,Mon-Fri
+3,2551,Cargo,Weekends
+6,2553,Cargo,Daily
+2,4949,Passenger,Weekends
+1,3886,Cargo,"Tue, Thu"
+21,2866,Mixed,"Mon, Wed, Fri"
+16,1675,Cargo,Mon-Fri
+6,1667,Passenger,"Tue, Thu"
+21,2811,Mixed,Mon-Fri
+14,3993,Mixed,"Tue, Thu"
+11,3557,Mixed,Weekends
+11,995,Cargo,Mon-Fri
+1,4942,Passenger,"Mon, Wed, Fri"
+15,3437,Cargo,"Mon, Wed, Fri"
+10,2490,Passenger,Daily
+17,1301,Passenger,Mon-Fri
+7,4152,Cargo,Mon-Fri
+16,1444,Mixed,Weekends
+25,3010,Cargo,"Tue, Thu"
+23,1567,Passenger,Mon-Fri
+10,2550,Mixed,Mon-Fri
+11,612,Mixed,"Mon, Wed, Fri"
+8,4546,Mixed,Mon-Fri
+13,3811,Cargo,"Mon, Wed, Fri"
+24,2441,Mixed,"Mon, Wed, Fri"
+13,3129,Mixed,"Tue, Thu"
+25,4006,Mixed,Daily
+20,1965,Passenger,"Tue, Thu"
+7,2976,Passenger,Weekends
+11,2551,Passenger,"Tue, Thu"
+24,1774,Passenger,"Mon, Wed, Fri"
+21,1946,Cargo,"Tue, Thu"
+11,4369,Cargo,Weekends
+13,2356,Passenger,Weekends
+15,2593,Passenger,"Tue, Thu"
+1,866,Passenger,Weekends
+8,1728,Cargo,Daily
+19,1510,Mixed,"Mon, Wed, Fri"
+16,1383,Cargo,"Mon, Wed, Fri"
+13,3497,Passenger,"Tue, Thu"
+25,3701,Mixed,"Mon, Wed, Fri"
+20,1904,Passenger,Mon-Fri
+25,3525,Cargo,"Tue, Thu"
+23,691,Cargo,Daily
+11,1531,Passenger,Daily
+13,3467,Passenger,Mon-Fri
+10,857,Passenger,Daily
+4,2815,Mixed,"Tue, Thu"
+1,3396,Cargo,"Tue, Thu"
+14,1234,Mixed,Daily
+17,1624,Cargo,Mon-Fri
+18,2000,Passenger,"Mon, Wed, Fri"
+24,1438,Mixed,"Tue, Thu"
+18,4858,Mixed,Weekends
+6,1200,Passenger,Daily
+1,1641,Cargo,Weekends
+13,4637,Mixed,Weekends
+23,2295,Cargo,Mon-Fri
+2,3659,Mixed,"Mon, Wed, Fri"
+2,3813,Mixed,"Tue, Thu"
+18,1003,Mixed,"Tue, Thu"
+1,753,Cargo,"Mon, Wed, Fri"
+8,498,Cargo,"Tue, Thu"
+14,1002,Cargo,Weekends
+11,2548,Cargo,Weekends
+19,1299,Passenger,"Mon, Wed, Fri"
+24,70,Passenger,"Tue, Thu"
+21,1706,Cargo,Mon-Fri
+21,1729,Passenger,Weekends
+18,3989,Mixed,Mon-Fri
+9,1335,Mixed,Mon-Fri
+4,4753,Cargo,"Tue, Thu"
+15,3096,Passenger,Mon-Fri
+3,19,Passenger,"Mon, Wed, Fri"
+2,4667,Cargo,Weekends
+21,3224,Passenger,"Tue, Thu"
+7,305,Mixed,Daily
+21,961,Cargo,"Tue, Thu"
+17,3406,Passenger,"Mon, Wed, Fri"
+15,1745,Mixed,Mon-Fri
+17,3641,Cargo,Daily
+10,2632,Cargo,Weekends
+8,4109,Passenger,Mon-Fri
+10,881,Mixed,"Mon, Wed, Fri"
+22,4330,Passenger,Weekends
+12,4342,Passenger,"Mon, Wed, Fri"
+9,1596,Cargo,"Mon, Wed, Fri"
+14,876,Passenger,Weekends
+10,57,Cargo,Daily
+18,1561,Mixed,Weekends
+21,4444,Cargo,Mon-Fri
+15,1156,Mixed,Mon-Fri
+24,4598,Cargo,Mon-Fri
+12,4303,Passenger,Mon-Fri
+16,1904,Cargo,"Tue, Thu"
+18,768,Cargo,Daily
+25,3508,Cargo,Daily
+23,1205,Mixed,"Mon, Wed, Fri"
+11,2021,Cargo,"Tue, Thu"
+14,2392,Cargo,Weekends
+7,3623,Passenger,Mon-Fri
+1,2527,Mixed,Mon-Fri
+20,4904,Cargo,"Mon, Wed, Fri"
+3,4424,Passenger,"Tue, Thu"
+1,406,Cargo,Weekends
+1,380,Cargo,"Tue, Thu"
+21,425,Mixed,Daily
+23,3575,Passenger,Daily
+3,1264,Mixed,"Mon, Wed, Fri"
+13,525,Passenger,Mon-Fri
+12,4985,Mixed,Mon-Fri
+3,1373,Cargo,Mon-Fri
+6,628,Mixed,"Mon, Wed, Fri"
+22,2832,Cargo,Daily
+23,863,Cargo,Daily
+8,1954,Passenger,Mon-Fri
+16,450,Cargo,Daily
+21,4750,Mixed,"Tue, Thu"
+14,1347,Passenger,Daily
+8,415,Passenger,Weekends
+21,2741,Passenger,Weekends
+18,2932,Passenger,"Tue, Thu"
+23,4787,Cargo,"Mon, Wed, Fri"
+1,3298,Mixed,Mon-Fri
+20,4942,Mixed,Mon-Fri
+15,2443,Cargo,"Tue, Thu"
+24,1786,Mixed,"Mon, Wed, Fri"
+18,1029,Passenger,Daily
+20,2706,Mixed,Weekends
+11,4678,Cargo,Daily
+15,1896,Passenger,Daily
+21,4203,Mixed,Mon-Fri
+6,288,Cargo,Mon-Fri
+14,3547,Passenger,Mon-Fri
+25,2455,Cargo,Daily
+9,4809,Mixed,"Mon, Wed, Fri"
+24,2379,Mixed,"Tue, Thu"
+17,664,Passenger,Mon-Fri
+3,2140,Mixed,Weekends
+23,3104,Mixed,"Tue, Thu"
+5,1400,Mixed,Mon-Fri
+23,3076,Passenger,Daily
+10,2117,Mixed,Daily
+14,4777,Cargo,Daily
+25,135,Cargo,"Tue, Thu"
+20,1549,Mixed,Mon-Fri
+24,3636,Passenger,"Tue, Thu"
+1,1260,Mixed,Weekends
+10,3195,Passenger,Weekends
+17,93,Cargo,"Mon, Wed, Fri"
+3,855,Passenger,Weekends
+12,1283,Mixed,Mon-Fri
+11,3031,Passenger,"Mon, Wed, Fri"
+2,3981,Cargo,Mon-Fri
+20,4051,Cargo,"Mon, Wed, Fri"
+23,2876,Cargo,Daily
+16,117,Cargo,Daily
+12,4080,Mixed,"Tue, Thu"
+12,3737,Cargo,Mon-Fri
+13,311,Passenger,Daily
+18,2514,Mixed,"Mon, Wed, Fri"
+21,1729,Passenger,"Tue, Thu"
+20,4861,Mixed,Mon-Fri
+16,2013,Cargo,Weekends
+9,2329,Passenger,Mon-Fri
+15,1754,Passenger,Weekends
+22,2124,Passenger,Mon-Fri
+18,748,Passenger,"Mon, Wed, Fri"
+18,4958,Passenger,Mon-Fri
+19,1934,Mixed,Weekends
+3,2986,Mixed,"Mon, Wed, Fri"
+24,1084,Cargo,Weekends
+13,3316,Mixed,Daily
+11,3696,Mixed,Weekends
+8,3854,Cargo,"Tue, Thu"
+6,1028,Cargo,Mon-Fri
+17,4833,Mixed,Weekends
+21,1090,Mixed,Daily
+1,3511,Passenger,Weekends
+2,2254,Mixed,"Tue, Thu"
+19,3725,Passenger,Daily
+4,3090,Cargo,Mon-Fri
+13,837,Passenger,"Mon, Wed, Fri"
+11,3211,Passenger,Mon-Fri
+20,4346,Cargo,"Tue, Thu"
+17,4328,Mixed,Mon-Fri
+5,4055,Mixed,"Mon, Wed, Fri"
+1,301,Mixed,Weekends
+12,21,Cargo,"Tue, Thu"
+3,3602,Passenger,"Tue, Thu"
+1,2866,Cargo,"Mon, Wed, Fri"
+19,1066,Passenger,"Mon, Wed, Fri"
+3,2020,Cargo,Weekends
+11,2687,Mixed,Daily
+4,1569,Mixed,"Tue, Thu"
+23,2351,Mixed,Daily
+10,415,Cargo,Mon-Fri
+11,456,Cargo,Daily
+19,611,Mixed,Mon-Fri
+25,1312,Mixed,"Mon, Wed, Fri"
+6,4377,Passenger,"Mon, Wed, Fri"
+9,2454,Passenger,Mon-Fri
+17,995,Mixed,Weekends
+21,73,Passenger,"Mon, Wed, Fri"
+5,3836,Passenger,Mon-Fri
+4,1203,Cargo,Weekends
+17,1661,Cargo,Daily
+10,3093,Cargo,Mon-Fri
+10,1022,Mixed,"Tue, Thu"
+14,174,Mixed,"Tue, Thu"
+9,2474,Mixed,Daily
+10,4717,Passenger,Weekends
+22,1900,Mixed,Daily
+9,2876,Cargo,"Tue, Thu"
+15,4480,Passenger,Weekends
+4,2405,Cargo,"Mon, Wed, Fri"
+10,2224,Cargo,"Mon, Wed, Fri"
+22,4711,Cargo,Daily
+9,4840,Passenger,Weekends
+18,2041,Mixed,Daily
+25,3002,Mixed,"Tue, Thu"
+16,174,Cargo,"Tue, Thu"
+5,2555,Mixed,"Mon, Wed, Fri"
+2,2029,Mixed,"Mon, Wed, Fri"
+5,1193,Cargo,Mon-Fri
+20,2858,Cargo,Mon-Fri
+15,1696,Passenger,"Tue, Thu"
+16,1081,Cargo,Daily
+12,1762,Passenger,Mon-Fri
+24,2078,Mixed,Weekends
+3,1335,Passenger,"Mon, Wed, Fri"
+12,560,Cargo,Weekends
+12,4024,Cargo,Daily
+22,2879,Passenger,Daily
+13,3148,Cargo,"Tue, Thu"
+24,4498,Passenger,Weekends
+21,3029,Cargo,Mon-Fri
+17,4261,Cargo,Mon-Fri
+23,2997,Mixed,"Tue, Thu"
+11,2152,Passenger,"Mon, Wed, Fri"
+18,4276,Cargo,Daily
+11,231,Cargo,"Mon, Wed, Fri"
+23,2739,Passenger,"Mon, Wed, Fri"
+20,1733,Passenger,"Tue, Thu"
+12,2876,Mixed,Mon-Fri
+1,2049,Passenger,Daily
+10,4096,Passenger,"Tue, Thu"
+7,974,Cargo,Weekends
+19,1902,Cargo,"Mon, Wed, Fri"
+2,2455,Passenger,Mon-Fri
+4,260,Passenger,Mon-Fri
+9,4042,Mixed,Daily
+4,4080,Passenger,Mon-Fri
+17,4331,Mixed,"Tue, Thu"
+12,2379,Passenger,Daily
+22,1563,Mixed,Daily
+12,3406,Mixed,"Tue, Thu"
+4,3082,Passenger,Weekends
+9,4739,Passenger,Mon-Fri
+18,2238,Mixed,"Mon, Wed, Fri"
+16,592,Mixed,Weekends
+23,485,Cargo,Mon-Fri
+15,2864,Cargo,Daily
+22,1887,Cargo,Mon-Fri
+16,4902,Passenger,Weekends
+24,2764,Cargo,"Mon, Wed, Fri"
+20,1978,Passenger,Weekends
+8,2010,Cargo,Weekends
+2,2863,Mixed,"Mon, Wed, Fri"
+19,836,Cargo,Daily
+2,382,Mixed,"Tue, Thu"
+25,4828,Mixed,Weekends
+13,145,Mixed,"Mon, Wed, Fri"
+9,3512,Mixed,"Mon, Wed, Fri"
+24,129,Passenger,"Mon, Wed, Fri"
+5,863,Cargo,Weekends
+16,3234,Cargo,"Tue, Thu"
+20,3899,Mixed,"Tue, Thu"
+12,823,Mixed,Mon-Fri
+9,820,Passenger,Daily
+9,3987,Mixed,"Mon, Wed, Fri"
+16,4423,Cargo,Daily
+10,1207,Cargo,"Mon, Wed, Fri"
+5,1502,Cargo,"Mon, Wed, Fri"
+20,4370,Passenger,"Mon, Wed, Fri"
+20,4429,Passenger,Mon-Fri
+17,3324,Cargo,Daily
+23,4773,Passenger,Daily
+18,2507,Passenger,"Tue, Thu"
+8,4459,Cargo,"Tue, Thu"
+7,141,Cargo,"Mon, Wed, Fri"
+23,1057,Passenger,"Mon, Wed, Fri"
+18,2269,Mixed,Daily
+19,1125,Mixed,Daily
+22,110,Mixed,Daily
+6,574,Mixed,Weekends
+18,3862,Passenger,"Mon, Wed, Fri"
+8,2289,Passenger,Weekends
+4,3040,Mixed,Weekends
+2,3034,Cargo,Weekends
+13,2978,Mixed,Daily
+5,2305,Mixed,Mon-Fri
+13,642,Mixed,Weekends
+5,4936,Cargo,Mon-Fri
+7,3280,Passenger,"Tue, Thu"
+25,2361,Cargo,"Mon, Wed, Fri"
+2,3589,Mixed,"Mon, Wed, Fri"
+5,4609,Mixed,Daily
+18,3450,Passenger,Weekends
+2,504,Mixed,Mon-Fri
+16,1677,Cargo,"Tue, Thu"
+17,4855,Mixed,Mon-Fri
+7,3350,Cargo,"Tue, Thu"
+14,3246,Passenger,Daily
+12,2532,Cargo,"Tue, Thu"
+11,297,Cargo,Daily
+15,453,Passenger,"Tue, Thu"
+6,593,Mixed,Daily
+15,802,Mixed,"Tue, Thu"
+1,4761,Cargo,Weekends
+8,3992,Passenger,Mon-Fri
+7,2643,Cargo,"Mon, Wed, Fri"
+23,922,Cargo,Daily
+17,2608,Passenger,Mon-Fri
+4,1408,Mixed,Daily
+2,2960,Cargo,Weekends
+20,133,Passenger,Weekends
+17,29,Mixed,"Mon, Wed, Fri"
+2,3739,Cargo,"Tue, Thu"
+2,2620,Mixed,Daily
+11,3261,Passenger,Weekends
+18,118,Mixed,"Mon, Wed, Fri"
+2,4467,Cargo,Weekends
+23,4257,Mixed,Daily
+23,210,Cargo,"Mon, Wed, Fri"
+4,1968,Cargo,"Tue, Thu"
+3,4347,Mixed,"Mon, Wed, Fri"
+4,400,Cargo,Daily
+6,1888,Passenger,"Mon, Wed, Fri"
+3,437,Mixed,"Mon, Wed, Fri"
+17,1147,Passenger,"Mon, Wed, Fri"
+13,786,Passenger,Weekends
+12,3843,Cargo,"Mon, Wed, Fri"
+21,4077,Cargo,Daily
+9,268,Cargo,"Tue, Thu"
+7,1000,Passenger,Daily
+9,146,Cargo,"Tue, Thu"
+19,3686,Passenger,"Tue, Thu"
+18,3169,Passenger,Mon-Fri
+1,4567,Passenger,Mon-Fri
+16,3441,Cargo,Daily
+11,1727,Cargo,Daily
+5,1508,Cargo,Daily
+4,3335,Passenger,Daily
+6,1544,Cargo,Mon-Fri
+21,3607,Mixed,"Mon, Wed, Fri"
+2,1664,Passenger,Mon-Fri
+24,4013,Cargo,Mon-Fri
+4,1936,Mixed,Weekends
+1,1685,Mixed,Daily
+8,2885,Passenger,Daily
+17,3030,Cargo,Weekends
+13,156,Passenger,"Mon, Wed, Fri"
+25,3107,Cargo,"Mon, Wed, Fri"
+1,4729,Passenger,"Mon, Wed, Fri"
+10,95,Passenger,Daily
+14,1614,Mixed,Mon-Fri
+18,1995,Cargo,Weekends
+22,2944,Passenger,"Mon, Wed, Fri"
+24,2235,Passenger,Daily
+23,405,Cargo,Daily
+10,2130,Passenger,"Tue, Thu"
+6,839,Passenger,Daily
+7,4805,Cargo,Daily
+5,4806,Cargo,"Tue, Thu"
+15,1992,Cargo,"Mon, Wed, Fri"
+22,4249,Passenger,"Mon, Wed, Fri"
+16,3555,Passenger,Daily
+15,830,Cargo,Daily
+6,4052,Cargo,Daily
+9,4947,Mixed,"Tue, Thu"
+11,3074,Cargo,Weekends
+23,3380,Mixed,Weekends
+1,1880,Cargo,Daily
+20,44,Cargo,Daily
+13,2986,Cargo,Weekends
+15,2079,Passenger,"Tue, Thu"
+24,2210,Cargo,"Tue, Thu"
+13,4347,Mixed,Mon-Fri
+22,3651,Passenger,"Tue, Thu"
+1,1209,Mixed,"Mon, Wed, Fri"
+25,3119,Cargo,"Mon, Wed, Fri"
+10,3685,Passenger,Mon-Fri
+22,2975,Cargo,"Tue, Thu"
+3,3026,Passenger,Mon-Fri
+9,2230,Mixed,Daily
+15,2516,Cargo,Daily
+12,4360,Mixed,"Tue, Thu"
+6,2981,Mixed,Mon-Fri
+8,2000,Cargo,Daily
+15,520,Passenger,"Mon, Wed, Fri"
+7,4700,Cargo,Weekends
+7,4075,Mixed,"Tue, Thu"
+21,1579,Cargo,Weekends
+8,4293,Cargo,Weekends
+9,4863,Passenger,Daily
+20,4044,Passenger,Daily
+21,17,Mixed,Weekends
+5,1104,Passenger,"Mon, Wed, Fri"
+20,2277,Passenger,"Mon, Wed, Fri"
+14,1535,Cargo,Daily
+1,1709,Passenger,"Mon, Wed, Fri"
+2,3001,Cargo,Mon-Fri
+12,2630,Cargo,Daily
+5,2604,Passenger,Mon-Fri
+13,4590,Passenger,"Tue, Thu"
+22,4988,Cargo,"Mon, Wed, Fri"
+16,3475,Mixed,Mon-Fri
+6,3030,Mixed,"Mon, Wed, Fri"
+7,1360,Mixed,Weekends
+18,3118,Cargo,"Mon, Wed, Fri"
+21,769,Cargo,Mon-Fri
+7,2516,Cargo,"Tue, Thu"
+17,3493,Cargo,"Tue, Thu"
+14,4434,Cargo,Mon-Fri
+4,1167,Passenger,Mon-Fri
+25,4669,Passenger,"Mon, Wed, Fri"
+12,389,Cargo,Weekends
+13,2958,Cargo,Mon-Fri
+9,1349,Cargo,"Tue, Thu"
+5,4750,Passenger,Weekends
+13,3830,Mixed,"Tue, Thu"
+17,2272,Mixed,Daily
+12,486,Cargo,Daily
+16,2178,Cargo,Mon-Fri
+8,3123,Cargo,"Mon, Wed, Fri"
+11,3414,Mixed,"Tue, Thu"
+25,777,Mixed,Daily
+17,3275,Passenger,Weekends
+22,2121,Cargo,"Tue, Thu"
+5,1718,Cargo,Daily
+12,737,Passenger,"Mon, Wed, Fri"
+18,3746,Mixed,Daily
+4,337,Passenger,Weekends
+18,143,Passenger,Weekends
+21,777,Cargo,Weekends
+10,4242,Cargo,Mon-Fri
+11,4434,Mixed,Weekends
+20,4511,Passenger,Daily
+7,3318,Passenger,Daily
+24,2978,Mixed,"Mon, Wed, Fri"
+25,4986,Cargo,"Tue, Thu"
+16,3460,Mixed,Weekends
+13,3427,Mixed,Mon-Fri
+23,2137,Mixed,"Mon, Wed, Fri"
+12,1401,Passenger,"Mon, Wed, Fri"
+2,2978,Passenger,Weekends
+13,3534,Passenger,Weekends
+15,3749,Cargo,Daily
+15,1825,Mixed,Daily
+4,4380,Cargo,Mon-Fri
+7,3263,Cargo,Mon-Fri
+7,1514,Passenger,Weekends
+2,48,Mixed,"Tue, Thu"
+1,448,Passenger,"Mon, Wed, Fri"
+11,3092,Mixed,Mon-Fri
+14,344,Mixed,Weekends
+16,1672,Cargo,"Mon, Wed, Fri"
+12,2074,Cargo,"Tue, Thu"
+12,2606,Mixed,"Tue, Thu"
+12,4727,Cargo,Mon-Fri
+5,2459,Cargo,Weekends
+2,1779,Mixed,"Mon, Wed, Fri"
+22,2236,Passenger,Daily
+25,891,Passenger,"Mon, Wed, Fri"
+3,3881,Passenger,Mon-Fri
+19,4768,Mixed,"Mon, Wed, Fri"
+12,3737,Passenger,"Tue, Thu"
+24,181,Cargo,Daily
+7,4617,Cargo,Daily
+16,3534,Passenger,Weekends
+15,2233,Mixed,"Tue, Thu"
+11,4721,Passenger,"Tue, Thu"
+8,1616,Mixed,"Tue, Thu"
+3,2987,Passenger,Weekends
+2,3274,Passenger,Weekends
+14,797,Cargo,Mon-Fri
+3,521,Cargo,Weekends
+10,3068,Cargo,"Mon, Wed, Fri"
+5,3071,Mixed,Daily
+11,48,Mixed,Weekends
+17,150,Passenger,Weekends
+20,4630,Cargo,"Tue, Thu"
+1,4498,Mixed,Daily
+10,2270,Mixed,Weekends
+12,3379,Cargo,Daily
+19,1926,Passenger,"Mon, Wed, Fri"
+7,2007,Cargo,"Mon, Wed, Fri"
+12,3159,Passenger,Weekends
+22,1568,Mixed,Daily
+18,2339,Mixed,"Tue, Thu"
+15,2336,Passenger,"Tue, Thu"
+12,966,Passenger,Mon-Fri
+9,2580,Mixed,"Mon, Wed, Fri"
+21,4321,Passenger,Weekends
+12,1314,Mixed,Weekends
+1,538,Cargo,Daily
+9,4150,Mixed,Weekends
+23,1115,Mixed,"Mon, Wed, Fri"
+25,2890,Cargo,Weekends
+17,2100,Mixed,Mon-Fri
+24,1379,Passenger,Mon-Fri
+11,4885,Passenger,Weekends
+7,2576,Passenger,"Tue, Thu"
+22,1232,Mixed,Mon-Fri
+2,4969,Passenger,"Tue, Thu"
+11,2169,Mixed,Mon-Fri
+18,949,Mixed,"Mon, Wed, Fri"
+9,612,Passenger,Daily
+20,1602,Mixed,"Mon, Wed, Fri"
+6,3264,Mixed,Weekends
+18,1444,Mixed,Daily
+24,1531,Mixed,"Tue, Thu"
+13,4634,Mixed,Daily
+23,1660,Cargo,Weekends
+23,1101,Cargo,Weekends
+3,642,Passenger,"Tue, Thu"
+7,4450,Mixed,"Mon, Wed, Fri"
+7,1218,Passenger,Weekends
+24,3362,Cargo,Mon-Fri
+8,1750,Mixed,Daily
+24,2620,Mixed,"Tue, Thu"
+4,2791,Cargo,"Tue, Thu"
+6,3922,Mixed,"Tue, Thu"
+22,300,Mixed,Weekends
+10,2992,Cargo,Mon-Fri
+24,2299,Mixed,"Tue, Thu"
+11,1868,Mixed,Mon-Fri
+11,1997,Mixed,"Mon, Wed, Fri"
+23,663,Cargo,Daily
+5,3672,Cargo,Daily
+1,671,Passenger,Mon-Fri
+13,2113,Passenger,Mon-Fri
+23,1392,Passenger,"Mon, Wed, Fri"
+14,2919,Passenger,Daily
+1,483,Cargo,Weekends
+16,2264,Passenger,"Tue, Thu"
+22,933,Passenger,Mon-Fri
+14,388,Passenger,Daily
+24,505,Mixed,Mon-Fri
+24,1606,Passenger,Weekends
+18,3951,Mixed,"Tue, Thu"
+4,484,Passenger,Mon-Fri
+17,4705,Cargo,"Tue, Thu"
+17,3563,Mixed,"Mon, Wed, Fri"
+4,1134,Mixed,Daily
+7,1944,Cargo,Weekends
+6,740,Mixed,Daily
+19,4570,Passenger,"Mon, Wed, Fri"
+25,586,Mixed,Daily
+22,823,Mixed,Mon-Fri
+15,3824,Cargo,Mon-Fri
+12,1514,Mixed,"Mon, Wed, Fri"
+9,377,Cargo,Weekends
+7,1208,Cargo,"Mon, Wed, Fri"
+7,4577,Passenger,"Tue, Thu"
+14,629,Mixed,Mon-Fri
+18,2926,Cargo,Daily
+7,4963,Cargo,Mon-Fri
+23,3218,Passenger,Mon-Fri
+24,1672,Passenger,Mon-Fri
+5,3092,Mixed,Daily
+13,445,Cargo,Weekends
+18,1143,Passenger,Daily
+17,2995,Cargo,Daily
+5,4283,Passenger,Weekends
+11,315,Mixed,Mon-Fri
+17,3311,Mixed,Weekends
+9,985,Passenger,"Tue, Thu"
+23,1672,Mixed,"Mon, Wed, Fri"
+10,3539,Mixed,Daily
+15,1255,Cargo,Daily
+5,3939,Passenger,"Tue, Thu"
+18,1206,Cargo,Weekends
+2,4316,Mixed,Weekends
+20,2325,Mixed,Mon-Fri
+10,3068,Passenger,Daily
+5,1410,Cargo,Daily
+24,605,Mixed,Mon-Fri
+15,829,Mixed,"Mon, Wed, Fri"
+3,2933,Passenger,"Mon, Wed, Fri"
+25,4468,Passenger,"Mon, Wed, Fri"
+21,3870,Mixed,Mon-Fri
+8,310,Cargo,"Tue, Thu"
+19,1479,Passenger,Weekends
+20,3363,Mixed,Daily
+18,189,Passenger,Weekends
+10,2131,Passenger,"Tue, Thu"
+7,408,Mixed,Weekends
+15,874,Cargo,"Tue, Thu"
+3,1667,Passenger,Weekends
+1,3797,Mixed,Weekends
+15,801,Mixed,Mon-Fri
+7,2578,Passenger,Mon-Fri
+3,3969,Cargo,Mon-Fri
+17,3408,Passenger,Weekends
+12,696,Cargo,Weekends
+6,1094,Passenger,Mon-Fri
+4,4561,Cargo,Daily
+21,2148,Mixed,Weekends
+21,2134,Cargo,"Tue, Thu"
+25,2290,Mixed,Mon-Fri
+1,508,Passenger,Daily
+25,1560,Cargo,"Mon, Wed, Fri"
+14,4845,Passenger,Daily
+13,2247,Passenger,"Mon, Wed, Fri"
+13,4326,Cargo,Weekends
+13,3025,Cargo,Weekends
+18,889,Mixed,Mon-Fri
+19,2220,Mixed,Weekends
+6,2608,Mixed,Weekends
+23,4233,Passenger,"Mon, Wed, Fri"
+3,2670,Mixed,Mon-Fri
+5,1856,Cargo,"Tue, Thu"
+16,4214,Cargo,Daily
+20,3612,Passenger,Daily
+19,703,Mixed,"Tue, Thu"
+10,53,Passenger,Weekends
+11,765,Mixed,"Mon, Wed, Fri"
+13,4202,Passenger,"Tue, Thu"
+8,3898,Mixed,"Mon, Wed, Fri"
+11,1740,Passenger,"Tue, Thu"
+5,3150,Passenger,"Mon, Wed, Fri"
+9,239,Passenger,"Tue, Thu"
+1,3065,Mixed,Mon-Fri
+16,4958,Cargo,"Mon, Wed, Fri"
+1,2624,Cargo,Weekends
+3,327,Cargo,"Mon, Wed, Fri"
+18,586,Mixed,Daily
+15,810,Mixed,Daily
+12,4213,Passenger,"Mon, Wed, Fri"
+3,1637,Mixed,Mon-Fri
+11,1810,Mixed,Mon-Fri
+3,1269,Passenger,"Mon, Wed, Fri"
+14,366,Mixed,Mon-Fri
+4,357,Passenger,"Mon, Wed, Fri"
+8,1587,Passenger,Daily
+11,2144,Passenger,Weekends
+12,3281,Passenger,Daily
+6,1659,Cargo,Daily
+14,1342,Mixed,"Mon, Wed, Fri"
+9,4638,Mixed,Daily
+13,2712,Passenger,Mon-Fri
+8,3740,Passenger,"Mon, Wed, Fri"
+3,3072,Cargo,Weekends
+25,1979,Cargo,Mon-Fri
+20,1630,Passenger,Daily
+3,316,Mixed,Daily
+15,4019,Passenger,"Mon, Wed, Fri"
+14,2113,Passenger,"Tue, Thu"
+3,1678,Mixed,Mon-Fri
+9,3174,Passenger,"Tue, Thu"
+3,4558,Cargo,Mon-Fri
+16,1239,Mixed,Daily
+24,1749,Mixed,"Mon, Wed, Fri"
+14,507,Mixed,Weekends
+17,3689,Cargo,Weekends
+2,3117,Cargo,Daily
+24,1813,Mixed,Daily
+7,4118,Passenger,Weekends
+21,3604,Passenger,Mon-Fri
+14,3243,Mixed,Mon-Fri
+3,2329,Mixed,Daily
+11,4591,Cargo,"Tue, Thu"
+24,1181,Cargo,"Tue, Thu"
+21,3641,Passenger,Weekends
+24,2558,Passenger,"Mon, Wed, Fri"
+11,126,Mixed,Mon-Fri
+12,2220,Passenger,Daily
+2,651,Passenger,Mon-Fri
+1,3753,Mixed,"Mon, Wed, Fri"
+15,3686,Passenger,Mon-Fri
+2,2255,Mixed,Daily
+10,4623,Cargo,Weekends
+16,4809,Passenger,Mon-Fri
+5,2235,Cargo,Mon-Fri
+23,4241,Passenger,"Mon, Wed, Fri"
+24,3248,Mixed,"Mon, Wed, Fri"
+19,3636,Passenger,Weekends
+5,3455,Passenger,Daily
+1,1564,Passenger,Weekends
+15,2503,Cargo,Daily
+7,819,Cargo,Daily
+15,1054,Cargo,Daily
+8,3560,Mixed,Daily
+20,3471,Passenger,Weekends
+5,4426,Passenger,Daily
+3,1661,Passenger,"Tue, Thu"
+3,3185,Cargo,Daily
+2,1203,Passenger,Daily
+25,3716,Passenger,"Tue, Thu"
+25,4624,Mixed,Daily
+17,3464,Mixed,"Tue, Thu"
+7,4125,Passenger,"Mon, Wed, Fri"
+20,417,Cargo,"Mon, Wed, Fri"
+7,3252,Mixed,Daily
+25,3244,Passenger,Weekends
+24,143,Mixed,Mon-Fri
+12,588,Mixed,Mon-Fri
+25,1735,Passenger,"Tue, Thu"
+15,3990,Mixed,Mon-Fri
+13,2078,Cargo,Daily
+19,2113,Passenger,"Tue, Thu"
+13,3456,Cargo,"Mon, Wed, Fri"
+7,212,Cargo,Weekends
+13,2911,Passenger,Weekends
+21,3199,Cargo,Mon-Fri
+25,1448,Cargo,Daily
+4,518,Cargo,Weekends
+25,4027,Cargo,Daily
+24,4435,Cargo,Weekends
+3,2485,Cargo,Weekends
+6,1428,Passenger,Daily
+21,4588,Cargo,"Tue, Thu"
+11,510,Cargo,"Tue, Thu"
+14,3407,Passenger,Mon-Fri
+3,3090,Mixed,Weekends
+15,2304,Passenger,"Tue, Thu"
+24,4850,Passenger,Daily
+11,2734,Passenger,"Mon, Wed, Fri"
+15,1072,Mixed,Weekends
+12,608,Cargo,Daily
+21,2391,Mixed,Weekends
+22,4783,Passenger,"Mon, Wed, Fri"
+6,980,Cargo,"Mon, Wed, Fri"
+1,2628,Mixed,"Tue, Thu"
+5,4000,Passenger,"Tue, Thu"
+7,3878,Passenger,"Tue, Thu"
+12,4667,Passenger,Mon-Fri
+25,342,Cargo,Mon-Fri
+3,2293,Mixed,Weekends
+16,1020,Mixed,Daily
+20,1309,Mixed,Mon-Fri
+13,3336,Cargo,Weekends
+9,3218,Mixed,Daily
+23,1346,Cargo,"Mon, Wed, Fri"
+21,987,Passenger,Daily
+5,776,Passenger,Mon-Fri
+20,693,Cargo,Weekends
+1,4667,Passenger,"Tue, Thu"
+18,3714,Cargo,Daily
+21,1460,Mixed,Daily
+7,4994,Passenger,"Mon, Wed, Fri"
+11,2848,Cargo,"Tue, Thu"
+24,401,Mixed,Mon-Fri
+20,4154,Cargo,"Mon, Wed, Fri"
+9,517,Passenger,Mon-Fri
+6,3247,Mixed,Weekends
+13,750,Mixed,"Tue, Thu"
+21,4149,Mixed,"Mon, Wed, Fri"
+23,2503,Passenger,"Tue, Thu"
+20,1102,Mixed,Daily
+1,3917,Mixed,Weekends
+19,3330,Mixed,Mon-Fri
+15,3029,Cargo,Mon-Fri
+3,76,Cargo,Mon-Fri
+3,3070,Cargo,"Tue, Thu"
+22,215,Passenger,Daily
+11,1259,Cargo,"Tue, Thu"
+8,4954,Cargo,"Mon, Wed, Fri"
+3,1218,Mixed,Weekends
+19,138,Passenger,Mon-Fri
+25,3098,Mixed,Mon-Fri
+11,2168,Passenger,Daily
+14,1848,Passenger,Mon-Fri
+16,1017,Passenger,"Mon, Wed, Fri"
+3,3924,Mixed,"Mon, Wed, Fri"
+10,311,Mixed,Weekends
+13,3838,Mixed,Mon-Fri
+18,3356,Mixed,Daily
+13,4051,Cargo,"Mon, Wed, Fri"
+23,1016,Passenger,Weekends
+20,4559,Passenger,"Tue, Thu"
+8,3858,Passenger,"Mon, Wed, Fri"
+20,4935,Passenger,Daily
+25,3443,Passenger,"Tue, Thu"
+6,1363,Passenger,"Mon, Wed, Fri"
+10,2048,Passenger,Daily
+19,754,Passenger,Weekends
+19,1839,Cargo,Weekends
+17,1439,Cargo,Daily
+15,824,Passenger,Mon-Fri
+22,3619,Passenger,"Mon, Wed, Fri"
+12,1996,Passenger,"Mon, Wed, Fri"
+9,2136,Cargo,"Mon, Wed, Fri"
+5,874,Cargo,Daily
+24,780,Mixed,Daily
+7,956,Cargo,"Mon, Wed, Fri"
+25,2800,Mixed,Daily
+25,4206,Mixed,Mon-Fri
+21,1654,Cargo,Daily
+3,1053,Cargo,Mon-Fri
+21,197,Mixed,Daily
+24,2352,Cargo,"Mon, Wed, Fri"
+10,4012,Cargo,Weekends
+13,2971,Passenger,"Tue, Thu"
+7,360,Passenger,Mon-Fri
+24,2326,Cargo,"Tue, Thu"
+2,4685,Cargo,"Tue, Thu"
+18,2752,Mixed,Daily
+14,1152,Mixed,"Mon, Wed, Fri"
+9,2405,Passenger,"Tue, Thu"
+3,4846,Passenger,Daily
+13,3693,Mixed,Weekends
+2,2792,Mixed,"Mon, Wed, Fri"
+25,3631,Mixed,Daily
+21,1117,Mixed,Weekends
+12,2925,Passenger,"Tue, Thu"
+21,4250,Passenger,"Tue, Thu"
+21,2263,Passenger,Daily
+17,3356,Mixed,"Tue, Thu"
+3,3878,Passenger,Weekends
+12,3348,Mixed,Daily
+5,2237,Mixed,Daily
+8,4717,Passenger,Weekends
+14,4329,Mixed,Weekends
+8,4106,Mixed,Mon-Fri
+5,1674,Cargo,Daily
+21,3931,Passenger,"Mon, Wed, Fri"
+24,1277,Mixed,Weekends
+17,1456,Passenger,"Mon, Wed, Fri"
+9,4106,Passenger,"Mon, Wed, Fri"
+25,927,Cargo,"Mon, Wed, Fri"
+11,1115,Cargo,"Mon, Wed, Fri"
+11,3944,Cargo,Daily
+16,2740,Mixed,"Mon, Wed, Fri"
+25,753,Mixed,Weekends
+7,1013,Passenger,Daily
+12,1123,Cargo,Weekends
+18,2734,Passenger,"Tue, Thu"
+15,445,Cargo,"Tue, Thu"
+5,1484,Passenger,"Tue, Thu"
+12,2029,Cargo,Weekends
+12,4435,Cargo,Weekends
+17,4727,Cargo,Weekends
+23,980,Passenger,Weekends
+17,387,Cargo,Weekends
+11,4166,Passenger,Daily
+4,767,Mixed,Mon-Fri
+8,605,Cargo,Mon-Fri
+9,2306,Cargo,Weekends
+23,8,Cargo,Daily
+22,4474,Cargo,Weekends
+4,562,Passenger,"Mon, Wed, Fri"
+3,2884,Cargo,"Tue, Thu"
+14,4582,Passenger,Daily
+1,4159,Cargo,"Mon, Wed, Fri"
+11,3735,Mixed,"Mon, Wed, Fri"
+6,2382,Cargo,Weekends
+7,4912,Cargo,Daily
+4,1852,Passenger,Mon-Fri
+17,2539,Passenger,Daily
+14,2138,Cargo,Weekends
+25,1420,Mixed,"Mon, Wed, Fri"
+11,3338,Cargo,"Tue, Thu"
+19,1688,Mixed,"Tue, Thu"
+17,2878,Cargo,"Mon, Wed, Fri"
+14,3638,Cargo,"Tue, Thu"
+11,3487,Passenger,Daily
+1,1418,Cargo,Daily
+8,3564,Mixed,"Tue, Thu"
+23,3585,Passenger,Daily
+11,625,Passenger,Weekends
+9,1665,Mixed,Mon-Fri
+12,758,Passenger,Daily
+16,2260,Mixed,Mon-Fri
+14,2346,Passenger,"Tue, Thu"
+5,4426,Passenger,"Tue, Thu"
+9,498,Mixed,Daily
+15,4663,Mixed,"Tue, Thu"
+8,122,Mixed,Daily
+9,967,Mixed,Daily
+20,1355,Cargo,Mon-Fri
+4,4249,Passenger,Mon-Fri
+1,2133,Mixed,"Mon, Wed, Fri"
+14,3189,Cargo,Weekends
+15,4009,Cargo,Weekends
+23,951,Mixed,Mon-Fri
+10,3388,Mixed,Mon-Fri
+16,4455,Passenger,Weekends
+25,2564,Cargo,"Mon, Wed, Fri"
+23,2463,Cargo,"Mon, Wed, Fri"
+11,580,Mixed,Daily
+22,2585,Passenger,"Mon, Wed, Fri"
+15,3168,Cargo,"Tue, Thu"
+9,3228,Mixed,"Mon, Wed, Fri"
+18,3157,Cargo,Daily
+15,2534,Passenger,Daily
+23,3516,Cargo,Weekends
+24,1296,Mixed,Weekends
+23,874,Mixed,"Mon, Wed, Fri"
+22,1082,Passenger,Mon-Fri
+24,4232,Cargo,"Mon, Wed, Fri"
+25,3154,Mixed,"Tue, Thu"
+3,25,Mixed,"Mon, Wed, Fri"
+4,1925,Passenger,Mon-Fri
+3,4511,Mixed,"Mon, Wed, Fri"
+5,3043,Cargo,"Mon, Wed, Fri"
+16,65,Passenger,"Mon, Wed, Fri"
+22,4416,Mixed,"Tue, Thu"
+13,4731,Cargo,Mon-Fri
+2,1924,Cargo,Mon-Fri
+13,1248,Cargo,Weekends
+10,4799,Cargo,"Mon, Wed, Fri"
+2,2273,Mixed,Weekends
+15,2946,Passenger,Weekends
+14,611,Mixed,Mon-Fri
+19,2623,Passenger,"Tue, Thu"
+8,1675,Mixed,Mon-Fri
+13,3763,Mixed,Daily
+4,3803,Passenger,Mon-Fri
+12,2756,Passenger,Mon-Fri
+12,3331,Passenger,"Mon, Wed, Fri"
+17,760,Cargo,Mon-Fri
+2,1257,Mixed,Daily
+22,4694,Mixed,"Tue, Thu"
+19,1918,Mixed,"Mon, Wed, Fri"
+18,4266,Passenger,Weekends
+15,3123,Mixed,Daily
+13,1927,Mixed,"Tue, Thu"
+8,4842,Passenger,"Mon, Wed, Fri"
+21,2095,Cargo,Daily
+2,4240,Mixed,"Tue, Thu"
+15,2082,Passenger,"Mon, Wed, Fri"
+20,3710,Passenger,Daily
+24,3064,Cargo,Mon-Fri
+23,4557,Cargo,Weekends
+7,2163,Mixed,Weekends
+24,419,Cargo,"Tue, Thu"
+16,2514,Passenger,Weekends
+23,1846,Passenger,Daily
+23,2884,Mixed,Daily
+13,3708,Mixed,Daily
+13,653,Passenger,"Tue, Thu"
+4,707,Mixed,Mon-Fri
+2,4328,Passenger,Mon-Fri
+23,1992,Passenger,"Tue, Thu"
+3,3460,Cargo,Mon-Fri
+25,3592,Passenger,Daily
+5,2269,Passenger,Weekends
+22,4528,Cargo,Weekends
+21,231,Mixed,Mon-Fri
+8,2502,Passenger,"Tue, Thu"
+5,495,Passenger,Mon-Fri
+9,4560,Cargo,"Tue, Thu"
+1,2322,Cargo,"Tue, Thu"
+4,843,Passenger,Weekends
+6,2209,Passenger,"Mon, Wed, Fri"
+17,1271,Mixed,Weekends
+1,910,Cargo,Mon-Fri
+11,2717,Mixed,Mon-Fri
+10,1577,Passenger,"Tue, Thu"
+18,1139,Cargo,Daily
+16,3210,Cargo,"Mon, Wed, Fri"
+22,261,Cargo,Weekends
+16,888,Passenger,Daily
+7,876,Cargo,Weekends
+15,2260,Cargo,Daily
+1,2739,Mixed,Mon-Fri
+9,4143,Mixed,"Tue, Thu"
+22,3444,Passenger,Mon-Fri
+7,1231,Mixed,Daily
+22,1788,Mixed,Daily
+3,3800,Passenger,"Mon, Wed, Fri"
+17,1862,Passenger,"Mon, Wed, Fri"
+23,1423,Passenger,"Mon, Wed, Fri"
+11,4876,Mixed,"Tue, Thu"
+7,4971,Cargo,Daily
+6,1891,Cargo,"Tue, Thu"
+6,4587,Cargo,"Mon, Wed, Fri"
+11,1990,Cargo,"Tue, Thu"
+7,484,Cargo,Weekends
+22,4454,Cargo,Daily
+19,113,Mixed,Weekends
+24,1374,Cargo,Mon-Fri
+21,588,Passenger,Daily
+14,4934,Mixed,Daily
+23,4675,Mixed,Daily
+6,1772,Cargo,"Tue, Thu"
+11,891,Cargo,"Tue, Thu"
+8,2685,Passenger,"Mon, Wed, Fri"
+2,2064,Mixed,Weekends
+15,3862,Passenger,"Mon, Wed, Fri"
+16,730,Mixed,Daily
+5,3396,Cargo,"Mon, Wed, Fri"
+4,1874,Passenger,Daily
+3,3958,Mixed,"Mon, Wed, Fri"
+9,3572,Passenger,Daily
+25,767,Passenger,"Tue, Thu"
+10,1402,Cargo,Weekends
+25,2881,Mixed,Daily
+2,828,Mixed,"Tue, Thu"
+12,4756,Mixed,"Tue, Thu"
+21,2491,Passenger,"Mon, Wed, Fri"
+6,1811,Cargo,Weekends
+17,2243,Cargo,Weekends
+16,4525,Cargo,Daily
+22,1237,Cargo,"Mon, Wed, Fri"
+18,191,Passenger,"Tue, Thu"
+11,4397,Mixed,Daily
+16,956,Cargo,"Tue, Thu"
+20,2248,Cargo,"Mon, Wed, Fri"
+8,2029,Mixed,Mon-Fri
+6,358,Mixed,Weekends
+12,1173,Cargo,Daily
+6,4480,Mixed,Weekends
+22,2583,Mixed,Weekends
+11,4846,Passenger,Mon-Fri
+4,2793,Mixed,"Tue, Thu"
+2,1952,Cargo,Mon-Fri
+12,3514,Cargo,"Mon, Wed, Fri"
+5,1290,Passenger,"Mon, Wed, Fri"
+5,3074,Mixed,"Tue, Thu"
+13,1486,Cargo,Weekends
+5,1205,Cargo,Weekends
+8,3232,Passenger,"Tue, Thu"
+2,1324,Passenger,Daily
+10,224,Cargo,Daily
+18,375,Passenger,"Mon, Wed, Fri"
+3,3690,Cargo,"Mon, Wed, Fri"
+16,656,Cargo,"Mon, Wed, Fri"
+19,803,Passenger,Daily
+1,4744,Passenger,Weekends
+2,1526,Passenger,Weekends
+21,3802,Mixed,Daily
+4,4008,Cargo,Mon-Fri
+24,3771,Cargo,Mon-Fri
+22,3877,Cargo,"Mon, Wed, Fri"
+25,3873,Passenger,"Mon, Wed, Fri"
+15,3265,Mixed,Daily
+6,4578,Mixed,Weekends
+3,4045,Mixed,Daily
+10,2812,Mixed,Weekends
+19,1913,Cargo,"Mon, Wed, Fri"
+11,500,Passenger,Weekends
+8,3089,Mixed,Daily
+23,570,Mixed,Weekends
+22,371,Passenger,Daily
+7,309,Mixed,"Mon, Wed, Fri"
+19,4913,Mixed,Daily
+2,3039,Mixed,Mon-Fri
+4,468,Passenger,Mon-Fri
+9,2964,Cargo,Weekends
+19,428,Passenger,Daily
+24,1535,Mixed,Mon-Fri
+7,2045,Cargo,Daily
+5,66,Mixed,Weekends
+24,1107,Cargo,"Tue, Thu"
+19,1071,Mixed,Daily
+5,1463,Passenger,"Tue, Thu"
+7,2191,Mixed,"Mon, Wed, Fri"
+25,3750,Mixed,Daily
+14,3666,Mixed,"Tue, Thu"
+4,4885,Cargo,Weekends
+10,3174,Passenger,"Tue, Thu"
+16,1213,Passenger,Daily
+8,709,Passenger,Daily
+21,4302,Mixed,Mon-Fri
+4,2985,Mixed,Daily
+14,928,Cargo,Daily
+7,4732,Passenger,"Tue, Thu"
+9,4389,Passenger,Daily
+18,3497,Passenger,"Mon, Wed, Fri"
+7,3568,Passenger,Mon-Fri
+10,2485,Mixed,"Tue, Thu"
+16,4388,Passenger,Mon-Fri
+9,4384,Cargo,Mon-Fri
+17,2542,Mixed,"Mon, Wed, Fri"
+3,4500,Cargo,Daily
+25,1059,Mixed,Weekends
+6,2344,Cargo,Weekends
+18,3118,Cargo,Mon-Fri
+9,870,Mixed,Daily
+22,2721,Passenger,Weekends
+5,4287,Mixed,"Mon, Wed, Fri"
+20,1179,Cargo,Daily
+15,3397,Cargo,"Tue, Thu"
+6,4212,Mixed,"Tue, Thu"
+2,1186,Mixed,Mon-Fri
+1,4802,Passenger,Weekends
+9,1792,Mixed,"Tue, Thu"
+19,3895,Cargo,"Mon, Wed, Fri"
+1,3544,Cargo,Weekends
+25,4290,Cargo,Mon-Fri
+11,3917,Passenger,"Tue, Thu"
+22,4905,Mixed,Mon-Fri
+11,915,Mixed,Weekends
+2,1202,Mixed,Mon-Fri
+2,3212,Passenger,"Mon, Wed, Fri"
+17,1727,Mixed,"Mon, Wed, Fri"
+15,4805,Mixed,Mon-Fri
+1,519,Mixed,Weekends
+4,4086,Passenger,Weekends
+4,1577,Passenger,Mon-Fri
+21,3000,Mixed,"Mon, Wed, Fri"
+24,173,Passenger,Weekends
+19,862,Cargo,"Mon, Wed, Fri"
+21,3653,Cargo,Mon-Fri
+14,4861,Passenger,Mon-Fri
+19,3804,Passenger,"Tue, Thu"
+23,4328,Passenger,"Tue, Thu"
+14,852,Passenger,Daily
+14,2240,Cargo,"Tue, Thu"
+2,1821,Passenger,Weekends
+24,3254,Mixed,"Mon, Wed, Fri"
+7,1514,Cargo,"Mon, Wed, Fri"
+5,946,Cargo,Mon-Fri
+15,217,Passenger,"Mon, Wed, Fri"
+12,3802,Passenger,"Tue, Thu"
+5,1336,Cargo,"Tue, Thu"
+5,3266,Mixed,"Tue, Thu"
+17,4593,Passenger,Weekends
+10,3442,Mixed,"Mon, Wed, Fri"
+11,4169,Passenger,"Tue, Thu"
+10,1331,Cargo,"Tue, Thu"
+11,4753,Cargo,Mon-Fri
+3,570,Passenger,"Tue, Thu"
+7,1516,Cargo,Mon-Fri
+16,1532,Cargo,"Mon, Wed, Fri"
+15,4165,Passenger,Mon-Fri
+15,2604,Cargo,Mon-Fri
+21,4658,Mixed,"Tue, Thu"
+13,3219,Mixed,Daily
+3,4137,Passenger,"Tue, Thu"
+24,1231,Cargo,"Mon, Wed, Fri"
+2,4172,Cargo,Daily
+5,1876,Mixed,"Tue, Thu"
+4,709,Mixed,Daily
+11,2353,Passenger,Weekends
+18,3167,Passenger,Daily
+6,2220,Cargo,Daily
+10,2673,Cargo,Daily
+18,3718,Passenger,Mon-Fri
+13,500,Cargo,Daily
+2,1959,Passenger,Mon-Fri
+11,1141,Passenger,Daily
+24,837,Passenger,"Mon, Wed, Fri"
+17,996,Mixed,Weekends
+14,919,Cargo,Mon-Fri
+1,4661,Cargo,Daily
+16,2737,Passenger,Weekends
+16,4776,Cargo,Weekends
+1,272,Passenger,Daily
+6,2089,Cargo,Mon-Fri
+1,3384,Mixed,"Tue, Thu"
+6,4836,Mixed,Mon-Fri
+10,1887,Mixed,Mon-Fri
+24,3432,Passenger,Mon-Fri
+9,1937,Passenger,"Tue, Thu"
+14,1812,Passenger,Weekends
+10,2696,Passenger,Weekends
+7,382,Mixed,"Mon, Wed, Fri"
+25,3848,Cargo,"Tue, Thu"
+24,4304,Cargo,"Tue, Thu"
+1,2560,Passenger,Mon-Fri
+20,3460,Cargo,Weekends
+5,2863,Passenger,"Tue, Thu"
+14,2545,Passenger,"Tue, Thu"
+6,1211,Mixed,Weekends
+5,2991,Mixed,Daily
+22,4253,Passenger,"Mon, Wed, Fri"
+7,3969,Passenger,"Mon, Wed, Fri"
+23,2880,Cargo,"Mon, Wed, Fri"
+21,154,Mixed,Mon-Fri
+23,3811,Cargo,Weekends
+12,1807,Cargo,Mon-Fri
+22,1358,Passenger,"Tue, Thu"
+16,243,Passenger,Weekends
+3,2755,Cargo,Daily
+13,1741,Cargo,Daily
+19,3890,Passenger,Mon-Fri
+25,307,Cargo,Weekends
+7,2495,Cargo,Daily
+24,2254,Mixed,Daily
+9,320,Passenger,Daily
+4,4226,Mixed,Mon-Fri
+19,2285,Cargo,Weekends
+18,1019,Cargo,Mon-Fri
+1,2998,Passenger,Weekends
+20,2175,Mixed,Mon-Fri
+6,727,Cargo,"Tue, Thu"
+18,2511,Cargo,"Tue, Thu"
+18,2955,Cargo,"Tue, Thu"
+7,3271,Mixed,Mon-Fri
+6,3148,Mixed,Mon-Fri
+23,1884,Cargo,"Tue, Thu"
+13,1684,Passenger,"Mon, Wed, Fri"
+16,419,Cargo,Weekends
+20,3914,Mixed,Mon-Fri
+11,4504,Passenger,"Mon, Wed, Fri"
+25,2037,Passenger,Mon-Fri
+9,4026,Passenger,Mon-Fri
+10,3312,Passenger,Weekends
+16,4580,Mixed,Weekends
+17,1768,Passenger,Mon-Fri
+17,3524,Passenger,Daily
+24,3309,Cargo,Mon-Fri
+12,975,Cargo,Mon-Fri
+8,1266,Passenger,Weekends
+7,1092,Passenger,"Mon, Wed, Fri"
+23,4464,Cargo,Weekends
+12,1692,Cargo,Weekends
+13,1856,Cargo,Daily
+3,4591,Mixed,Weekends
+7,3874,Cargo,"Mon, Wed, Fri"
+25,4691,Passenger,Weekends
+4,2390,Passenger,Weekends
+11,349,Passenger,Daily
+24,3357,Mixed,Daily
+10,4390,Mixed,"Mon, Wed, Fri"
+18,4242,Cargo,Weekends
+3,315,Cargo,"Mon, Wed, Fri"
+12,3812,Cargo,Daily
+10,4591,Cargo,Daily
+6,3167,Passenger,"Mon, Wed, Fri"
+18,4391,Cargo,"Tue, Thu"
+2,4119,Cargo,Mon-Fri
+6,3389,Mixed,Weekends
+9,188,Cargo,Mon-Fri
+10,125,Cargo,Daily
+24,3365,Cargo,Weekends
+9,4589,Cargo,"Tue, Thu"
+21,221,Mixed,Weekends
+17,887,Passenger,"Mon, Wed, Fri"
+11,4872,Cargo,Weekends
+22,4625,Passenger,Mon-Fri
+18,3776,Cargo,Mon-Fri
+19,1529,Cargo,Daily
+12,1539,Mixed,Weekends
+17,973,Mixed,Mon-Fri
+17,2809,Mixed,"Mon, Wed, Fri"
+18,1426,Cargo,Mon-Fri
+15,3402,Mixed,Mon-Fri
+22,4752,Passenger,"Mon, Wed, Fri"
+7,4330,Passenger,Mon-Fri
+2,2813,Mixed,Weekends
+12,4832,Passenger,Weekends
+22,4165,Mixed,Daily
+20,4374,Mixed,"Mon, Wed, Fri"
+16,4942,Passenger,"Mon, Wed, Fri"
+18,3078,Cargo,Mon-Fri
+15,2995,Passenger,Daily
+19,2937,Cargo,Weekends
+19,1303,Cargo,Daily
+13,1945,Mixed,"Tue, Thu"
+7,3448,Cargo,Weekends
+21,4816,Cargo,"Mon, Wed, Fri"
+9,2220,Passenger,"Tue, Thu"
+2,1951,Passenger,Daily
+7,2212,Passenger,Daily
+1,4461,Cargo,"Tue, Thu"
+2,1252,Passenger,Mon-Fri
+25,3153,Passenger,Daily
+11,577,Cargo,Daily
+17,2326,Passenger,"Tue, Thu"
+7,3679,Cargo,Daily
+6,4798,Passenger,"Mon, Wed, Fri"
+8,2841,Passenger,"Tue, Thu"
+21,4143,Mixed,Weekends
+6,642,Cargo,Mon-Fri
+11,4776,Mixed,"Tue, Thu"
+22,3828,Passenger,"Mon, Wed, Fri"
+13,1582,Cargo,Weekends
+3,980,Passenger,Daily
+12,3644,Mixed,"Mon, Wed, Fri"
+9,2546,Cargo,Daily
+23,2163,Mixed,Mon-Fri
+6,555,Cargo,Mon-Fri
+16,2900,Passenger,Mon-Fri
+15,1170,Passenger,"Tue, Thu"
+12,2484,Cargo,Weekends
+3,4497,Mixed,Mon-Fri
+25,2500,Mixed,"Tue, Thu"
+25,3448,Passenger,Daily
+18,40,Cargo,Daily
+20,355,Passenger,Weekends
+22,818,Passenger,"Tue, Thu"
+21,395,Cargo,Mon-Fri
+22,4975,Mixed,"Tue, Thu"
+3,2703,Cargo,Mon-Fri
+4,1587,Mixed,Mon-Fri
+2,101,Passenger,Mon-Fri
+23,4246,Cargo,Mon-Fri
+21,4020,Passenger,Daily
+20,1140,Cargo,Weekends
+22,4861,Cargo,Daily
+10,3015,Mixed,Mon-Fri
+20,1601,Cargo,"Tue, Thu"
+14,3959,Cargo,Daily
+6,341,Passenger,Mon-Fri
+11,2315,Passenger,Mon-Fri
+20,4454,Cargo,Weekends
+18,4524,Cargo,"Tue, Thu"
+12,4392,Passenger,Daily
+17,352,Cargo,"Tue, Thu"
+10,1062,Mixed,"Tue, Thu"
+18,3456,Mixed,Mon-Fri
+4,674,Cargo,Mon-Fri
+18,1637,Cargo,"Tue, Thu"
+4,1295,Passenger,Daily
+11,3838,Passenger,Weekends
+12,210,Mixed,"Mon, Wed, Fri"
+7,3811,Passenger,Mon-Fri
+22,4561,Mixed,"Mon, Wed, Fri"
+13,2564,Passenger,"Tue, Thu"
+23,792,Mixed,"Mon, Wed, Fri"
+20,3726,Passenger,Daily
+10,4071,Mixed,Weekends
+15,2122,Mixed,Mon-Fri
+10,2906,Passenger,"Tue, Thu"
+8,425,Cargo,"Tue, Thu"
+24,1217,Cargo,Weekends
+3,646,Passenger,Daily
+5,4440,Passenger,Weekends
+23,3399,Cargo,Weekends
+18,2102,Mixed,"Tue, Thu"
+16,4777,Cargo,Weekends
+4,3947,Passenger,Weekends
+5,4555,Mixed,"Mon, Wed, Fri"
+24,2104,Cargo,Mon-Fri
+1,1078,Passenger,Daily
+1,62,Cargo,Mon-Fri
+9,832,Mixed,"Tue, Thu"
+9,5,Mixed,"Mon, Wed, Fri"
+13,4465,Passenger,Daily
+17,3675,Mixed,Daily
+25,4573,Mixed,Daily
+12,1286,Mixed,"Tue, Thu"
+4,3616,Passenger,Daily
+18,1252,Mixed,"Tue, Thu"
+2,2040,Mixed,Mon-Fri
+1,4276,Cargo,Daily
+14,2715,Mixed,Mon-Fri
+13,3618,Mixed,"Tue, Thu"
+16,1960,Mixed,Weekends
+22,4246,Mixed,Mon-Fri
+20,1237,Passenger,Mon-Fri
+1,4292,Cargo,"Mon, Wed, Fri"
+4,2933,Cargo,Mon-Fri
+6,4642,Passenger,"Tue, Thu"
+5,4537,Cargo,"Tue, Thu"
+1,1001,Cargo,"Mon, Wed, Fri"
+17,2875,Cargo,Weekends
+10,2042,Mixed,Weekends
+22,189,Passenger,Mon-Fri
+6,31,Mixed,Weekends
+12,42,Cargo,"Tue, Thu"
+8,2015,Cargo,Daily
+1,932,Cargo,"Tue, Thu"
+2,2822,Cargo,Daily
+6,507,Cargo,"Tue, Thu"
+21,4323,Passenger,"Tue, Thu"
+22,2244,Passenger,Weekends
+22,1124,Cargo,"Tue, Thu"
+21,2070,Cargo,Daily
+1,3001,Mixed,"Mon, Wed, Fri"
+21,2272,Passenger,Daily
+12,3735,Mixed,"Mon, Wed, Fri"
+24,1226,Cargo,"Tue, Thu"
+21,2437,Cargo,"Tue, Thu"
+8,1501,Mixed,Weekends
+16,4035,Cargo,"Tue, Thu"
+18,3333,Passenger,Daily
+15,3801,Cargo,Weekends
+16,2048,Passenger,"Mon, Wed, Fri"
+22,3468,Mixed,Mon-Fri
+10,3974,Mixed,Daily
+2,3559,Cargo,Weekends
+16,4290,Cargo,Mon-Fri
+7,1924,Cargo,"Mon, Wed, Fri"
+8,1317,Mixed,"Tue, Thu"
+18,4183,Cargo,Mon-Fri
+15,600,Mixed,Daily
+9,2675,Cargo,"Mon, Wed, Fri"
+25,4767,Mixed,Daily
+1,3529,Cargo,Weekends
+13,1279,Mixed,"Tue, Thu"
+9,2677,Mixed,"Mon, Wed, Fri"
+6,1311,Cargo,"Mon, Wed, Fri"
+20,3957,Mixed,Weekends
+17,994,Passenger,Weekends
+9,4448,Passenger,"Tue, Thu"
+10,4758,Cargo,Mon-Fri
+12,1421,Cargo,Daily
+1,3899,Cargo,Mon-Fri
+17,3167,Passenger,Weekends
+20,2540,Cargo,Weekends
+8,2155,Cargo,Daily
+15,2819,Passenger,Mon-Fri
+11,446,Cargo,"Tue, Thu"
+11,708,Passenger,"Tue, Thu"
+15,1160,Mixed,Weekends
+20,3328,Cargo,"Mon, Wed, Fri"
+11,2461,Cargo,Daily
+13,4067,Cargo,Daily
+8,1896,Passenger,Mon-Fri
+3,2795,Passenger,Daily
+3,3486,Cargo,Weekends
+19,4052,Cargo,Mon-Fri
+24,1426,Cargo,"Tue, Thu"
+14,3311,Passenger,"Mon, Wed, Fri"
+25,4003,Cargo,Daily
+23,1390,Cargo,"Mon, Wed, Fri"
+14,1377,Cargo,Daily
+13,4337,Mixed,Daily
+12,655,Cargo,"Mon, Wed, Fri"
+20,4837,Mixed,"Tue, Thu"
+11,3372,Cargo,Weekends
+13,1472,Passenger,Daily
+24,4462,Cargo,Weekends
+16,3007,Passenger,Weekends
+8,1712,Passenger,Daily
+18,3993,Cargo,"Tue, Thu"
+16,689,Cargo,Daily
+4,3759,Mixed,"Tue, Thu"
+13,3766,Cargo,"Tue, Thu"
+7,645,Cargo,Weekends
+7,3932,Passenger,"Tue, Thu"
+9,88,Passenger,"Mon, Wed, Fri"
+9,4359,Passenger,"Mon, Wed, Fri"
+12,1795,Passenger,"Tue, Thu"
+5,3372,Cargo,"Tue, Thu"
+10,4872,Mixed,Daily
+10,4125,Passenger,Mon-Fri
+7,2662,Passenger,"Tue, Thu"
+14,4466,Cargo,"Tue, Thu"
+16,4228,Cargo,"Mon, Wed, Fri"
+7,394,Passenger,"Mon, Wed, Fri"
+4,351,Cargo,"Tue, Thu"
+19,299,Mixed,Mon-Fri
+3,4300,Passenger,Daily
+2,1215,Passenger,Weekends
+4,1370,Mixed,Daily
+2,1259,Mixed,Weekends
+19,569,Cargo,Weekends
+1,522,Mixed,"Tue, Thu"
+12,2363,Mixed,Daily
+2,384,Mixed,Mon-Fri
+8,1623,Cargo,Daily
+13,4972,Mixed,"Mon, Wed, Fri"
+12,2348,Passenger,Daily
+22,141,Cargo,"Mon, Wed, Fri"
+14,4610,Passenger,Daily
+21,4843,Passenger,"Tue, Thu"
+14,3877,Passenger,Weekends
+7,1219,Cargo,"Tue, Thu"
+12,53,Mixed,"Mon, Wed, Fri"
+3,3671,Mixed,"Tue, Thu"
+12,1258,Passenger,Weekends
+2,743,Mixed,Mon-Fri
+1,1946,Cargo,Mon-Fri
+17,3749,Mixed,"Mon, Wed, Fri"
+4,3945,Passenger,Daily
+12,132,Cargo,"Mon, Wed, Fri"
+16,4844,Passenger,Weekends
+5,2945,Cargo,"Mon, Wed, Fri"
+2,2856,Passenger,Mon-Fri
+5,3788,Passenger,"Tue, Thu"
+10,4202,Passenger,"Tue, Thu"
+9,3089,Cargo,Daily
+16,3079,Passenger,Mon-Fri
+22,3533,Cargo,Mon-Fri
+7,993,Mixed,Mon-Fri
+23,3760,Passenger,Mon-Fri
+20,3579,Mixed,Mon-Fri
+12,1339,Mixed,Daily
+22,3790,Mixed,"Tue, Thu"
+2,2812,Cargo,Mon-Fri
+23,1565,Cargo,Weekends
+2,2770,Cargo,"Mon, Wed, Fri"
+3,3557,Cargo,Weekends
+25,896,Mixed,Daily
+20,2088,Passenger,"Mon, Wed, Fri"
+3,916,Passenger,Weekends
+16,3627,Passenger,"Tue, Thu"
+25,229,Cargo,"Tue, Thu"
+3,1853,Mixed,"Mon, Wed, Fri"
+20,99,Passenger,"Tue, Thu"
+5,2319,Passenger,"Mon, Wed, Fri"
+22,1249,Cargo,Mon-Fri
+25,724,Cargo,Daily
+1,3358,Mixed,Weekends
+16,209,Mixed,Mon-Fri
+5,1929,Mixed,Weekends
+25,4016,Cargo,"Tue, Thu"
+11,380,Passenger,Daily
+23,2464,Mixed,"Mon, Wed, Fri"
+6,661,Passenger,Weekends
+6,4531,Passenger,"Mon, Wed, Fri"
+13,4199,Passenger,Mon-Fri
+9,3859,Passenger,Weekends
+3,681,Passenger,Mon-Fri
+1,2764,Passenger,Daily
+4,3550,Cargo,"Mon, Wed, Fri"
+9,2971,Cargo,Weekends
+22,1684,Cargo,Weekends
+21,1003,Cargo,Mon-Fri
+9,3057,Passenger,Weekends
+1,2929,Mixed,Daily
+23,4252,Passenger,"Tue, Thu"
+9,1185,Passenger,"Mon, Wed, Fri"
+7,446,Mixed,"Mon, Wed, Fri"
+18,2832,Cargo,"Tue, Thu"
+12,3304,Mixed,"Mon, Wed, Fri"
+19,1790,Passenger,"Tue, Thu"
+1,1201,Passenger,"Tue, Thu"
+10,1096,Passenger,"Mon, Wed, Fri"
+1,4457,Mixed,"Tue, Thu"
+22,252,Cargo,Daily
+16,3300,Mixed,Weekends
+21,3993,Cargo,"Mon, Wed, Fri"
+23,680,Mixed,"Tue, Thu"
+3,3148,Mixed,Daily
+19,2002,Passenger,Weekends
+11,2380,Cargo,Mon-Fri
+1,683,Passenger,Weekends
+12,2790,Cargo,Daily
+21,2512,Passenger,Daily
+13,4481,Mixed,Daily
+8,4764,Mixed,Daily
+8,2232,Cargo,"Tue, Thu"
+14,4741,Mixed,"Tue, Thu"
+3,2099,Passenger,Weekends
+18,3564,Passenger,Weekends
+18,3025,Mixed,Weekends
+16,3724,Mixed,Mon-Fri
+13,3182,Passenger,Daily
+7,4113,Cargo,Mon-Fri
+19,3201,Mixed,Daily
+20,4395,Cargo,Weekends
+9,3323,Mixed,Mon-Fri
+5,1800,Mixed,Mon-Fri
+24,3630,Passenger,Weekends
+7,3713,Passenger,"Tue, Thu"
+11,1607,Mixed,"Tue, Thu"
+17,2941,Cargo,"Tue, Thu"
+17,4862,Cargo,Daily
+1,341,Passenger,"Mon, Wed, Fri"
+13,3543,Mixed,Weekends
+6,2790,Passenger,"Tue, Thu"
+10,3381,Mixed,"Mon, Wed, Fri"
+1,3238,Passenger,Weekends
+4,3278,Cargo,Weekends
+17,311,Passenger,Mon-Fri
+11,1795,Passenger,"Tue, Thu"
+19,1874,Cargo,Daily
+6,3619,Mixed,"Tue, Thu"
+7,931,Passenger,Mon-Fri
+15,3498,Cargo,Weekends
+5,4832,Passenger,Daily
+9,949,Mixed,Mon-Fri
+10,3780,Mixed,Weekends
+1,2991,Passenger,"Tue, Thu"
+2,2214,Mixed,Weekends
+12,4616,Passenger,"Tue, Thu"
+4,3751,Passenger,"Tue, Thu"
+12,2489,Cargo,"Tue, Thu"
+19,3824,Mixed,"Tue, Thu"
+4,1262,Cargo,Weekends
+11,4600,Passenger,Mon-Fri
+19,4080,Mixed,"Tue, Thu"
+24,4694,Passenger,Weekends
+12,3439,Passenger,"Tue, Thu"
+16,75,Mixed,Daily
+24,2443,Passenger,Mon-Fri
+8,2686,Mixed,Mon-Fri
+2,2058,Passenger,"Mon, Wed, Fri"
+3,3368,Passenger,Daily
+17,1188,Mixed,Daily
+2,195,Cargo,"Mon, Wed, Fri"
+7,2705,Passenger,"Tue, Thu"
+11,1858,Cargo,Mon-Fri
+13,1250,Cargo,"Mon, Wed, Fri"
+16,1680,Mixed,Mon-Fri
+17,1457,Cargo,Daily
+8,4686,Passenger,Weekends
+25,4451,Mixed,Weekends
+7,4165,Passenger,"Mon, Wed, Fri"
+13,184,Cargo,Weekends
+12,623,Cargo,Mon-Fri
+5,4552,Mixed,Daily
+23,859,Passenger,"Mon, Wed, Fri"
+14,2861,Mixed,Daily
+1,4507,Mixed,"Tue, Thu"
+23,584,Mixed,Mon-Fri
+12,1801,Passenger,"Mon, Wed, Fri"
+24,1196,Passenger,Weekends
+10,2976,Cargo,Daily
+23,2957,Cargo,"Mon, Wed, Fri"
+4,4753,Mixed,"Tue, Thu"
+15,4660,Mixed,Mon-Fri
+15,741,Passenger,Mon-Fri
+8,417,Cargo,Daily
+25,3195,Cargo,Weekends
+10,4596,Cargo,Mon-Fri
+10,935,Cargo,Mon-Fri
+20,1116,Passenger,Weekends
+21,3012,Passenger,"Tue, Thu"
+3,264,Cargo,"Mon, Wed, Fri"
+1,1635,Cargo,"Tue, Thu"
+24,400,Cargo,"Mon, Wed, Fri"
+20,219,Mixed,"Tue, Thu"
+18,4660,Cargo,Mon-Fri
+20,1290,Passenger,"Tue, Thu"
+9,503,Passenger,Daily
+5,447,Cargo,Daily
+22,968,Mixed,Daily
+25,2499,Mixed,"Tue, Thu"
+13,1725,Cargo,Daily
+22,1093,Cargo,Daily
+13,926,Passenger,Weekends
+22,1130,Cargo,Mon-Fri
+9,4803,Cargo,"Tue, Thu"
+4,254,Passenger,Mon-Fri
+17,1104,Cargo,Mon-Fri
+18,747,Passenger,"Tue, Thu"
+21,2908,Passenger,"Tue, Thu"
+11,107,Mixed,"Mon, Wed, Fri"
+20,1026,Passenger,Daily
+12,668,Mixed,Mon-Fri
+25,769,Passenger,"Mon, Wed, Fri"
+6,3453,Mixed,"Tue, Thu"
+24,2506,Mixed,Daily
+15,333,Mixed,Daily
+3,297,Passenger,Mon-Fri
+14,4915,Mixed,Mon-Fri
+13,232,Passenger,Weekends
+9,1627,Passenger,"Mon, Wed, Fri"
+20,865,Mixed,"Mon, Wed, Fri"
+25,2715,Mixed,"Tue, Thu"
+4,312,Cargo,"Tue, Thu"
+4,304,Cargo,"Mon, Wed, Fri"
+13,2540,Passenger,"Tue, Thu"
+18,2473,Mixed,Daily
+25,288,Mixed,"Mon, Wed, Fri"
+14,267,Mixed,Mon-Fri
+23,989,Mixed,"Mon, Wed, Fri"
+2,3090,Cargo,"Tue, Thu"
+17,1828,Mixed,Daily
+12,4765,Passenger,"Mon, Wed, Fri"
+17,942,Mixed,Weekends
+6,3739,Mixed,Weekends
+9,28,Passenger,Mon-Fri
+16,2526,Passenger,"Mon, Wed, Fri"
+7,178,Cargo,"Mon, Wed, Fri"
+17,2293,Mixed,Weekends
+24,2340,Cargo,"Tue, Thu"
+6,701,Mixed,"Mon, Wed, Fri"
+11,1745,Cargo,Daily
+4,2839,Mixed,Weekends
+13,4912,Passenger,Daily
+9,4080,Passenger,Weekends
+1,1034,Passenger,Daily
+9,4174,Passenger,Weekends
+10,29,Mixed,Daily
+9,1340,Mixed,"Tue, Thu"
+13,2519,Cargo,"Mon, Wed, Fri"
+19,2299,Cargo,Daily
+14,1638,Mixed,"Tue, Thu"
+16,2437,Passenger,"Tue, Thu"
+13,4720,Passenger,Weekends
+12,457,Mixed,Weekends
+1,1462,Mixed,Weekends
+12,4592,Cargo,Weekends
+20,2723,Mixed,Daily
+21,1010,Cargo,Mon-Fri
+4,4549,Mixed,Mon-Fri
+15,1255,Cargo,Mon-Fri
+17,1011,Passenger,Mon-Fri
+15,4266,Cargo,"Tue, Thu"
+2,1104,Passenger,Mon-Fri
+11,4172,Passenger,Daily
+17,3810,Mixed,Weekends
+12,1165,Mixed,"Tue, Thu"
+16,3320,Passenger,Weekends
+13,163,Cargo,Mon-Fri
+17,4175,Mixed,"Mon, Wed, Fri"
+16,1914,Mixed,Daily
+16,4207,Passenger,Mon-Fri
+22,1753,Passenger,"Tue, Thu"
+10,1064,Cargo,Weekends
+5,2930,Cargo,"Mon, Wed, Fri"
+10,2520,Mixed,Weekends
+10,893,Cargo,"Tue, Thu"
+25,4873,Passenger,Daily
+6,4502,Cargo,"Mon, Wed, Fri"
+22,2230,Cargo,Weekends
+5,815,Mixed,Mon-Fri
+24,4389,Passenger,Mon-Fri
+24,1003,Cargo,Weekends
+14,1604,Cargo,Mon-Fri
+24,3284,Mixed,Weekends
+7,826,Mixed,Mon-Fri
+12,2266,Cargo,Mon-Fri
+4,2026,Cargo,"Tue, Thu"
+5,2977,Cargo,Weekends
+2,2217,Passenger,"Mon, Wed, Fri"
+21,1276,Passenger,Daily
+2,141,Mixed,Daily
+23,3164,Passenger,Mon-Fri
+23,4615,Cargo,Mon-Fri
+4,1170,Mixed,"Mon, Wed, Fri"
+13,283,Mixed,"Tue, Thu"
+21,2098,Passenger,"Mon, Wed, Fri"
+13,1730,Cargo,Daily
+9,2852,Mixed,Mon-Fri
+9,1815,Cargo,Daily
+19,1488,Cargo,Weekends
+10,2770,Passenger,"Mon, Wed, Fri"
+14,3098,Mixed,Mon-Fri
+10,1227,Mixed,Mon-Fri
+6,3098,Mixed,Mon-Fri
+20,326,Mixed,Mon-Fri
+11,772,Cargo,Weekends
+13,350,Cargo,"Mon, Wed, Fri"
+20,2345,Passenger,"Tue, Thu"
+24,78,Cargo,"Tue, Thu"
+17,4501,Mixed,Mon-Fri
+14,3839,Cargo,Weekends
+21,1680,Cargo,"Tue, Thu"
+7,2471,Mixed,"Mon, Wed, Fri"
+13,1407,Cargo,Mon-Fri
+6,2562,Cargo,Weekends
+4,1835,Cargo,Mon-Fri
+14,4706,Cargo,Mon-Fri
+13,3978,Passenger,"Tue, Thu"
+12,1747,Cargo,Weekends
+5,754,Cargo,"Tue, Thu"
+16,1679,Cargo,Mon-Fri
+12,3358,Cargo,"Tue, Thu"
+2,3503,Passenger,Weekends
+15,1033,Passenger,"Tue, Thu"
+9,4971,Mixed,Daily
+2,1266,Mixed,Mon-Fri
+23,3643,Cargo,"Mon, Wed, Fri"
+20,2700,Cargo,Weekends
+17,4667,Mixed,Weekends
+22,1217,Passenger,Weekends
+3,2722,Mixed,"Mon, Wed, Fri"
+25,4969,Mixed,Mon-Fri
+23,3344,Passenger,"Tue, Thu"
+5,1931,Passenger,Weekends
+7,425,Cargo,"Mon, Wed, Fri"
+23,2739,Cargo,"Mon, Wed, Fri"
+8,4746,Cargo,Daily
+4,3899,Passenger,"Tue, Thu"
+4,38,Cargo,Daily
+22,4249,Mixed,"Tue, Thu"
+9,3243,Cargo,"Mon, Wed, Fri"
+25,2101,Cargo,Daily
+8,4689,Mixed,Daily
+24,4808,Passenger,Daily
+2,3130,Cargo,Weekends
+13,2391,Mixed,Daily
+15,1163,Cargo,Mon-Fri
+20,275,Mixed,Weekends
+10,4353,Passenger,Mon-Fri
+15,3671,Mixed,Mon-Fri
+7,3229,Cargo,Daily
+17,1334,Cargo,Mon-Fri
+2,619,Cargo,"Mon, Wed, Fri"
+12,2563,Cargo,Weekends
+5,710,Mixed,"Mon, Wed, Fri"
+10,2689,Passenger,Daily
+4,2113,Mixed,Weekends
+12,2409,Cargo,"Mon, Wed, Fri"
+7,3179,Mixed,Mon-Fri
+11,2400,Mixed,"Mon, Wed, Fri"
+9,912,Mixed,"Tue, Thu"
+5,2848,Passenger,"Mon, Wed, Fri"
+10,4978,Cargo,Mon-Fri
+15,4944,Passenger,"Mon, Wed, Fri"
+19,1769,Mixed,Mon-Fri
+22,626,Passenger,Mon-Fri
+25,3422,Passenger,"Mon, Wed, Fri"
+17,4361,Cargo,Daily
+16,1019,Cargo,"Tue, Thu"
+6,1773,Mixed,Mon-Fri
+17,2036,Cargo,Mon-Fri
+13,810,Cargo,Weekends
+18,1429,Passenger,"Mon, Wed, Fri"
+16,96,Cargo,"Tue, Thu"
+6,4801,Mixed,Mon-Fri
+21,1218,Cargo,"Tue, Thu"
+7,1187,Cargo,Weekends
+15,450,Cargo,Mon-Fri
+9,4802,Cargo,"Tue, Thu"
+14,735,Mixed,Mon-Fri
+11,3739,Mixed,"Mon, Wed, Fri"
+2,3343,Cargo,Mon-Fri
+19,4851,Cargo,Mon-Fri
+7,2354,Cargo,Mon-Fri
+8,2412,Passenger,"Tue, Thu"
+7,2522,Mixed,Weekends
+3,3475,Cargo,Mon-Fri
+14,62,Passenger,"Tue, Thu"
+11,191,Cargo,"Mon, Wed, Fri"
+25,155,Mixed,Weekends
+25,2442,Cargo,Mon-Fri
+25,4228,Mixed,"Tue, Thu"
+15,3876,Mixed,Weekends
+25,1387,Mixed,Mon-Fri
+6,2966,Mixed,Daily
+7,4548,Mixed,Mon-Fri
+18,4776,Cargo,"Mon, Wed, Fri"
+18,3485,Mixed,Daily
+24,3297,Mixed,Mon-Fri
+9,2172,Mixed,"Tue, Thu"
+17,4788,Cargo,Mon-Fri
+24,547,Mixed,"Mon, Wed, Fri"
+25,338,Mixed,Mon-Fri
+9,3697,Mixed,"Mon, Wed, Fri"
+17,4146,Mixed,Daily
+10,4663,Mixed,Weekends
+17,3817,Passenger,Weekends
+7,1817,Cargo,Weekends
+23,174,Passenger,"Tue, Thu"
+10,1773,Mixed,"Mon, Wed, Fri"
+4,1458,Mixed,Daily
+8,783,Passenger,"Mon, Wed, Fri"
+11,172,Cargo,"Mon, Wed, Fri"
+25,1067,Mixed,Mon-Fri
+25,4515,Mixed,Daily
+18,1507,Mixed,"Tue, Thu"
+16,1488,Cargo,"Tue, Thu"
+25,2517,Cargo,Daily
+24,224,Mixed,Mon-Fri
+3,3845,Cargo,Mon-Fri
+1,3955,Cargo,"Mon, Wed, Fri"
+21,3900,Cargo,Weekends
+23,4128,Cargo,Mon-Fri
+22,4587,Passenger,Mon-Fri
+10,1506,Cargo,Mon-Fri
+16,3789,Passenger,Weekends
+1,1016,Mixed,"Tue, Thu"
+14,1732,Passenger,Mon-Fri
+21,1432,Cargo,Daily
+5,3310,Mixed,Daily
+15,19,Mixed,Weekends
+16,671,Cargo,"Tue, Thu"
+5,162,Cargo,Mon-Fri
+15,2802,Mixed,Mon-Fri
+15,3339,Passenger,"Tue, Thu"
+3,3071,Cargo,"Mon, Wed, Fri"
+25,4367,Mixed,"Mon, Wed, Fri"
+24,83,Cargo,Weekends
+18,3797,Passenger,"Mon, Wed, Fri"
+21,4471,Passenger,Mon-Fri
+25,2537,Passenger,"Mon, Wed, Fri"
+5,1589,Mixed,"Tue, Thu"
+17,1547,Passenger,Mon-Fri
+25,518,Passenger,"Tue, Thu"
+16,3244,Cargo,Weekends
+18,4084,Cargo,"Mon, Wed, Fri"
+9,2495,Cargo,Daily
+10,648,Mixed,"Tue, Thu"
+25,2543,Cargo,Weekends
+16,2531,Cargo,"Mon, Wed, Fri"
+24,3475,Passenger,Mon-Fri
+22,1245,Mixed,Mon-Fri
+4,299,Passenger,Mon-Fri
+20,3536,Passenger,Daily
+14,1849,Passenger,Weekends
+23,1119,Mixed,"Mon, Wed, Fri"
+22,2686,Cargo,"Mon, Wed, Fri"
+6,799,Mixed,Daily
+16,994,Mixed,Weekends
+6,4769,Passenger,Mon-Fri
+10,143,Cargo,"Mon, Wed, Fri"
+19,4276,Mixed,Daily
+17,2548,Passenger,Weekends
+9,798,Mixed,Mon-Fri
+18,2871,Passenger,Daily
+23,2701,Cargo,Daily
+13,3643,Cargo,Weekends
+12,3113,Passenger,Mon-Fri
+25,575,Passenger,Mon-Fri
+17,73,Cargo,"Tue, Thu"
+6,3158,Passenger,"Tue, Thu"
+24,1835,Cargo,"Tue, Thu"
+25,975,Passenger,Daily
+21,3014,Mixed,Weekends
+20,408,Cargo,Weekends
+16,679,Cargo,"Tue, Thu"
+12,3915,Passenger,Mon-Fri
+20,1959,Cargo,Mon-Fri
+1,4796,Passenger,Weekends
+10,3744,Passenger,Weekends
+1,3108,Passenger,Weekends
+15,3914,Mixed,"Tue, Thu"
+16,3919,Mixed,Mon-Fri
+18,3932,Mixed,"Mon, Wed, Fri"
+24,2819,Cargo,Weekends
+20,4353,Passenger,Mon-Fri
+10,91,Passenger,Daily
+18,4740,Passenger,Mon-Fri
+15,2718,Mixed,Daily
+25,381,Cargo,"Tue, Thu"
+11,173,Cargo,"Tue, Thu"
+9,2118,Cargo,"Mon, Wed, Fri"
+12,1716,Cargo,Weekends
+21,2481,Passenger,Weekends
+10,4640,Passenger,Weekends
+15,3783,Cargo,Daily
+22,190,Passenger,"Mon, Wed, Fri"
+11,1646,Mixed,Weekends
+15,4375,Passenger,Weekends
+10,2991,Mixed,Daily
+5,305,Cargo,"Mon, Wed, Fri"
+22,1912,Mixed,Mon-Fri
+14,1973,Cargo,Mon-Fri
+7,888,Mixed,Weekends
+18,3111,Passenger,"Tue, Thu"
+7,4690,Passenger,Daily
+4,4479,Passenger,"Tue, Thu"
+6,274,Cargo,"Mon, Wed, Fri"
+20,4667,Passenger,"Mon, Wed, Fri"
+1,224,Passenger,Weekends
+10,184,Mixed,Weekends
+25,4541,Mixed,"Mon, Wed, Fri"
+20,10,Mixed,"Mon, Wed, Fri"
+9,4296,Cargo,Weekends
+21,3051,Passenger,Mon-Fri
+23,4557,Cargo,Weekends
+6,1134,Mixed,"Tue, Thu"
+22,280,Mixed,Daily
+21,1644,Cargo,"Mon, Wed, Fri"
+24,1905,Cargo,Daily
+7,4653,Mixed,"Mon, Wed, Fri"
+4,8,Mixed,Weekends
+15,1563,Cargo,"Tue, Thu"
+17,3982,Cargo,"Tue, Thu"
+5,4855,Passenger,"Mon, Wed, Fri"
+9,259,Cargo,Weekends
+16,4157,Cargo,"Tue, Thu"
+8,4709,Mixed,Weekends
+15,1190,Mixed,"Mon, Wed, Fri"
+23,913,Cargo,"Tue, Thu"
+8,1612,Passenger,"Mon, Wed, Fri"
+5,2042,Passenger,Weekends
+25,3548,Passenger,"Mon, Wed, Fri"
+16,86,Cargo,"Mon, Wed, Fri"
+7,3391,Cargo,"Mon, Wed, Fri"
+4,2418,Passenger,Mon-Fri
+17,193,Cargo,Daily
+25,3782,Cargo,Weekends
+14,4629,Cargo,"Tue, Thu"
+21,3864,Passenger,Mon-Fri
+24,597,Cargo,"Mon, Wed, Fri"
+14,2458,Passenger,Weekends
+4,2810,Cargo,Daily
+3,3451,Mixed,Mon-Fri
+15,4195,Passenger,"Tue, Thu"
+25,10,Mixed,"Tue, Thu"
+22,1799,Cargo,"Mon, Wed, Fri"
+2,150,Mixed,Daily
+20,1891,Cargo,"Tue, Thu"
+20,2578,Mixed,Daily
+18,4159,Passenger,Mon-Fri
+19,4406,Passenger,Daily
+14,1372,Passenger,Weekends
+21,1579,Passenger,Daily
+23,1622,Passenger,"Tue, Thu"
+3,3113,Passenger,Daily
+14,3218,Cargo,"Mon, Wed, Fri"
+3,4858,Mixed,Mon-Fri
+3,4352,Passenger,Mon-Fri
+13,3673,Passenger,Daily
+15,2767,Cargo,Daily
+8,4419,Cargo,Mon-Fri
+4,2486,Passenger,"Mon, Wed, Fri"
+7,2780,Passenger,"Tue, Thu"
+17,1132,Passenger,Weekends
+3,357,Mixed,Daily
+21,188,Passenger,Mon-Fri
+3,2552,Mixed,Daily
+7,2326,Mixed,"Tue, Thu"
+5,4915,Passenger,Mon-Fri
+19,2464,Passenger,"Mon, Wed, Fri"
+13,64,Mixed,Weekends
+22,2877,Mixed,Daily
+15,655,Passenger,Mon-Fri
+24,4565,Passenger,Weekends
+1,681,Passenger,"Tue, Thu"
+23,4642,Cargo,Mon-Fri
+15,3983,Mixed,Weekends
+9,1339,Passenger,"Mon, Wed, Fri"
+24,3341,Passenger,Mon-Fri
+5,2236,Cargo,Weekends
+7,3223,Cargo,"Mon, Wed, Fri"
+22,167,Cargo,"Mon, Wed, Fri"
+17,790,Mixed,Weekends
+5,4871,Passenger,Weekends
+18,4020,Cargo,"Mon, Wed, Fri"
+21,1589,Cargo,"Tue, Thu"
+19,2259,Passenger,Weekends
+4,3188,Cargo,Weekends
+9,3087,Passenger,Daily
+13,4459,Cargo,Daily
+14,2543,Passenger,"Tue, Thu"
+7,2571,Cargo,Daily
+4,2182,Cargo,"Tue, Thu"
+19,1881,Mixed,Weekends
+24,3013,Passenger,Mon-Fri
+21,537,Cargo,Daily
+9,2532,Mixed,"Tue, Thu"
+11,1567,Passenger,Weekends
+2,1080,Passenger,"Tue, Thu"
+1,189,Passenger,Weekends
+3,2627,Passenger,"Mon, Wed, Fri"
+11,3676,Cargo,Daily
+17,1449,Mixed,Weekends
+25,3291,Mixed,Mon-Fri
+5,1643,Passenger,Mon-Fri
+6,2620,Mixed,Mon-Fri
+8,4219,Mixed,Weekends
+25,2668,Passenger,Mon-Fri
+16,3053,Mixed,"Mon, Wed, Fri"
+12,548,Passenger,Mon-Fri
+11,4399,Passenger,Weekends
+25,4446,Passenger,Mon-Fri
+15,1548,Cargo,Weekends
+19,682,Cargo,Weekends
+11,1900,Mixed,Mon-Fri
+2,3608,Mixed,Daily
+12,3969,Mixed,Daily
+18,409,Mixed,"Tue, Thu"
+11,3389,Cargo,Daily
+3,545,Cargo,Mon-Fri
+4,4020,Passenger,"Tue, Thu"
+25,2791,Cargo,"Tue, Thu"
+1,4578,Cargo,"Mon, Wed, Fri"
+12,3637,Passenger,"Mon, Wed, Fri"
+3,2610,Passenger,Daily
+4,841,Cargo,"Mon, Wed, Fri"
+15,3454,Mixed,Mon-Fri
+3,3507,Cargo,"Mon, Wed, Fri"
+8,4557,Passenger,"Mon, Wed, Fri"
+15,2909,Cargo,"Tue, Thu"
+5,1023,Passenger,Weekends
+24,4822,Cargo,"Mon, Wed, Fri"
+11,3183,Passenger,Mon-Fri
+19,3362,Mixed,"Tue, Thu"
+17,4259,Passenger,"Mon, Wed, Fri"
+7,1278,Passenger,Daily
+18,468,Mixed,Mon-Fri
+17,4211,Cargo,Daily
+2,3070,Passenger,Mon-Fri
+22,2241,Mixed,Weekends
+6,3175,Mixed,Weekends
+13,583,Passenger,Mon-Fri
+16,3005,Cargo,Weekends
+11,3119,Passenger,"Tue, Thu"
+20,2253,Passenger,Daily
+4,1408,Cargo,"Tue, Thu"
+9,3590,Cargo,Daily
+4,1698,Passenger,Mon-Fri
+11,1414,Passenger,"Mon, Wed, Fri"
+6,2595,Passenger,"Mon, Wed, Fri"
+13,3659,Mixed,Mon-Fri
+4,61,Cargo,"Mon, Wed, Fri"
+25,2166,Cargo,"Mon, Wed, Fri"
+14,1145,Passenger,"Tue, Thu"
+5,4848,Mixed,Mon-Fri
+12,3369,Cargo,Mon-Fri
+8,315,Mixed,Daily
+4,4645,Cargo,Mon-Fri
+4,3850,Passenger,"Mon, Wed, Fri"
+13,1770,Mixed,Weekends
+1,2589,Mixed,Weekends
+11,3635,Passenger,"Mon, Wed, Fri"
+23,754,Cargo,"Mon, Wed, Fri"
+10,4652,Cargo,Weekends
+23,4742,Mixed,Weekends
+10,2900,Passenger,Weekends
+9,4637,Mixed,"Mon, Wed, Fri"
+10,850,Passenger,Daily
+18,4215,Cargo,Weekends
+17,3011,Cargo,Daily
+21,3937,Cargo,Daily
+25,2958,Cargo,"Tue, Thu"
+25,2326,Passenger,"Tue, Thu"
+6,4165,Mixed,"Mon, Wed, Fri"
+4,3939,Passenger,Daily
+17,3003,Mixed,Mon-Fri
+7,4035,Passenger,"Mon, Wed, Fri"
+9,3572,Cargo,Daily
+25,3748,Mixed,"Mon, Wed, Fri"
+7,1994,Passenger,Mon-Fri
+22,3060,Mixed,Weekends
+10,1299,Passenger,Weekends
+5,3386,Mixed,"Tue, Thu"
+3,3497,Mixed,"Tue, Thu"
+24,616,Mixed,"Tue, Thu"
+23,2000,Passenger,"Mon, Wed, Fri"
+11,1073,Mixed,"Mon, Wed, Fri"
+13,4652,Cargo,"Mon, Wed, Fri"
+14,1375,Passenger,"Tue, Thu"
+23,1022,Passenger,Mon-Fri
+16,3101,Mixed,"Mon, Wed, Fri"
+8,4901,Passenger,Weekends
+15,370,Passenger,Daily
+2,441,Cargo,Weekends
+24,1553,Passenger,"Tue, Thu"
+9,4682,Mixed,Weekends
+5,3429,Mixed,Mon-Fri
+2,2022,Cargo,Daily
+22,2195,Mixed,Weekends
+8,1026,Mixed,Mon-Fri
+16,2553,Mixed,"Mon, Wed, Fri"
+6,3164,Mixed,Daily
+16,3284,Passenger,"Tue, Thu"
+24,3389,Mixed,Weekends
+25,3794,Mixed,"Tue, Thu"
+7,3341,Cargo,Daily
+18,4955,Passenger,Mon-Fri
+12,2769,Mixed,Mon-Fri
+11,2223,Passenger,Mon-Fri
+9,2279,Mixed,"Mon, Wed, Fri"
+15,2581,Cargo,"Tue, Thu"
+25,1762,Cargo,Daily
+24,1615,Passenger,Mon-Fri
+3,1393,Mixed,Mon-Fri
+19,4318,Passenger,Mon-Fri
+19,1322,Cargo,Weekends
+8,3336,Mixed,Daily
+21,4601,Cargo,Mon-Fri
+17,1786,Mixed,"Mon, Wed, Fri"
+11,1884,Cargo,Weekends
+11,3879,Cargo,Weekends
+4,941,Cargo,Weekends
+17,256,Passenger,Weekends
+10,3050,Passenger,"Tue, Thu"
+1,1640,Mixed,Daily
+24,71,Passenger,Mon-Fri
+14,836,Mixed,Weekends
+6,4606,Passenger,"Mon, Wed, Fri"
+11,1145,Cargo,"Tue, Thu"
+25,3063,Cargo,Mon-Fri
+22,1345,Mixed,Mon-Fri
+1,4546,Cargo,"Mon, Wed, Fri"
+22,3081,Passenger,Weekends
+14,1222,Passenger,Weekends
+16,1673,Passenger,Daily
+2,2869,Mixed,Daily
+4,3427,Cargo,Daily
+22,2575,Cargo,Mon-Fri
+12,3394,Cargo,"Tue, Thu"
+2,617,Passenger,"Mon, Wed, Fri"
+8,2359,Passenger,Daily
+6,4184,Passenger,Mon-Fri
+10,1795,Passenger,Weekends
+3,4641,Passenger,Weekends
+4,1565,Passenger,Daily
+23,279,Cargo,"Tue, Thu"
+21,4368,Cargo,Mon-Fri
+5,2133,Cargo,Daily
+2,2343,Mixed,"Mon, Wed, Fri"
+16,3158,Mixed,"Mon, Wed, Fri"
+7,3805,Passenger,"Mon, Wed, Fri"
+9,4324,Mixed,"Mon, Wed, Fri"
+11,933,Mixed,Mon-Fri
+16,3290,Passenger,Mon-Fri
+21,1906,Passenger,"Mon, Wed, Fri"
+10,4627,Mixed,Weekends
+6,2933,Passenger,Weekends
+4,2560,Mixed,"Tue, Thu"
+8,188,Passenger,Daily
+9,2561,Cargo,"Mon, Wed, Fri"
+14,4844,Cargo,Daily
+19,127,Mixed,Daily
+8,3117,Mixed,Daily
+17,4128,Cargo,"Mon, Wed, Fri"
+22,4042,Mixed,"Tue, Thu"
+15,4107,Cargo,Weekends
+22,577,Cargo,Weekends
+15,1627,Passenger,Daily
+6,2967,Passenger,Daily
+15,3134,Passenger,Weekends
+23,212,Cargo,"Tue, Thu"
+22,3425,Cargo,"Tue, Thu"
+7,3530,Passenger,"Tue, Thu"
+4,3635,Cargo,"Mon, Wed, Fri"
+23,4383,Mixed,"Mon, Wed, Fri"
+6,3380,Passenger,"Mon, Wed, Fri"
+15,2598,Passenger,Weekends
+3,3037,Mixed,Mon-Fri
+3,4493,Cargo,"Tue, Thu"
+16,3478,Cargo,Weekends
+22,2071,Passenger,"Tue, Thu"
+16,1615,Cargo,Daily
+19,1815,Passenger,Mon-Fri
+4,1059,Cargo,Daily
+7,2993,Passenger,Daily
+18,2882,Cargo,Daily
+1,4647,Cargo,Mon-Fri
+5,143,Mixed,Mon-Fri
+12,3844,Mixed,Weekends
+7,3213,Cargo,Weekends
+21,936,Mixed,Mon-Fri
+18,4877,Cargo,Weekends
+10,980,Passenger,"Tue, Thu"
+22,4104,Passenger,Daily
+1,2296,Passenger,Weekends
+7,2918,Mixed,"Tue, Thu"
+19,1825,Mixed,Weekends
+12,2459,Mixed,"Mon, Wed, Fri"
+10,4337,Mixed,"Tue, Thu"
+25,2754,Cargo,Mon-Fri
+24,725,Mixed,"Mon, Wed, Fri"
+12,755,Passenger,Mon-Fri
+18,1504,Passenger,Mon-Fri
+5,3596,Passenger,"Tue, Thu"
+23,1500,Passenger,Mon-Fri
+16,3470,Passenger,Daily
+14,1308,Passenger,"Tue, Thu"
+14,4507,Mixed,Daily
+21,3603,Passenger,"Tue, Thu"
+20,2105,Passenger,Daily
+5,27,Cargo,"Mon, Wed, Fri"
+12,2527,Cargo,Daily
+15,2618,Cargo,Mon-Fri
+5,3015,Mixed,Mon-Fri
+9,4446,Mixed,"Tue, Thu"
+1,4745,Cargo,Mon-Fri
+18,708,Cargo,Weekends
+10,694,Mixed,"Tue, Thu"
+6,2418,Mixed,"Mon, Wed, Fri"
+25,1643,Cargo,"Mon, Wed, Fri"
+15,3929,Cargo,Weekends
+16,3678,Mixed,Mon-Fri
+13,1357,Cargo,Daily
+4,1520,Cargo,Mon-Fri
+10,2771,Passenger,Mon-Fri
+19,4899,Passenger,"Tue, Thu"
+2,3189,Mixed,Daily
+23,3220,Mixed,Daily
+13,2727,Cargo,"Tue, Thu"
+7,2131,Cargo,"Tue, Thu"
+8,4697,Passenger,Mon-Fri
+17,3951,Passenger,"Tue, Thu"
+18,2228,Passenger,Mon-Fri
+23,1485,Mixed,"Tue, Thu"
+22,4792,Passenger,"Tue, Thu"
+4,3654,Passenger,Daily
+16,4208,Cargo,Mon-Fri
+25,3848,Mixed,"Tue, Thu"
+4,1857,Passenger,Daily
+14,4678,Cargo,Weekends
+11,4527,Passenger,Mon-Fri
+2,2382,Cargo,Daily
+14,534,Passenger,Mon-Fri
+22,4625,Mixed,Mon-Fri
+1,4287,Passenger,Daily
+25,1555,Cargo,Daily
+20,3465,Mixed,Mon-Fri
+11,2894,Mixed,Daily
+19,4533,Passenger,"Tue, Thu"
+18,3118,Cargo,Weekends
+5,4684,Mixed,Daily
+14,2850,Passenger,Daily
+1,2395,Cargo,Daily
+24,2898,Passenger,Daily
+16,3811,Passenger,Weekends
+3,666,Mixed,Daily
+22,1943,Cargo,"Tue, Thu"
+23,3857,Passenger,Daily
+9,3429,Mixed,Daily
+9,3913,Passenger,Daily
+8,2490,Mixed,Weekends
+23,983,Passenger,Daily
+10,4939,Cargo,Mon-Fri
+10,502,Mixed,Weekends
+18,1472,Cargo,Daily
+8,704,Passenger,"Mon, Wed, Fri"
+9,1020,Mixed,Daily
+5,2403,Cargo,Daily
+16,4553,Cargo,Mon-Fri
+11,1146,Passenger,"Mon, Wed, Fri"
+23,3511,Cargo,"Tue, Thu"
+20,3373,Mixed,"Tue, Thu"
+20,3611,Mixed,Mon-Fri
+13,2173,Mixed,Weekends
+1,3151,Passenger,Daily
+5,3308,Mixed,"Tue, Thu"
+20,3150,Mixed,"Mon, Wed, Fri"
+9,1973,Mixed,Daily
+20,3853,Mixed,Daily
+25,3926,Mixed,Daily
+12,2014,Mixed,Mon-Fri
+1,2781,Mixed,Mon-Fri
+21,3266,Passenger,"Tue, Thu"
+3,3666,Cargo,Weekends
+1,2199,Passenger,Mon-Fri
+21,750,Passenger,Mon-Fri
+6,1421,Mixed,"Tue, Thu"
+7,4322,Mixed,"Tue, Thu"
+19,4539,Cargo,Weekends
+17,2854,Cargo,Daily
+21,4504,Mixed,Mon-Fri
+19,3001,Passenger,Weekends
+2,1229,Mixed,Weekends
+18,2228,Mixed,Mon-Fri
+23,457,Cargo,Daily
+13,4120,Mixed,"Mon, Wed, Fri"
+4,4544,Passenger,"Mon, Wed, Fri"
+4,3628,Cargo,"Tue, Thu"
+24,3144,Cargo,"Tue, Thu"
+4,637,Mixed,Mon-Fri
+23,773,Mixed,"Mon, Wed, Fri"
+15,18,Cargo,Weekends
+17,3400,Passenger,"Mon, Wed, Fri"
+2,2180,Mixed,"Mon, Wed, Fri"
+17,3426,Passenger,"Mon, Wed, Fri"
+13,2678,Mixed,"Tue, Thu"
+18,2458,Cargo,"Tue, Thu"
+22,1800,Mixed,"Tue, Thu"
+18,4099,Passenger,"Tue, Thu"
+20,3695,Cargo,"Mon, Wed, Fri"
+9,4445,Cargo,"Mon, Wed, Fri"
+9,2258,Cargo,Mon-Fri
+14,4323,Cargo,Daily
+9,4724,Mixed,Daily
+15,2331,Mixed,"Tue, Thu"
+15,4283,Mixed,"Mon, Wed, Fri"
+2,2533,Passenger,Mon-Fri
+7,621,Passenger,Daily
+17,661,Mixed,"Mon, Wed, Fri"
+22,4289,Mixed,Daily
+11,3677,Passenger,"Tue, Thu"
+7,1537,Cargo,"Mon, Wed, Fri"
+3,3944,Passenger,"Tue, Thu"
+17,1000,Mixed,Mon-Fri
+16,2925,Passenger,Daily
+6,4609,Cargo,"Mon, Wed, Fri"
+11,193,Passenger,"Mon, Wed, Fri"
+19,1645,Mixed,Daily
+4,1427,Mixed,Mon-Fri
+20,4938,Passenger,"Mon, Wed, Fri"
+20,2779,Cargo,Mon-Fri
+4,2570,Passenger,"Tue, Thu"
+10,2482,Mixed,Daily
+14,4113,Passenger,Weekends
+14,240,Mixed,Weekends
+21,2480,Cargo,"Mon, Wed, Fri"
+22,2007,Passenger,Weekends
+17,4978,Passenger,Daily
+25,2057,Cargo,"Tue, Thu"
+19,3631,Cargo,"Tue, Thu"
+16,174,Passenger,Weekends
+10,4857,Mixed,Daily
+8,3338,Passenger,"Mon, Wed, Fri"
+11,1314,Mixed,Daily
+3,2929,Cargo,"Mon, Wed, Fri"
+20,514,Mixed,"Mon, Wed, Fri"
+20,3785,Passenger,Weekends
+23,3956,Passenger,Weekends
+7,4217,Mixed,Weekends
+2,2327,Cargo,Mon-Fri
+23,2253,Passenger,Mon-Fri
+20,39,Passenger,Daily
+10,1696,Passenger,Mon-Fri
+5,345,Cargo,Weekends
+7,1850,Passenger,"Tue, Thu"
+1,2444,Cargo,"Mon, Wed, Fri"
+16,2788,Passenger,"Tue, Thu"
+17,332,Passenger,"Mon, Wed, Fri"
+18,2450,Mixed,"Tue, Thu"
+16,624,Passenger,Mon-Fri
+24,1519,Cargo,"Mon, Wed, Fri"
+23,2188,Mixed,"Mon, Wed, Fri"
+19,2326,Cargo,Mon-Fri
+10,2194,Mixed,Weekends
+1,2713,Cargo,"Mon, Wed, Fri"
+3,2686,Passenger,"Tue, Thu"
+25,2453,Mixed,Weekends
+23,2786,Cargo,Daily
+11,2120,Cargo,Weekends
+14,1816,Mixed,Weekends
+16,3850,Mixed,"Mon, Wed, Fri"
+8,1108,Mixed,Mon-Fri
+12,1702,Mixed,Weekends
+20,4880,Passenger,Weekends
+21,1316,Mixed,Mon-Fri
+13,1344,Mixed,Daily
+5,1644,Cargo,"Tue, Thu"
+6,1447,Passenger,Mon-Fri
+10,3476,Mixed,Daily
+23,2740,Mixed,Mon-Fri
+16,1274,Mixed,"Tue, Thu"
+4,4133,Cargo,Daily
+8,3184,Mixed,"Mon, Wed, Fri"
+9,2483,Mixed,Mon-Fri
+23,3568,Mixed,"Tue, Thu"
+1,4472,Mixed,Daily
+21,3110,Cargo,"Tue, Thu"
+11,4271,Mixed,Weekends
+8,3165,Mixed,Daily
+12,1303,Mixed,Mon-Fri
+12,765,Cargo,"Mon, Wed, Fri"
+22,2754,Cargo,Mon-Fri
+10,39,Passenger,Daily
+16,2196,Passenger,Weekends
+19,298,Mixed,Weekends
+1,1998,Passenger,Mon-Fri
+12,2644,Mixed,Weekends
+20,2664,Mixed,"Mon, Wed, Fri"
+20,721,Mixed,"Tue, Thu"
+7,1744,Passenger,Weekends
+13,1574,Mixed,Mon-Fri
+21,394,Mixed,"Mon, Wed, Fri"
+1,3584,Cargo,"Mon, Wed, Fri"
+12,2659,Cargo,"Mon, Wed, Fri"
+10,1272,Passenger,Daily
+4,2749,Mixed,Daily
+18,3827,Passenger,"Tue, Thu"
+7,2154,Mixed,Daily
+5,390,Cargo,Weekends
+17,48,Cargo,"Tue, Thu"
+9,1979,Mixed,"Tue, Thu"
+17,3869,Cargo,Daily
+24,2185,Cargo,Weekends
+25,2875,Mixed,Daily
+2,3697,Cargo,Weekends
+19,3170,Mixed,Daily
+13,4773,Passenger,"Tue, Thu"
+25,1037,Cargo,Weekends
+15,3606,Passenger,"Mon, Wed, Fri"
+18,4404,Passenger,Daily
+1,4208,Passenger,"Tue, Thu"
+10,3004,Mixed,Mon-Fri
+5,3780,Mixed,Mon-Fri
+17,2663,Mixed,"Mon, Wed, Fri"
+18,3119,Passenger,"Tue, Thu"
+1,3562,Mixed,"Tue, Thu"
+23,2988,Passenger,Mon-Fri
+6,2165,Cargo,"Mon, Wed, Fri"
+10,3208,Mixed,Mon-Fri
+19,2665,Passenger,Weekends
+9,3485,Cargo,Weekends
+16,4529,Cargo,Mon-Fri
+5,895,Cargo,"Tue, Thu"
+8,2227,Passenger,"Tue, Thu"
+7,2035,Passenger,"Tue, Thu"
+22,4068,Mixed,Weekends
+12,3879,Passenger,Daily
+3,3630,Passenger,"Mon, Wed, Fri"
+22,3160,Cargo,"Tue, Thu"
+4,1926,Mixed,Mon-Fri
+4,579,Mixed,Mon-Fri
+21,3870,Passenger,Weekends
+13,1401,Passenger,"Mon, Wed, Fri"
+23,404,Passenger,Mon-Fri
+18,4839,Cargo,Mon-Fri
+3,4284,Cargo,Mon-Fri
+7,3819,Passenger,"Tue, Thu"
+23,4749,Cargo,"Mon, Wed, Fri"
+19,4407,Mixed,Daily
+14,4471,Passenger,Weekends
+11,3852,Cargo,Weekends
+11,4873,Cargo,Weekends
+9,3317,Mixed,"Mon, Wed, Fri"
+18,2022,Cargo,Weekends
+10,3402,Cargo,Daily
+14,2457,Passenger,Weekends
+5,2780,Cargo,"Mon, Wed, Fri"
+9,2875,Mixed,Weekends
+3,1576,Cargo,Daily
+6,3383,Mixed,Weekends
+24,2698,Mixed,Daily
+9,849,Mixed,"Mon, Wed, Fri"
+13,2484,Cargo,Mon-Fri
+14,3292,Cargo,Weekends
+3,274,Passenger,Daily
+22,1216,Mixed,"Mon, Wed, Fri"
+13,1562,Mixed,"Mon, Wed, Fri"
+24,980,Passenger,Daily
+18,3333,Mixed,Weekends
+25,2734,Passenger,"Mon, Wed, Fri"
+7,1689,Mixed,Weekends
+7,3708,Passenger,"Tue, Thu"
+7,2086,Mixed,Weekends
+20,1576,Mixed,Mon-Fri
+1,3704,Cargo,"Tue, Thu"
+23,4667,Passenger,"Mon, Wed, Fri"
+6,2743,Cargo,Daily
+7,4556,Cargo,Daily
+21,4930,Mixed,Weekends
+21,4961,Mixed,Daily
+2,2883,Cargo,"Tue, Thu"
+14,1139,Passenger,"Mon, Wed, Fri"
+9,2478,Mixed,Daily
+4,2561,Passenger,"Tue, Thu"
+8,1797,Passenger,Weekends
+3,3221,Mixed,Daily
+14,1169,Passenger,"Tue, Thu"
+1,1280,Passenger,Mon-Fri
+18,4388,Mixed,Weekends
+6,3681,Cargo,"Mon, Wed, Fri"
+19,1458,Passenger,"Tue, Thu"
+25,4847,Mixed,Mon-Fri
+22,3415,Cargo,Daily
+4,877,Cargo,Weekends
+2,2268,Mixed,"Mon, Wed, Fri"
+19,3632,Cargo,"Tue, Thu"
+8,563,Cargo,Mon-Fri
+12,440,Mixed,Mon-Fri
+19,710,Mixed,Mon-Fri
+1,3635,Passenger,"Mon, Wed, Fri"
+11,1974,Mixed,"Mon, Wed, Fri"
+18,4337,Mixed,Mon-Fri
+1,655,Mixed,Mon-Fri
+6,3803,Cargo,Weekends
+4,812,Cargo,Mon-Fri
+7,324,Cargo,Weekends
+1,147,Cargo,Daily
+11,3317,Mixed,Mon-Fri
+23,3096,Cargo,Mon-Fri
+13,3625,Passenger,Weekends
+19,3536,Cargo,"Mon, Wed, Fri"
+5,4190,Cargo,"Mon, Wed, Fri"
+16,1819,Cargo,Mon-Fri
+21,1222,Mixed,Daily
+2,3937,Mixed,Daily
+15,3586,Mixed,Mon-Fri
+13,3191,Mixed,Mon-Fri
+18,4352,Passenger,Daily
+15,2390,Mixed,"Mon, Wed, Fri"
+20,3637,Mixed,Mon-Fri
+14,585,Passenger,Daily
+3,2702,Passenger,"Tue, Thu"
+12,2168,Mixed,"Mon, Wed, Fri"
+24,3500,Passenger,Weekends
+4,1616,Mixed,Daily
+23,3114,Cargo,Mon-Fri
+5,3782,Mixed,"Tue, Thu"
+6,4806,Mixed,Weekends
+12,1881,Passenger,Weekends
+24,2739,Passenger,"Tue, Thu"
+8,834,Passenger,Weekends
+17,4936,Cargo,Daily
+25,2059,Passenger,Weekends
+18,1721,Mixed,Daily
+12,1934,Passenger,"Tue, Thu"
+12,1148,Cargo,"Tue, Thu"
+22,1663,Cargo,"Mon, Wed, Fri"
+19,2927,Cargo,"Mon, Wed, Fri"
+6,689,Mixed,Daily
+20,683,Cargo,"Mon, Wed, Fri"
+3,1424,Cargo,Weekends
+15,3399,Mixed,"Mon, Wed, Fri"
+23,2851,Passenger,Mon-Fri
+6,319,Mixed,Daily
+18,2539,Mixed,Daily
+3,399,Cargo,"Tue, Thu"
+25,316,Cargo,Weekends
+12,327,Cargo,Daily
+8,454,Mixed,"Mon, Wed, Fri"
+22,1368,Cargo,Weekends
+23,124,Passenger,Weekends
+9,882,Cargo,"Mon, Wed, Fri"
+10,3314,Passenger,Mon-Fri
+13,4162,Cargo,Weekends
+14,1730,Passenger,Mon-Fri
+14,16,Passenger,Daily
+10,3185,Cargo,"Tue, Thu"
+15,897,Cargo,"Mon, Wed, Fri"
+9,4097,Cargo,"Mon, Wed, Fri"
+3,3644,Cargo,Daily
+6,161,Passenger,"Mon, Wed, Fri"
+10,3418,Mixed,"Tue, Thu"
+8,1551,Mixed,"Tue, Thu"
+15,3974,Passenger,"Mon, Wed, Fri"
+6,2251,Cargo,Weekends
+18,2740,Mixed,"Mon, Wed, Fri"
+9,1911,Cargo,"Tue, Thu"
+6,1576,Passenger,"Mon, Wed, Fri"
+1,2898,Passenger,Weekends
+6,1905,Mixed,"Mon, Wed, Fri"
+9,2489,Passenger,"Mon, Wed, Fri"
+21,3195,Passenger,Mon-Fri
+25,3710,Passenger,Daily
+9,974,Cargo,"Tue, Thu"
+17,1757,Cargo,"Tue, Thu"
+12,2697,Passenger,Weekends
+20,1514,Passenger,"Tue, Thu"
+1,906,Mixed,Mon-Fri
+5,910,Cargo,"Mon, Wed, Fri"
+21,3431,Cargo,Daily
+15,3633,Cargo,Weekends
+24,2697,Cargo,Mon-Fri
+14,3793,Cargo,"Mon, Wed, Fri"
+3,1404,Passenger,Daily
+2,3331,Cargo,Mon-Fri
+16,4123,Cargo,"Tue, Thu"
+3,583,Cargo,Daily
+24,463,Passenger,Daily
+20,805,Cargo,Mon-Fri
+3,3365,Passenger,Weekends
+14,932,Cargo,"Tue, Thu"
+24,2857,Mixed,Weekends
+10,4067,Mixed,"Tue, Thu"
+19,3804,Mixed,"Mon, Wed, Fri"
+18,2490,Cargo,"Mon, Wed, Fri"
+11,662,Mixed,"Mon, Wed, Fri"
+19,4007,Cargo,Mon-Fri
+9,1611,Cargo,Weekends
+20,3263,Passenger,"Mon, Wed, Fri"
+1,2597,Mixed,Mon-Fri
+18,1887,Passenger,Daily
+1,172,Mixed,Weekends
+16,1331,Mixed,"Mon, Wed, Fri"
+17,4826,Cargo,"Tue, Thu"
+21,3679,Passenger,Daily
+13,1810,Passenger,"Mon, Wed, Fri"
+3,986,Mixed,Weekends
+18,1046,Cargo,Weekends
+25,1605,Passenger,"Tue, Thu"
+10,529,Cargo,"Mon, Wed, Fri"
+13,3755,Mixed,"Tue, Thu"
+9,661,Mixed,Daily
+9,1030,Mixed,Weekends
+22,4929,Cargo,Daily
+2,3121,Mixed,"Mon, Wed, Fri"
+20,4648,Passenger,Daily
+16,3787,Passenger,"Mon, Wed, Fri"
+16,3420,Cargo,Weekends
+10,516,Passenger,Daily
+6,1948,Passenger,Mon-Fri
+19,951,Cargo,"Tue, Thu"
+1,1219,Passenger,"Tue, Thu"
+23,713,Passenger,Daily
+22,3302,Mixed,"Tue, Thu"
+24,4944,Mixed,"Tue, Thu"
+19,1209,Mixed,Weekends
+14,2728,Mixed,Mon-Fri
+18,4502,Cargo,"Mon, Wed, Fri"
+18,2992,Mixed,Weekends
+19,1331,Mixed,"Tue, Thu"
+3,213,Cargo,"Tue, Thu"
+19,1992,Cargo,Mon-Fri
+2,1389,Passenger,"Mon, Wed, Fri"
+1,2595,Mixed,Daily
+18,2317,Passenger,Daily
+20,1215,Cargo,Weekends
+20,3937,Passenger,Mon-Fri
+9,2852,Passenger,"Tue, Thu"
+11,911,Passenger,"Tue, Thu"
+17,1667,Mixed,Mon-Fri
+19,3271,Mixed,Daily
+14,3724,Mixed,Weekends
+16,4214,Cargo,"Tue, Thu"
+12,792,Cargo,"Mon, Wed, Fri"
+21,487,Passenger,"Tue, Thu"
+19,489,Passenger,Daily
+9,3792,Passenger,"Mon, Wed, Fri"
+20,1866,Cargo,"Mon, Wed, Fri"
+20,2182,Passenger,Mon-Fri
+15,1836,Cargo,Mon-Fri
+17,4671,Passenger,Mon-Fri
+21,2456,Passenger,Weekends
+23,4024,Mixed,"Mon, Wed, Fri"
+18,685,Cargo,Daily
+25,4934,Passenger,Weekends
+8,4473,Mixed,"Mon, Wed, Fri"
+2,3703,Mixed,"Mon, Wed, Fri"
+19,2202,Passenger,Mon-Fri
+21,3780,Mixed,Daily
+16,651,Mixed,"Tue, Thu"
+25,2316,Mixed,Weekends
+25,2797,Mixed,"Tue, Thu"
+5,2638,Mixed,Weekends
+24,1445,Cargo,"Mon, Wed, Fri"
+5,4148,Passenger,Weekends
+18,3265,Cargo,Weekends
+19,4392,Mixed,Daily
+6,1603,Passenger,Mon-Fri
+4,1045,Passenger,Weekends
+10,2784,Cargo,Weekends
+3,3484,Mixed,"Mon, Wed, Fri"
+22,3162,Passenger,"Tue, Thu"
+9,982,Cargo,"Mon, Wed, Fri"

@@ -1,0 +1,26 @@
+aid,name,iataCode,country
+1,American Airlines,AAL,United States
+2,Delta Air Lines,DL,United States
+3,United Airlines,UAL,United States
+4,Southwest Airlines,SWA,United States
+5,Air Canada,ACA,Canada
+6,Lufthansa,DLH,Germany
+7,British Airways,BA,United Kingdom
+8,Air France,AFR,France
+9,Emirates,UAE,United Arab Emirates
+10,Qatar Airways,QTR,Qatar
+11,Singapore Airlines,SIA,Singapore
+12,ANA All Nippon Airways,ANA,Japan
+13,Japan Airlines,JAL,Japan
+14,Cathay Pacific,CPA,Hong Kong
+15,Turkish Airlines,THY,Turkey
+16,KLM Royal Dutch Airlines,KLM,Netherlands
+17,Aeroméxico,AMX,Mexico
+18,China Southern Airlines,CSN,China
+19,China Eastern Airlines,CES,China
+20,EVA Air,EVA,Taiwan
+21,Thai Airways International,THA,Thailand
+22,Alaska Airlines,ASA,United States
+23,JetBlue Airways,JBU,United States
+24,Etihad Airways,ETD,United Arab Emirates
+25,Virgin Atlantic,VIR,United Kingdom

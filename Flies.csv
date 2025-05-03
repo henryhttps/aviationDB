@@ -1,0 +1,5001 @@
+pilotID,fid,role
+238,3841,Captain
+707,3743,First Officer
+734,2078,First Officer
+298,643,Captain
+84,3819,Captain
+526,1978,Captain
+447,4427,Captain
+16,3277,Captain
+320,4552,Captain
+71,4528,Captain
+680,1732,First Officer
+436,2617,Captain
+301,1796,Captain
+33,590,First Officer
+46,4993,Captain
+607,3743,First Officer
+290,1351,First Officer
+952,2056,First Officer
+230,2296,Captain
+567,2118,First Officer
+665,722,First Officer
+561,4798,Captain
+552,1392,Captain
+251,2845,Captain
+5,3325,Captain
+822,227,First Officer
+249,3341,Captain
+72,1451,First Officer
+31,1053,Captain
+204,3526,Captain
+708,1642,First Officer
+260,776,Captain
+175,1048,Captain
+814,4131,Captain
+73,1462,Captain
+813,994,First Officer
+563,1912,Captain
+492,893,Captain
+214,4800,First Officer
+404,2779,First Officer
+46,713,First Officer
+544,4757,Captain
+373,1687,First Officer
+650,2717,Captain
+55,3130,First Officer
+17,4963,First Officer
+718,2717,First Officer
+112,761,Captain
+897,446,Captain
+379,296,Captain
+864,2000,First Officer
+125,2821,Captain
+373,989,Captain
+815,418,Captain
+648,4942,Captain
+471,4853,First Officer
+587,411,Captain
+864,4864,Captain
+764,454,First Officer
+38,3399,Captain
+102,2066,First Officer
+427,4376,First Officer
+844,2235,Captain
+682,1722,Captain
+494,2388,Captain
+210,1934,First Officer
+508,989,First Officer
+945,4161,Captain
+678,3509,Captain
+208,1328,Captain
+633,1986,Captain
+478,2782,First Officer
+269,2467,First Officer
+147,124,Captain
+722,993,Captain
+265,2025,First Officer
+363,85,Captain
+345,137,First Officer
+128,2527,First Officer
+705,3686,First Officer
+151,1132,Captain
+987,3240,First Officer
+667,4839,Captain
+227,2402,Captain
+920,2753,Captain
+893,3620,First Officer
+75,3118,First Officer
+664,4123,Captain
+178,2054,First Officer
+598,2996,Captain
+81,668,Captain
+773,157,Captain
+102,4180,Captain
+857,291,Captain
+437,364,First Officer
+318,3393,Captain
+482,905,First Officer
+419,923,First Officer
+824,3511,Captain
+978,830,First Officer
+562,509,Captain
+753,1354,First Officer
+880,3801,First Officer
+807,1613,First Officer
+241,3674,Captain
+23,877,First Officer
+958,2039,First Officer
+482,2092,Captain
+776,2472,First Officer
+884,2927,First Officer
+301,3022,Captain
+122,2773,Captain
+982,3011,Captain
+191,4409,Captain
+695,1833,Captain
+722,2297,Captain
+798,1591,First Officer
+355,3567,First Officer
+374,2714,First Officer
+516,673,First Officer
+502,3303,Captain
+996,3547,Captain
+459,688,First Officer
+5,320,First Officer
+976,1547,Captain
+140,4390,Captain
+668,522,Captain
+748,4077,First Officer
+178,875,First Officer
+382,342,First Officer
+160,4941,First Officer
+269,1977,Captain
+93,1468,First Officer
+200,3781,Captain
+725,4232,First Officer
+193,755,Captain
+149,1488,First Officer
+562,4082,First Officer
+431,901,Captain
+757,3824,First Officer
+87,396,Captain
+572,3597,First Officer
+967,2473,First Officer
+359,3111,Captain
+107,1006,First Officer
+788,1265,First Officer
+449,3815,Captain
+147,4147,First Officer
+469,1568,Captain
+811,4574,First Officer
+446,2255,First Officer
+878,4530,Captain
+34,4548,First Officer
+190,1169,Captain
+228,1945,Captain
+729,4341,Captain
+745,3412,First Officer
+608,3557,Captain
+92,4072,Captain
+140,3801,First Officer
+100,1111,Captain
+880,1227,Captain
+574,2540,First Officer
+962,832,Captain
+72,440,First Officer
+787,4249,First Officer
+352,1057,Captain
+742,56,First Officer
+316,4463,First Officer
+732,1152,First Officer
+558,3615,First Officer
+675,3817,First Officer
+976,1666,First Officer
+701,2147,First Officer
+223,1823,Captain
+977,1075,First Officer
+192,20,Captain
+43,4411,First Officer
+163,765,Captain
+183,4044,Captain
+570,264,Captain
+884,2004,Captain
+420,266,Captain
+788,3584,Captain
+307,3028,Captain
+62,455,Captain
+276,4231,Captain
+25,4799,Captain
+555,3981,First Officer
+17,2396,Captain
+246,3819,Captain
+13,3896,First Officer
+594,188,First Officer
+917,3428,First Officer
+58,2175,Captain
+666,3101,Captain
+485,497,Captain
+128,2288,First Officer
+141,1177,Captain
+798,294,First Officer
+241,3749,First Officer
+870,435,Captain
+276,4602,First Officer
+808,4640,First Officer
+877,2744,Captain
+218,2096,Captain
+225,4975,First Officer
+591,1400,Captain
+547,4072,First Officer
+9,3787,Captain
+444,4855,Captain
+365,3711,Captain
+6,2645,First Officer
+105,1368,Captain
+433,4135,Captain
+2,2773,Captain
+757,4414,First Officer
+770,4436,Captain
+48,1706,Captain
+567,3339,First Officer
+19,1400,First Officer
+837,1206,Captain
+848,2418,First Officer
+6,4489,Captain
+921,3120,First Officer
+599,3190,First Officer
+359,4500,Captain
+655,321,First Officer
+807,2215,First Officer
+675,2044,First Officer
+426,934,First Officer
+895,432,Captain
+165,4071,Captain
+86,2952,First Officer
+98,3561,Captain
+638,2548,First Officer
+695,3341,First Officer
+862,1575,Captain
+87,1014,First Officer
+817,4318,Captain
+625,2913,First Officer
+328,3450,First Officer
+502,4249,Captain
+869,45,First Officer
+22,1244,First Officer
+141,2990,Captain
+971,4755,Captain
+495,4100,First Officer
+181,2756,Captain
+779,4225,First Officer
+706,853,First Officer
+161,2288,Captain
+591,280,First Officer
+58,4145,Captain
+879,1756,Captain
+463,3160,First Officer
+168,4702,First Officer
+368,3248,First Officer
+685,747,First Officer
+310,2451,Captain
+878,2352,First Officer
+73,1585,Captain
+914,769,Captain
+241,4899,First Officer
+485,4257,First Officer
+528,3787,Captain
+92,1529,First Officer
+965,3800,Captain
+50,787,First Officer
+266,2321,First Officer
+562,3318,Captain
+73,1414,First Officer
+318,396,Captain
+644,137,First Officer
+761,157,Captain
+458,4243,First Officer
+778,3298,First Officer
+194,2608,Captain
+15,4681,First Officer
+907,3958,First Officer
+256,3686,First Officer
+855,2846,Captain
+112,2563,Captain
+159,904,First Officer
+132,4665,Captain
+873,2584,Captain
+904,4461,Captain
+714,3319,First Officer
+844,833,First Officer
+49,2313,Captain
+334,4262,Captain
+193,1925,Captain
+216,1282,Captain
+929,2377,First Officer
+586,2790,First Officer
+484,1462,First Officer
+948,2170,Captain
+770,4216,Captain
+222,895,Captain
+216,1189,Captain
+662,4418,Captain
+371,3463,First Officer
+154,3131,First Officer
+909,3030,First Officer
+759,3563,First Officer
+194,621,First Officer
+163,2769,First Officer
+14,2659,First Officer
+937,219,First Officer
+186,3470,Captain
+910,4363,First Officer
+104,3564,Captain
+395,921,Captain
+894,4698,Captain
+872,2673,Captain
+89,2649,Captain
+321,1064,Captain
+34,349,Captain
+812,2835,Captain
+855,4885,First Officer
+483,706,Captain
+73,1720,First Officer
+96,3064,First Officer
+40,4875,First Officer
+219,3226,First Officer
+905,2420,Captain
+922,4239,First Officer
+784,1164,Captain
+943,2262,Captain
+796,1304,First Officer
+913,600,First Officer
+206,2439,Captain
+325,1790,Captain
+927,3836,First Officer
+456,4731,First Officer
+848,754,Captain
+885,1881,Captain
+212,117,First Officer
+747,154,First Officer
+686,502,Captain
+457,4681,Captain
+233,1744,First Officer
+164,3948,First Officer
+1000,75,Captain
+101,1513,Captain
+189,3862,First Officer
+478,1820,Captain
+321,869,First Officer
+894,3370,First Officer
+678,2512,Captain
+917,1566,First Officer
+477,690,First Officer
+395,4080,Captain
+602,1011,Captain
+853,2188,First Officer
+596,3014,First Officer
+416,3312,First Officer
+926,24,First Officer
+951,3819,First Officer
+728,2478,First Officer
+413,3237,First Officer
+707,3817,Captain
+184,4049,First Officer
+528,4468,First Officer
+116,168,Captain
+228,4808,First Officer
+196,1575,Captain
+485,1180,Captain
+516,320,Captain
+106,714,First Officer
+372,1742,First Officer
+582,547,First Officer
+873,1932,First Officer
+867,649,Captain
+375,792,First Officer
+537,1979,Captain
+892,3006,Captain
+343,1846,First Officer
+186,3072,Captain
+561,1628,Captain
+670,4814,Captain
+310,3773,First Officer
+261,4245,First Officer
+948,3992,First Officer
+398,3361,First Officer
+754,428,First Officer
+438,3010,First Officer
+732,3520,Captain
+976,3138,First Officer
+913,3955,First Officer
+654,1060,First Officer
+169,73,Captain
+474,272,Captain
+882,2481,Captain
+315,384,First Officer
+200,4844,Captain
+292,4969,First Officer
+974,653,First Officer
+713,1983,Captain
+235,1487,First Officer
+601,3276,Captain
+896,2231,Captain
+793,1447,Captain
+199,2340,Captain
+792,829,First Officer
+204,4225,Captain
+340,2092,Captain
+264,4372,Captain
+234,2520,First Officer
+512,1483,First Officer
+898,1975,Captain
+415,3179,First Officer
+984,1115,Captain
+775,3637,First Officer
+445,3537,Captain
+705,617,Captain
+814,3085,First Officer
+218,1839,First Officer
+150,4785,Captain
+850,1560,First Officer
+787,4631,Captain
+15,4178,First Officer
+59,2036,First Officer
+233,2774,First Officer
+153,524,First Officer
+388,1302,Captain
+83,2739,First Officer
+599,1274,Captain
+919,3819,First Officer
+964,3883,Captain
+798,4217,Captain
+753,4040,First Officer
+505,3990,Captain
+687,4433,First Officer
+54,1813,First Officer
+315,1611,Captain
+75,2466,First Officer
+570,93,Captain
+786,4551,First Officer
+886,652,First Officer
+946,2489,Captain
+604,1604,First Officer
+506,785,Captain
+538,2710,First Officer
+840,1629,First Officer
+318,3780,First Officer
+462,3181,Captain
+872,870,First Officer
+430,834,First Officer
+125,214,Captain
+348,3574,First Officer
+676,3978,Captain
+477,613,Captain
+506,3174,First Officer
+759,4786,First Officer
+203,2310,Captain
+826,3843,Captain
+777,2466,First Officer
+599,616,First Officer
+53,3383,Captain
+214,4727,Captain
+979,4259,Captain
+454,592,Captain
+392,4008,Captain
+565,2591,Captain
+5,914,First Officer
+478,2554,Captain
+120,3897,First Officer
+577,2189,First Officer
+574,4078,First Officer
+647,4830,First Officer
+969,4395,Captain
+609,4554,First Officer
+312,1351,Captain
+616,1149,Captain
+678,561,First Officer
+145,2550,Captain
+250,1817,First Officer
+319,3427,First Officer
+75,2435,First Officer
+349,194,First Officer
+122,2753,Captain
+429,3031,First Officer
+165,1230,First Officer
+811,3313,Captain
+106,3832,Captain
+30,3602,First Officer
+11,398,First Officer
+342,860,Captain
+906,1672,Captain
+891,723,Captain
+986,2376,Captain
+218,4053,First Officer
+316,4991,First Officer
+808,816,Captain
+407,4604,Captain
+851,3807,First Officer
+583,3314,First Officer
+125,234,Captain
+295,4504,First Officer
+984,745,Captain
+927,4292,First Officer
+953,2050,First Officer
+448,840,First Officer
+886,3177,Captain
+702,3406,First Officer
+509,2394,First Officer
+110,2605,First Officer
+934,3995,First Officer
+640,67,Captain
+501,2045,First Officer
+279,3319,Captain
+558,1424,Captain
+624,2107,Captain
+132,1168,Captain
+149,4786,First Officer
+677,4442,Captain
+437,4862,First Officer
+703,1580,Captain
+480,3572,First Officer
+142,2154,Captain
+429,2157,Captain
+809,942,Captain
+551,3123,First Officer
+798,4668,Captain
+764,2290,First Officer
+758,4982,First Officer
+770,1797,Captain
+101,3909,Captain
+860,2915,First Officer
+783,1141,Captain
+460,720,Captain
+272,2736,Captain
+52,2061,First Officer
+10,867,Captain
+7,567,Captain
+210,967,Captain
+470,2899,Captain
+558,1764,Captain
+743,4782,First Officer
+203,1876,First Officer
+222,2399,Captain
+532,4069,Captain
+778,2664,Captain
+431,871,Captain
+592,4575,First Officer
+456,2473,Captain
+211,2420,Captain
+137,2670,Captain
+360,1421,First Officer
+792,781,Captain
+807,827,First Officer
+340,252,First Officer
+50,4221,Captain
+822,4274,First Officer
+123,1064,First Officer
+760,3342,First Officer
+207,4468,First Officer
+653,4716,First Officer
+512,2510,First Officer
+720,1299,First Officer
+745,273,Captain
+820,854,First Officer
+206,695,Captain
+378,3333,Captain
+31,4844,Captain
+500,2126,Captain
+451,567,Captain
+214,1787,First Officer
+272,1087,Captain
+610,818,Captain
+817,850,Captain
+934,2341,Captain
+504,236,First Officer
+860,3739,First Officer
+532,435,Captain
+949,3559,First Officer
+515,4581,Captain
+161,1457,Captain
+971,4495,First Officer
+189,4701,Captain
+258,3373,First Officer
+168,3843,First Officer
+791,2547,First Officer
+558,4995,Captain
+723,2578,First Officer
+368,2551,First Officer
+746,3570,First Officer
+365,4464,First Officer
+704,836,Captain
+2,2939,Captain
+538,4951,First Officer
+252,1072,Captain
+568,4453,Captain
+611,2137,Captain
+896,713,Captain
+868,1153,First Officer
+389,3346,First Officer
+140,2463,First Officer
+127,2063,First Officer
+699,3534,First Officer
+376,1060,Captain
+977,25,Captain
+702,4252,Captain
+853,2324,First Officer
+680,3458,Captain
+140,2537,First Officer
+868,2506,First Officer
+228,1148,Captain
+701,4351,First Officer
+374,4653,First Officer
+780,2319,First Officer
+321,2594,Captain
+946,4643,First Officer
+613,1514,Captain
+778,3630,Captain
+425,3084,Captain
+403,1923,First Officer
+467,201,First Officer
+583,1257,First Officer
+23,435,Captain
+818,99,Captain
+233,113,Captain
+892,1869,First Officer
+889,4389,First Officer
+922,4383,Captain
+598,564,Captain
+138,241,Captain
+679,2892,First Officer
+935,49,First Officer
+626,3256,First Officer
+259,4728,First Officer
+528,79,Captain
+292,567,Captain
+812,465,First Officer
+103,251,Captain
+24,1216,First Officer
+539,637,First Officer
+161,733,Captain
+422,4048,First Officer
+258,1474,Captain
+499,88,Captain
+253,713,Captain
+586,4522,Captain
+861,1892,First Officer
+74,4963,First Officer
+882,4209,Captain
+603,3104,Captain
+242,818,Captain
+61,4528,Captain
+976,3036,First Officer
+651,3950,Captain
+693,761,Captain
+961,803,Captain
+171,1648,First Officer
+30,993,Captain
+12,933,First Officer
+560,4534,Captain
+532,560,First Officer
+330,258,Captain
+478,3269,Captain
+481,446,Captain
+863,3765,Captain
+609,2153,First Officer
+897,431,First Officer
+430,2028,Captain
+909,4808,Captain
+582,2118,Captain
+344,4964,First Officer
+725,1085,Captain
+993,2533,First Officer
+181,4760,Captain
+322,1428,Captain
+912,4,First Officer
+260,811,First Officer
+177,999,Captain
+206,2681,First Officer
+180,1648,Captain
+363,3620,First Officer
+782,121,First Officer
+938,3832,Captain
+848,1262,First Officer
+47,4236,Captain
+861,208,Captain
+948,3845,Captain
+318,253,First Officer
+591,114,First Officer
+27,2580,Captain
+361,3709,Captain
+952,961,First Officer
+500,1190,First Officer
+641,3065,Captain
+28,2397,First Officer
+578,2227,First Officer
+846,4460,First Officer
+386,280,First Officer
+552,229,Captain
+363,363,First Officer
+205,1939,Captain
+308,2386,First Officer
+162,2677,Captain
+699,1973,First Officer
+309,744,Captain
+299,4620,First Officer
+195,2648,Captain
+978,389,Captain
+590,178,First Officer
+704,1716,Captain
+803,691,Captain
+337,2135,First Officer
+881,158,Captain
+346,1841,Captain
+937,1815,First Officer
+332,4310,First Officer
+199,4242,Captain
+803,769,First Officer
+116,4087,Captain
+91,1796,Captain
+865,1948,First Officer
+777,484,First Officer
+238,3858,Captain
+350,569,First Officer
+169,874,First Officer
+78,4549,Captain
+126,3139,First Officer
+796,1264,Captain
+984,1167,Captain
+813,2727,Captain
+679,4661,Captain
+204,4666,Captain
+39,168,Captain
+207,3716,Captain
+208,622,Captain
+975,3639,First Officer
+850,3725,First Officer
+405,2967,First Officer
+12,4138,First Officer
+179,4574,First Officer
+122,1884,First Officer
+179,1941,Captain
+377,3359,Captain
+772,1081,First Officer
+627,2271,First Officer
+526,3482,Captain
+474,3173,First Officer
+422,2826,First Officer
+43,3186,Captain
+411,2603,Captain
+166,3957,Captain
+232,2147,First Officer
+39,4514,Captain
+629,3084,First Officer
+912,652,First Officer
+725,2244,Captain
+838,4203,Captain
+756,4991,First Officer
+883,1312,Captain
+263,742,Captain
+308,4762,Captain
+831,259,Captain
+378,3826,First Officer
+129,2752,First Officer
+969,4352,Captain
+346,1261,Captain
+640,1243,Captain
+631,1072,First Officer
+744,2807,Captain
+635,3819,First Officer
+749,936,First Officer
+764,753,Captain
+268,3799,Captain
+551,4319,First Officer
+243,4262,Captain
+299,423,Captain
+143,1550,First Officer
+590,2062,First Officer
+386,1047,Captain
+103,978,First Officer
+736,829,Captain
+546,4554,Captain
+496,3965,Captain
+929,647,Captain
+798,3325,First Officer
+729,4303,Captain
+769,4262,First Officer
+682,3019,Captain
+20,2476,Captain
+450,3773,Captain
+913,3545,Captain
+951,4960,First Officer
+459,2853,Captain
+141,3178,First Officer
+852,4126,Captain
+179,3578,First Officer
+10,2388,Captain
+369,3866,First Officer
+17,4019,Captain
+42,169,Captain
+769,4199,Captain
+408,2572,First Officer
+808,3502,First Officer
+146,4915,Captain
+348,2317,First Officer
+369,3454,First Officer
+818,3791,First Officer
+701,3725,Captain
+832,2490,Captain
+516,2186,First Officer
+793,4884,Captain
+578,2006,First Officer
+585,1198,First Officer
+202,4935,Captain
+495,412,First Officer
+357,4828,First Officer
+363,1911,First Officer
+864,4786,First Officer
+331,3578,First Officer
+559,4580,Captain
+974,4315,Captain
+198,1526,Captain
+136,3690,Captain
+894,2576,First Officer
+234,3443,Captain
+812,3589,Captain
+325,2355,First Officer
+256,1274,Captain
+948,1995,Captain
+324,3447,First Officer
+225,3364,First Officer
+57,3085,First Officer
+149,3186,First Officer
+650,4157,Captain
+471,2809,First Officer
+918,1900,First Officer
+943,3873,Captain
+163,4622,First Officer
+78,2824,Captain
+885,3549,Captain
+359,4631,Captain
+444,3422,Captain
+998,94,Captain
+585,776,First Officer
+656,536,First Officer
+585,9,First Officer
+863,117,First Officer
+264,261,Captain
+172,3107,First Officer
+688,2887,First Officer
+405,710,Captain
+49,696,First Officer
+547,4267,First Officer
+609,3257,First Officer
+88,1175,First Officer
+854,386,Captain
+86,3402,First Officer
+278,378,Captain
+622,6,First Officer
+348,2469,Captain
+492,668,First Officer
+851,3975,Captain
+420,2793,Captain
+114,4831,First Officer
+411,1834,Captain
+58,265,Captain
+32,4544,First Officer
+918,3812,Captain
+785,38,First Officer
+166,4302,Captain
+345,1148,First Officer
+360,2404,Captain
+477,3488,First Officer
+933,4931,Captain
+735,2037,First Officer
+7,312,Captain
+25,3374,Captain
+847,3089,Captain
+613,1444,First Officer
+620,11,First Officer
+739,522,Captain
+636,926,First Officer
+846,272,First Officer
+595,4950,Captain
+947,3973,First Officer
+877,108,Captain
+974,1851,First Officer
+625,3457,First Officer
+792,4987,Captain
+683,3017,First Officer
+572,1547,First Officer
+56,724,First Officer
+840,311,Captain
+594,837,First Officer
+445,4377,First Officer
+368,4667,Captain
+474,2612,Captain
+854,648,Captain
+505,545,Captain
+457,2943,Captain
+201,220,Captain
+420,3541,Captain
+172,3135,First Officer
+759,4164,First Officer
+237,3785,First Officer
+4,3024,First Officer
+943,1007,Captain
+479,1175,First Officer
+64,4180,First Officer
+292,552,First Officer
+946,1185,First Officer
+653,1597,First Officer
+155,1210,First Officer
+349,4000,Captain
+183,1750,First Officer
+712,4138,First Officer
+477,2357,First Officer
+455,4670,Captain
+456,1626,Captain
+66,3748,First Officer
+547,384,Captain
+509,2523,Captain
+886,3203,First Officer
+968,2172,Captain
+123,974,First Officer
+260,4905,First Officer
+269,1643,First Officer
+748,1963,Captain
+127,3150,Captain
+138,3876,Captain
+581,2573,Captain
+874,583,First Officer
+68,178,First Officer
+575,366,First Officer
+386,689,First Officer
+360,3812,Captain
+115,905,Captain
+49,2391,First Officer
+138,2144,First Officer
+234,977,First Officer
+128,1206,First Officer
+820,4511,First Officer
+53,4938,Captain
+754,773,Captain
+80,2388,First Officer
+324,4184,Captain
+691,1511,Captain
+818,26,First Officer
+118,479,First Officer
+599,956,First Officer
+751,2747,Captain
+823,4035,First Officer
+792,3981,Captain
+922,2219,Captain
+844,609,First Officer
+658,3064,First Officer
+80,4339,First Officer
+717,3223,Captain
+54,527,Captain
+276,4903,Captain
+266,1456,First Officer
+574,2618,First Officer
+831,501,Captain
+792,4311,First Officer
+910,3276,Captain
+502,4915,Captain
+277,4445,First Officer
+833,4308,Captain
+860,3902,First Officer
+209,80,First Officer
+600,4741,First Officer
+398,3502,Captain
+336,2130,First Officer
+267,4709,First Officer
+601,4794,First Officer
+965,2955,Captain
+857,4355,First Officer
+860,2524,First Officer
+80,2664,Captain
+27,4543,First Officer
+570,2620,First Officer
+566,4980,Captain
+41,4347,First Officer
+640,7,Captain
+641,3829,First Officer
+552,2838,Captain
+770,1733,First Officer
+549,1669,First Officer
+435,842,First Officer
+730,2252,First Officer
+500,4545,Captain
+832,608,Captain
+609,3881,First Officer
+613,1103,Captain
+687,110,Captain
+420,1520,First Officer
+14,330,Captain
+730,1586,Captain
+419,1710,Captain
+876,238,First Officer
+252,3986,Captain
+620,3029,Captain
+449,2915,Captain
+590,383,Captain
+282,442,Captain
+860,497,Captain
+873,3730,First Officer
+82,120,First Officer
+335,161,First Officer
+54,2425,Captain
+424,822,Captain
+383,4996,Captain
+100,1985,Captain
+669,2391,Captain
+730,3137,First Officer
+236,4199,Captain
+182,2653,Captain
+828,1495,Captain
+795,897,Captain
+373,4411,First Officer
+751,2520,Captain
+689,3450,First Officer
+579,1696,First Officer
+219,256,Captain
+167,63,First Officer
+390,2129,First Officer
+411,3915,First Officer
+977,2285,First Officer
+231,2471,First Officer
+730,2513,First Officer
+926,4560,Captain
+168,2640,Captain
+622,4587,Captain
+872,2826,First Officer
+264,91,Captain
+789,4558,First Officer
+707,3567,Captain
+226,4381,First Officer
+858,2018,Captain
+9,4062,First Officer
+640,808,First Officer
+548,4237,Captain
+371,3625,Captain
+500,3242,Captain
+836,3242,Captain
+525,1920,Captain
+760,1704,Captain
+130,3610,First Officer
+686,3488,First Officer
+897,2380,First Officer
+545,2935,Captain
+571,85,Captain
+837,2178,First Officer
+195,2049,Captain
+24,1527,First Officer
+598,4417,First Officer
+432,1644,Captain
+785,4528,First Officer
+596,3360,Captain
+410,2723,Captain
+671,656,Captain
+27,558,Captain
+379,3325,First Officer
+434,1507,Captain
+202,192,Captain
+51,3148,Captain
+805,4245,First Officer
+827,738,First Officer
+328,4964,Captain
+401,1173,Captain
+768,1120,Captain
+52,967,First Officer
+192,4424,First Officer
+212,1077,Captain
+496,265,First Officer
+422,4014,First Officer
+873,3599,Captain
+352,2352,First Officer
+992,1805,Captain
+899,1648,First Officer
+723,3348,First Officer
+222,1050,First Officer
+341,3960,Captain
+736,4462,First Officer
+531,1907,Captain
+172,1932,Captain
+143,3673,First Officer
+613,3259,Captain
+500,3096,Captain
+621,3639,Captain
+383,3532,First Officer
+681,1872,Captain
+87,734,First Officer
+660,2286,Captain
+844,2217,First Officer
+865,3107,First Officer
+22,878,First Officer
+824,4273,Captain
+726,4255,Captain
+370,4405,Captain
+956,1836,First Officer
+619,4086,Captain
+974,867,First Officer
+862,2280,First Officer
+395,2681,Captain
+412,3742,Captain
+719,4111,First Officer
+306,3914,First Officer
+296,669,Captain
+300,1098,Captain
+710,2126,First Officer
+147,3629,Captain
+202,4672,Captain
+71,456,First Officer
+372,4612,Captain
+206,4071,First Officer
+978,4023,First Officer
+728,540,First Officer
+559,1223,Captain
+48,159,First Officer
+560,4679,First Officer
+461,887,First Officer
+102,1564,First Officer
+457,1085,First Officer
+428,2649,Captain
+962,2889,First Officer
+348,2980,Captain
+574,57,Captain
+889,4655,Captain
+445,3957,Captain
+621,2039,First Officer
+496,4506,First Officer
+633,3262,First Officer
+500,3347,First Officer
+319,2041,Captain
+423,475,Captain
+369,2546,Captain
+369,1952,Captain
+87,2718,First Officer
+121,2563,First Officer
+636,4445,Captain
+807,680,Captain
+684,3104,First Officer
+340,1951,Captain
+930,2339,First Officer
+577,4600,Captain
+756,566,Captain
+364,3219,Captain
+780,3691,First Officer
+382,3819,Captain
+868,3455,First Officer
+716,4267,First Officer
+117,1621,First Officer
+132,1000,Captain
+959,1460,Captain
+774,847,Captain
+553,1146,First Officer
+413,3250,First Officer
+246,2592,Captain
+325,99,First Officer
+967,88,Captain
+47,2328,First Officer
+164,2187,First Officer
+545,111,Captain
+482,2842,First Officer
+789,2495,First Officer
+491,396,Captain
+311,4032,Captain
+217,1403,First Officer
+372,4255,Captain
+885,3648,First Officer
+248,199,First Officer
+738,3752,First Officer
+700,4365,Captain
+754,65,First Officer
+45,2020,Captain
+227,286,Captain
+483,1502,First Officer
+672,1821,First Officer
+966,2299,First Officer
+279,3777,First Officer
+889,4386,Captain
+479,2386,Captain
+532,1070,Captain
+978,4466,First Officer
+408,1001,First Officer
+863,1289,First Officer
+376,3349,First Officer
+36,4712,Captain
+689,134,Captain
+420,853,Captain
+505,2978,Captain
+94,1984,Captain
+655,2604,Captain
+120,3914,Captain
+30,2917,First Officer
+700,1315,First Officer
+378,4683,Captain
+778,2102,First Officer
+99,274,Captain
+243,2296,Captain
+933,3796,Captain
+290,4184,Captain
+86,669,First Officer
+931,2171,Captain
+246,4085,Captain
+766,2541,Captain
+933,2685,First Officer
+757,2671,Captain
+769,377,First Officer
+620,1285,Captain
+824,3146,Captain
+644,4529,Captain
+847,1540,Captain
+539,901,First Officer
+383,559,First Officer
+79,4198,Captain
+414,2353,Captain
+933,3766,First Officer
+815,1425,Captain
+475,3462,First Officer
+262,1539,First Officer
+204,2973,First Officer
+671,2310,Captain
+976,760,Captain
+810,4533,Captain
+512,4962,First Officer
+639,135,First Officer
+70,3599,Captain
+649,2279,First Officer
+21,4043,Captain
+24,4178,Captain
+399,4813,Captain
+215,2725,Captain
+797,3180,First Officer
+141,3355,Captain
+111,161,Captain
+705,3140,First Officer
+562,1784,Captain
+187,3307,Captain
+361,3971,First Officer
+83,694,First Officer
+645,1983,Captain
+919,1188,Captain
+434,4008,First Officer
+513,597,Captain
+377,3036,Captain
+568,1709,Captain
+710,3787,First Officer
+78,1020,Captain
+668,3418,First Officer
+986,215,First Officer
+943,4709,First Officer
+517,4668,First Officer
+657,4564,First Officer
+173,2154,Captain
+559,3956,First Officer
+71,2670,Captain
+916,2524,Captain
+754,2599,Captain
+775,2949,Captain
+676,4733,Captain
+422,3355,Captain
+619,1968,First Officer
+533,3403,Captain
+442,385,First Officer
+444,3739,First Officer
+429,3333,First Officer
+566,2721,Captain
+105,3243,First Officer
+828,1991,First Officer
+789,3052,First Officer
+756,398,First Officer
+750,1172,First Officer
+242,2341,Captain
+892,3707,Captain
+434,306,First Officer
+883,3709,First Officer
+118,1568,Captain
+613,4958,Captain
+119,4749,First Officer
+76,1839,First Officer
+645,3124,First Officer
+491,2652,Captain
+238,1557,Captain
+154,4907,First Officer
+415,3021,First Officer
+695,3825,Captain
+940,3743,First Officer
+405,869,First Officer
+192,2527,Captain
+319,3047,First Officer
+74,2709,First Officer
+160,3758,First Officer
+968,1455,Captain
+494,3920,Captain
+869,1460,Captain
+144,2249,First Officer
+772,3836,First Officer
+744,4847,Captain
+557,2387,First Officer
+33,4545,Captain
+490,560,First Officer
+96,4711,First Officer
+91,3206,Captain
+612,1465,Captain
+243,4278,First Officer
+436,1127,First Officer
+920,1960,Captain
+248,1672,Captain
+535,1836,Captain
+317,321,Captain
+240,2279,First Officer
+206,2530,Captain
+222,2730,First Officer
+136,139,First Officer
+691,1821,Captain
+142,1949,Captain
+328,2880,First Officer
+693,3296,Captain
+494,1465,First Officer
+311,2787,Captain
+973,843,Captain
+120,1542,Captain
+514,1953,First Officer
+497,4988,First Officer
+389,4931,Captain
+21,1886,First Officer
+114,4767,First Officer
+899,1308,Captain
+365,4736,Captain
+498,3724,First Officer
+5,4645,Captain
+36,2841,Captain
+428,1143,First Officer
+411,1651,Captain
+686,1126,First Officer
+429,2413,Captain
+607,2258,Captain
+552,1883,Captain
+51,4465,Captain
+477,1366,First Officer
+685,1568,First Officer
+414,3735,Captain
+981,3523,Captain
+119,507,Captain
+989,1987,Captain
+115,1705,Captain
+524,4551,Captain
+300,524,First Officer
+878,839,Captain
+330,3102,First Officer
+13,1665,Captain
+133,422,Captain
+252,538,First Officer
+597,457,First Officer
+832,1371,First Officer
+828,4946,First Officer
+231,3150,First Officer
+498,1224,First Officer
+164,4416,First Officer
+400,1986,Captain
+464,2351,Captain
+848,493,First Officer
+294,3739,First Officer
+22,4544,Captain
+591,1719,First Officer
+363,2358,First Officer
+168,3616,Captain
+258,1306,Captain
+86,4262,First Officer
+999,4086,First Officer
+828,539,Captain
+782,4768,Captain
+720,1974,First Officer
+153,3855,First Officer
+186,790,First Officer
+311,3525,First Officer
+70,3092,Captain
+20,4610,Captain
+328,3686,Captain
+102,3228,Captain
+466,4507,Captain
+859,4160,First Officer
+588,2544,Captain
+656,4617,First Officer
+974,1452,First Officer
+228,3892,Captain
+212,1591,First Officer
+407,1289,First Officer
+148,884,First Officer
+515,3170,Captain
+907,2698,First Officer
+12,2856,First Officer
+916,4636,Captain
+6,785,First Officer
+119,4548,Captain
+161,2311,First Officer
+539,3809,First Officer
+704,1199,Captain
+906,1950,First Officer
+110,3914,First Officer
+907,1670,First Officer
+213,4771,Captain
+924,4718,First Officer
+602,74,Captain
+307,3134,First Officer
+551,1491,First Officer
+576,3228,First Officer
+233,1178,First Officer
+534,2126,Captain
+389,3262,Captain
+571,733,Captain
+695,4491,First Officer
+200,3486,First Officer
+492,3506,First Officer
+595,2933,First Officer
+359,3877,Captain
+598,2475,First Officer
+719,1160,First Officer
+923,2409,Captain
+764,3354,Captain
+674,4019,Captain
+14,4291,Captain
+250,88,Captain
+775,4068,First Officer
+651,3490,First Officer
+322,3457,First Officer
+783,2499,First Officer
+176,2095,First Officer
+708,1024,First Officer
+544,4863,First Officer
+197,1706,Captain
+545,3938,Captain
+607,381,Captain
+350,1217,First Officer
+970,2712,First Officer
+65,3462,First Officer
+395,4840,First Officer
+167,3899,Captain
+104,2910,First Officer
+758,3238,First Officer
+723,1135,First Officer
+34,4151,First Officer
+236,876,Captain
+316,2983,Captain
+68,4306,First Officer
+893,3147,Captain
+542,3859,First Officer
+221,3326,First Officer
+284,4708,First Officer
+420,4266,First Officer
+537,3142,First Officer
+450,1318,First Officer
+167,3120,Captain
+337,284,Captain
+425,3414,First Officer
+435,739,First Officer
+809,2980,Captain
+164,4366,Captain
+458,379,First Officer
+663,2929,Captain
+439,1468,Captain
+163,1096,Captain
+681,2563,Captain
+380,3021,Captain
+761,1981,First Officer
+314,4225,Captain
+369,3019,First Officer
+398,1147,First Officer
+139,2831,First Officer
+657,1123,Captain
+1,104,Captain
+722,4931,Captain
+995,4892,First Officer
+132,1005,First Officer
+984,2722,Captain
+559,2258,Captain
+109,1939,First Officer
+938,441,First Officer
+768,1494,First Officer
+719,3902,Captain
+187,3646,Captain
+531,646,First Officer
+360,580,First Officer
+616,1991,First Officer
+319,579,First Officer
+316,3938,First Officer
+476,2523,Captain
+26,1543,First Officer
+396,1706,First Officer
+127,3264,Captain
+88,4816,Captain
+715,2243,Captain
+916,3630,First Officer
+963,795,First Officer
+411,1088,First Officer
+265,2910,Captain
+474,4083,First Officer
+457,4106,First Officer
+232,4169,First Officer
+181,1600,First Officer
+209,3984,First Officer
+972,2864,Captain
+2,3062,First Officer
+974,3006,Captain
+806,2762,First Officer
+568,964,Captain
+379,2817,First Officer
+698,1571,First Officer
+867,3592,Captain
+585,3479,First Officer
+18,1752,Captain
+222,4148,Captain
+7,103,Captain
+51,3409,First Officer
+196,2753,Captain
+230,1379,First Officer
+903,3587,Captain
+927,3737,Captain
+781,2421,Captain
+297,538,Captain
+830,2542,Captain
+901,3925,Captain
+681,108,Captain
+554,4550,Captain
+532,4626,Captain
+520,1937,Captain
+825,1098,First Officer
+641,3221,First Officer
+105,3040,Captain
+711,806,Captain
+143,4915,Captain
+760,1324,Captain
+715,2439,Captain
+347,2300,First Officer
+355,96,Captain
+301,4484,Captain
+654,4411,First Officer
+795,1420,Captain
+249,1716,Captain
+955,1202,Captain
+466,3897,First Officer
+207,2867,Captain
+268,663,First Officer
+220,4144,First Officer
+876,222,First Officer
+656,2512,First Officer
+474,1700,First Officer
+469,4073,First Officer
+224,42,First Officer
+101,3480,First Officer
+566,776,Captain
+897,3235,First Officer
+708,1466,Captain
+884,2674,Captain
+89,2315,First Officer
+641,3986,Captain
+882,2440,Captain
+728,1936,First Officer
+13,1913,Captain
+402,2788,First Officer
+206,3771,Captain
+808,2918,First Officer
+688,4741,First Officer
+396,889,Captain
+311,3963,Captain
+281,409,Captain
+199,1511,Captain
+639,2690,First Officer
+562,3247,Captain
+132,781,First Officer
+690,3669,Captain
+638,350,Captain
+267,3832,First Officer
+596,491,Captain
+80,4857,First Officer
+105,2815,First Officer
+411,2440,First Officer
+605,1850,First Officer
+740,782,Captain
+522,951,Captain
+190,3167,First Officer
+147,1942,Captain
+47,3647,Captain
+263,4847,First Officer
+999,3546,First Officer
+177,3267,First Officer
+244,3543,First Officer
+507,1986,Captain
+222,638,Captain
+141,1356,First Officer
+881,2116,First Officer
+319,950,First Officer
+580,55,Captain
+180,3419,First Officer
+948,285,Captain
+380,1095,First Officer
+321,2313,Captain
+774,604,First Officer
+242,3658,First Officer
+928,2772,Captain
+66,115,First Officer
+621,2633,Captain
+888,4841,First Officer
+611,575,Captain
+120,2972,Captain
+195,552,Captain
+108,2727,First Officer
+491,1047,First Officer
+71,2198,First Officer
+108,867,First Officer
+327,2574,First Officer
+934,4040,First Officer
+287,1785,Captain
+326,2395,Captain
+229,3959,First Officer
+386,4762,Captain
+447,4197,First Officer
+259,3708,First Officer
+797,1176,Captain
+961,1803,First Officer
+455,2671,First Officer
+760,2337,First Officer
+791,4744,Captain
+830,4498,First Officer
+615,1060,Captain
+467,2376,Captain
+286,893,Captain
+280,1365,First Officer
+172,1006,Captain
+372,4248,Captain
+750,842,Captain
+860,4705,First Officer
+642,638,First Officer
+353,2735,First Officer
+548,1043,Captain
+408,4026,Captain
+624,1056,Captain
+593,1856,Captain
+83,2377,First Officer
+471,2064,Captain
+83,4129,Captain
+324,3000,Captain
+398,2903,First Officer
+78,3689,First Officer
+982,2427,First Officer
+396,4768,Captain
+443,3274,Captain
+710,488,Captain
+6,533,Captain
+867,2461,First Officer
+722,2566,Captain
+646,4592,First Officer
+379,1242,Captain
+531,3966,First Officer
+988,1345,Captain
+483,917,First Officer
+59,119,Captain
+452,4404,Captain
+282,4397,First Officer
+695,2291,First Officer
+140,3531,First Officer
+252,3924,First Officer
+146,1301,First Officer
+687,3030,Captain
+938,3843,Captain
+648,1146,Captain
+206,502,First Officer
+318,4548,First Officer
+86,2701,Captain
+853,3133,Captain
+380,2260,First Officer
+663,4558,First Officer
+957,2062,Captain
+596,2220,First Officer
+527,3209,Captain
+635,1101,First Officer
+573,1355,Captain
+759,2582,Captain
+14,3105,Captain
+792,585,Captain
+215,238,Captain
+917,2222,Captain
+621,1170,First Officer
+925,3494,Captain
+699,4937,First Officer
+427,2468,Captain
+82,4179,First Officer
+761,2824,Captain
+131,832,Captain
+81,1157,Captain
+481,2327,Captain
+400,4490,First Officer
+45,4336,First Officer
+19,902,Captain
+69,2607,Captain
+962,856,First Officer
+552,534,First Officer
+361,2534,Captain
+373,278,Captain
+36,4905,Captain
+838,1592,First Officer
+665,467,First Officer
+711,1570,Captain
+983,1775,First Officer
+127,4077,First Officer
+150,2843,First Officer
+167,1981,First Officer
+21,3303,First Officer
+44,1580,First Officer
+396,4658,First Officer
+610,871,Captain
+768,1231,Captain
+43,3594,Captain
+714,920,First Officer
+593,4760,First Officer
+910,4005,First Officer
+647,2427,First Officer
+952,4633,First Officer
+68,4457,Captain
+13,1936,First Officer
+874,1624,Captain
+863,622,First Officer
+557,4558,First Officer
+884,3282,First Officer
+547,1978,Captain
+367,3860,Captain
+465,896,Captain
+69,2137,Captain
+647,1234,Captain
+181,1319,Captain
+426,522,Captain
+81,4588,Captain
+94,2368,First Officer
+702,1853,First Officer
+789,658,First Officer
+873,399,First Officer
+632,3285,First Officer
+98,1353,Captain
+469,2847,Captain
+413,4430,First Officer
+998,4783,Captain
+397,4689,Captain
+787,4082,Captain
+142,2279,Captain
+631,2598,Captain
+472,3608,First Officer
+139,274,First Officer
+284,2375,Captain
+754,1094,First Officer
+127,821,Captain
+495,3503,Captain
+973,1013,Captain
+511,3657,First Officer
+328,383,Captain
+528,1742,First Officer
+732,2408,Captain
+21,943,First Officer
+593,2712,Captain
+252,4469,Captain
+453,3452,First Officer
+196,2090,First Officer
+896,2183,Captain
+40,963,Captain
+902,1103,Captain
+972,3054,Captain
+433,2053,First Officer
+402,4993,Captain
+788,1153,First Officer
+782,1295,Captain
+872,419,Captain
+438,1646,Captain
+916,3075,First Officer
+518,2923,Captain
+705,2183,First Officer
+179,4288,First Officer
+12,2635,First Officer
+208,3369,First Officer
+270,4311,First Officer
+33,4105,Captain
+362,2071,First Officer
+626,2360,Captain
+773,4255,Captain
+76,4197,First Officer
+401,3716,Captain
+388,1309,First Officer
+355,3452,First Officer
+485,4960,First Officer
+594,3537,Captain
+478,4913,Captain
+831,3239,Captain
+766,2701,First Officer
+357,3015,Captain
+369,4442,First Officer
+957,698,First Officer
+736,782,Captain
+465,3768,First Officer
+48,114,Captain
+972,854,First Officer
+830,3609,Captain
+87,422,Captain
+152,2051,Captain
+287,4182,First Officer
+585,3679,Captain
+172,2442,First Officer
+790,3421,First Officer
+337,1696,First Officer
+640,1869,First Officer
+27,2584,First Officer
+28,3262,Captain
+35,1793,First Officer
+53,89,First Officer
+919,3696,First Officer
+143,3049,First Officer
+111,4123,Captain
+369,3981,First Officer
+663,1172,Captain
+705,3681,First Officer
+500,2586,First Officer
+144,1239,Captain
+667,297,Captain
+997,4831,First Officer
+527,4704,First Officer
+702,2492,Captain
+270,1577,First Officer
+399,837,Captain
+546,2002,Captain
+776,2581,First Officer
+720,2537,First Officer
+554,2386,First Officer
+891,3056,Captain
+130,3744,Captain
+661,769,First Officer
+299,2700,First Officer
+934,2735,First Officer
+888,1562,First Officer
+170,794,Captain
+198,4390,First Officer
+187,344,Captain
+727,2994,First Officer
+840,1963,Captain
+993,3776,Captain
+38,3918,First Officer
+959,685,First Officer
+404,1425,First Officer
+700,1953,First Officer
+372,4411,Captain
+544,1104,First Officer
+20,4874,Captain
+15,3541,First Officer
+488,394,First Officer
+175,1918,Captain
+2,4031,Captain
+259,2095,Captain
+578,1308,First Officer
+669,3323,Captain
+500,1654,First Officer
+516,496,First Officer
+516,3735,First Officer
+477,947,Captain
+809,2464,Captain
+792,1128,First Officer
+76,2766,First Officer
+726,1699,Captain
+224,2157,First Officer
+522,4584,First Officer
+699,1200,First Officer
+410,1651,Captain
+672,3563,First Officer
+707,2625,First Officer
+846,4648,First Officer
+625,3789,Captain
+836,1651,First Officer
+585,3522,Captain
+254,3855,First Officer
+641,2647,First Officer
+10,78,Captain
+429,921,First Officer
+306,2245,First Officer
+197,2124,Captain
+300,2908,First Officer
+582,3454,First Officer
+994,4316,First Officer
+189,3680,First Officer
+502,3409,First Officer
+50,4019,First Officer
+448,3342,First Officer
+671,1384,Captain
+686,1832,Captain
+97,2371,Captain
+868,408,First Officer
+435,2541,First Officer
+864,322,Captain
+412,78,First Officer
+295,1877,First Officer
+173,93,First Officer
+209,1788,Captain
+483,383,Captain
+928,4938,Captain
+776,1341,Captain
+701,2365,First Officer
+522,2019,Captain
+775,1158,Captain
+563,3032,Captain
+522,1035,First Officer
+628,389,First Officer
+327,4294,First Officer
+400,1335,Captain
+595,4321,First Officer
+375,3967,First Officer
+386,4017,First Officer
+678,2649,First Officer
+315,1409,Captain
+558,1672,Captain
+901,4141,First Officer
+936,4832,Captain
+581,4676,First Officer
+930,4230,First Officer
+155,4088,First Officer
+322,3204,Captain
+413,1580,First Officer
+164,2917,Captain
+737,4755,First Officer
+152,969,First Officer
+203,4612,Captain
+912,3698,Captain
+852,3788,Captain
+605,3479,Captain
+863,4081,First Officer
+118,1919,Captain
+874,330,First Officer
+299,3323,Captain
+206,809,First Officer
+398,2321,First Officer
+160,606,Captain
+577,1815,First Officer
+900,4753,First Officer
+479,3731,First Officer
+295,4024,Captain
+90,4149,First Officer
+539,3787,First Officer
+351,4920,Captain
+537,420,First Officer
+349,3303,Captain
+139,3104,First Officer
+221,1309,Captain
+595,3162,First Officer
+756,487,Captain
+335,1091,Captain
+101,743,First Officer
+448,1248,First Officer
+654,1205,Captain
+337,1292,First Officer
+58,1517,First Officer
+769,4077,Captain
+979,2907,First Officer
+234,4653,Captain
+546,1947,Captain
+794,1141,Captain
+680,3054,First Officer
+34,4677,First Officer
+52,1312,First Officer
+844,2590,First Officer
+715,3154,Captain
+641,1600,First Officer
+531,1042,Captain
+644,4004,Captain
+273,413,Captain
+139,61,Captain
+538,1950,Captain
+807,3909,Captain
+895,4442,First Officer
+481,4212,First Officer
+138,4747,First Officer
+603,4269,First Officer
+736,1181,Captain
+885,49,First Officer
+603,127,First Officer
+477,4796,Captain
+79,3723,Captain
+900,4074,Captain
+246,4228,First Officer
+401,4958,Captain
+532,1096,First Officer
+577,859,Captain
+651,4616,Captain
+500,4995,First Officer
+613,827,Captain
+758,1873,Captain
+486,4407,First Officer
+351,3886,First Officer
+339,749,First Officer
+564,2630,Captain
+191,1952,First Officer
+69,1154,First Officer
+171,2735,First Officer
+415,3732,First Officer
+918,843,First Officer
+979,1568,First Officer
+160,2129,Captain
+561,3027,First Officer
+17,1187,First Officer
+602,4113,Captain
+200,4392,First Officer
+90,1493,Captain
+66,846,First Officer
+592,4970,First Officer
+731,894,First Officer
+708,4620,First Officer
+67,1355,Captain
+889,2164,Captain
+538,4494,First Officer
+587,3818,First Officer
+406,2961,First Officer
+134,2064,Captain
+10,3610,First Officer
+866,460,Captain
+41,1571,First Officer
+268,3679,Captain
+378,4675,Captain
+30,3325,Captain
+707,460,Captain
+37,780,First Officer
+378,548,Captain
+195,1369,First Officer
+710,4602,First Officer
+703,3465,Captain
+401,4692,Captain
+628,215,Captain
+866,2849,Captain
+871,1014,Captain
+775,4372,First Officer
+522,3371,First Officer
+191,4720,First Officer
+247,438,First Officer
+804,1185,Captain
+181,720,First Officer
+703,4767,Captain
+997,201,First Officer
+669,4650,Captain
+244,2389,First Officer
+166,1184,Captain
+729,4580,Captain
+360,4808,Captain
+451,2458,First Officer
+526,1327,Captain
+488,4451,Captain
+128,4744,Captain
+620,2899,Captain
+696,1762,Captain
+882,2334,Captain
+863,1815,Captain
+616,4883,First Officer
+811,2256,First Officer
+810,1654,Captain
+804,2294,First Officer
+621,3734,Captain
+121,1445,Captain
+165,1264,Captain
+961,1021,First Officer
+479,1770,Captain
+518,2260,First Officer
+285,1100,First Officer
+145,727,First Officer
+700,2330,Captain
+517,1344,First Officer
+406,3337,First Officer
+732,2472,Captain
+130,4746,First Officer
+318,1502,First Officer
+119,1306,Captain
+834,3750,Captain
+528,3033,First Officer
+461,3394,First Officer
+813,2215,First Officer
+693,3141,First Officer
+723,4294,Captain
+47,766,First Officer
+519,4799,Captain
+454,3680,First Officer
+130,3563,Captain
+591,1404,First Officer
+872,3028,First Officer
+736,2611,Captain
+723,2143,Captain
+966,4549,First Officer
+748,2471,Captain
+366,4314,Captain
+97,3850,Captain
+313,4856,First Officer
+710,711,First Officer
+73,2211,Captain
+224,3584,Captain
+650,4549,Captain
+765,4271,First Officer
+472,2077,First Officer
+780,4811,Captain
+773,104,Captain
+586,273,First Officer
+211,4404,Captain
+524,2381,First Officer
+191,3243,Captain
+215,2203,First Officer
+980,1904,First Officer
+524,4066,Captain
+674,3467,First Officer
+67,3270,First Officer
+713,1077,First Officer
+887,3728,Captain
+361,4329,First Officer
+420,337,Captain
+9,2136,Captain
+210,3399,Captain
+764,257,Captain
+570,1170,Captain
+509,3310,Captain
+18,1460,First Officer
+700,580,First Officer
+694,1733,Captain
+997,291,First Officer
+357,2838,Captain
+513,3390,Captain
+771,1992,Captain
+259,1900,First Officer
+150,4779,Captain
+104,2166,First Officer
+336,2971,First Officer
+853,1625,First Officer
+402,1469,First Officer
+36,4029,First Officer
+740,1197,First Officer
+831,373,First Officer
+820,4294,First Officer
+580,1328,Captain
+334,4013,First Officer
+941,4032,First Officer
+458,3111,Captain
+138,4499,Captain
+282,4537,Captain
+488,4104,Captain
+816,3490,Captain
+843,3014,Captain
+675,3632,First Officer
+299,194,First Officer
+587,4837,Captain
+618,4313,Captain
+604,548,Captain
+137,748,Captain
+271,620,Captain
+52,1262,First Officer
+640,1060,Captain
+408,4501,First Officer
+661,3752,First Officer
+142,552,Captain
+393,1141,First Officer
+266,1303,Captain
+695,4294,First Officer
+795,4780,First Officer
+94,560,Captain
+125,1165,First Officer
+111,606,Captain
+364,4122,Captain
+326,1312,First Officer
+908,578,First Officer
+210,1425,Captain
+11,3210,Captain
+118,4892,First Officer
+772,4968,First Officer
+712,4484,First Officer
+782,2849,Captain
+33,3086,Captain
+702,2294,First Officer
+128,1109,Captain
+176,2959,First Officer
+798,1019,Captain
+171,4371,First Officer
+24,814,First Officer
+486,970,First Officer
+172,2890,Captain
+859,2972,First Officer
+785,3132,Captain
+290,1818,First Officer
+676,3951,Captain
+270,3467,First Officer
+215,2257,First Officer
+331,704,Captain
+133,761,First Officer
+202,3806,First Officer
+159,1261,First Officer
+633,4265,Captain
+810,2246,Captain
+815,1629,Captain
+574,1466,Captain
+40,3511,First Officer
+861,1804,Captain
+870,3241,First Officer
+437,1759,Captain
+788,2821,Captain
+313,2193,First Officer
+758,4301,Captain
+933,2239,First Officer
+498,1387,First Officer
+582,1160,Captain
+455,1624,First Officer
+653,4558,Captain
+502,4915,Captain
+207,4304,Captain
+777,4957,Captain
+101,4555,First Officer
+154,2897,Captain
+101,1973,First Officer
+756,4512,Captain
+318,3332,First Officer
+451,3122,Captain
+486,2369,Captain
+896,3485,First Officer
+943,2772,First Officer
+236,4092,Captain
+806,3710,First Officer
+134,1311,Captain
+829,2843,First Officer
+876,1180,First Officer
+518,2796,First Officer
+151,3899,Captain
+93,4992,Captain
+160,2637,Captain
+599,3207,First Officer
+712,1533,Captain
+778,98,Captain
+130,4175,Captain
+896,2957,Captain
+455,1906,Captain
+939,3699,First Officer
+507,3225,Captain
+681,798,Captain
+80,441,First Officer
+394,4346,Captain
+64,262,Captain
+23,4760,First Officer
+353,2408,Captain
+78,1695,Captain
+488,2945,First Officer
+19,1851,Captain
+106,2082,Captain
+624,4897,Captain
+926,639,Captain
+426,3322,Captain
+869,2496,First Officer
+984,2776,Captain
+550,343,First Officer
+445,3323,First Officer
+961,4094,Captain
+44,217,Captain
+373,1409,First Officer
+324,4292,First Officer
+906,1887,First Officer
+784,2242,First Officer
+140,2304,Captain
+842,715,Captain
+721,4297,Captain
+103,903,First Officer
+962,2506,Captain
+459,3764,Captain
+304,532,Captain
+691,2017,First Officer
+262,1368,Captain
+923,4634,First Officer
+493,1101,First Officer
+41,4526,Captain
+242,649,First Officer
+599,1141,Captain
+357,1160,Captain
+409,3542,Captain
+234,4706,Captain
+936,1801,First Officer
+1000,1055,Captain
+739,2306,First Officer
+531,2924,First Officer
+673,3320,First Officer
+116,3622,First Officer
+937,4311,Captain
+496,4080,First Officer
+825,3429,First Officer
+784,4695,First Officer
+244,3208,Captain
+395,1460,First Officer
+34,1856,Captain
+82,2077,First Officer
+964,1490,First Officer
+574,108,First Officer
+339,4935,Captain
+998,1426,Captain
+319,3861,Captain
+825,4297,Captain
+604,3769,First Officer
+800,1625,First Officer
+439,978,Captain
+185,4370,Captain
+284,2239,First Officer
+372,1032,First Officer
+350,2999,First Officer
+932,1063,Captain
+802,1382,Captain
+503,427,First Officer
+450,4997,First Officer
+200,2640,Captain
+549,2364,First Officer
+724,1865,First Officer
+116,1268,Captain
+934,2175,Captain
+174,223,Captain
+645,1206,Captain
+284,1101,First Officer
+376,4140,Captain
+669,2015,First Officer
+159,4221,First Officer
+398,3537,First Officer
+558,4736,Captain
+997,4433,First Officer
+195,2574,Captain
+400,3611,Captain
+893,229,First Officer
+484,794,Captain
+362,3663,Captain
+777,1048,Captain
+312,3326,Captain
+574,4560,First Officer
+597,1358,Captain
+305,3663,First Officer
+884,3797,Captain
+123,2626,Captain
+697,332,First Officer
+611,1364,Captain
+332,3928,First Officer
+576,3542,First Officer
+279,303,First Officer
+380,400,First Officer
+822,4627,Captain
+981,2312,Captain
+519,2674,First Officer
+905,3838,First Officer
+9,2675,Captain
+932,1993,Captain
+794,1727,Captain
+217,4461,Captain
+684,1425,First Officer
+613,1967,First Officer
+58,2145,Captain
+675,4954,First Officer
+83,4022,Captain
+126,4261,First Officer
+519,2979,Captain
+61,960,Captain
+268,4364,First Officer
+613,4293,Captain
+952,639,First Officer
+863,2420,First Officer
+888,2124,First Officer
+981,4550,Captain
+586,259,Captain
+257,1280,First Officer
+16,4702,First Officer
+899,3577,First Officer
+241,4593,First Officer
+13,1684,Captain
+608,2015,Captain
+1,745,First Officer
+661,2365,First Officer
+820,4201,Captain
+183,266,Captain
+291,2326,Captain
+633,2346,First Officer
+319,4617,First Officer
+331,1405,First Officer
+916,96,Captain
+503,3700,First Officer
+164,2181,First Officer
+698,4821,Captain
+69,635,Captain
+767,3890,First Officer
+343,3033,Captain
+717,1908,Captain
+824,3841,Captain
+420,307,First Officer
+340,4432,Captain
+724,2402,Captain
+274,850,Captain
+142,4451,Captain
+602,1614,Captain
+900,178,Captain
+249,4111,First Officer
+136,1635,Captain
+522,3376,First Officer
+597,4816,First Officer
+244,159,First Officer
+111,3773,Captain
+871,933,First Officer
+816,1448,First Officer
+99,778,Captain
+156,360,First Officer
+615,2746,First Officer
+368,561,First Officer
+30,1202,First Officer
+129,1118,First Officer
+108,3837,First Officer
+379,4392,First Officer
+109,4046,Captain
+939,1350,First Officer
+548,439,First Officer
+397,155,First Officer
+617,1321,Captain
+699,4840,Captain
+163,4641,Captain
+893,2504,First Officer
+627,3647,First Officer
+283,2247,First Officer
+134,1060,Captain
+785,3898,First Officer
+70,4098,Captain
+775,4571,Captain
+720,1862,First Officer
+858,2320,First Officer
+984,2612,Captain
+99,662,First Officer
+253,3419,First Officer
+517,4812,First Officer
+901,4290,First Officer
+620,480,Captain
+670,2483,First Officer
+556,2520,Captain
+159,1871,First Officer
+14,458,Captain
+531,1290,First Officer
+790,3347,First Officer
+28,4199,First Officer
+428,2721,First Officer
+510,4,Captain
+876,1719,Captain
+37,3285,Captain
+769,2212,First Officer
+650,745,Captain
+838,149,First Officer
+610,2865,First Officer
+622,2368,First Officer
+545,2750,First Officer
+883,898,Captain
+192,3782,Captain
+334,3678,Captain
+697,1722,Captain
+777,4041,First Officer
+837,3967,Captain
+928,3153,Captain
+92,2949,First Officer
+103,3612,Captain
+494,881,Captain
+661,4174,Captain
+175,442,Captain
+593,2183,First Officer
+752,1087,First Officer
+652,3848,Captain
+182,2193,First Officer
+144,2227,Captain
+946,4539,Captain
+958,1066,Captain
+388,4629,First Officer
+436,4847,Captain
+576,2737,First Officer
+449,419,Captain
+341,3986,First Officer
+870,2854,Captain
+596,4683,Captain
+722,2296,First Officer
+772,2518,First Officer
+825,4280,Captain
+500,352,Captain
+341,596,First Officer
+387,4267,First Officer
+187,432,Captain
+173,3545,Captain
+165,348,First Officer
+440,4635,Captain
+97,3059,Captain
+803,3523,Captain
+447,796,Captain
+232,3988,First Officer
+355,4476,First Officer
+69,1046,First Officer
+655,591,First Officer
+788,1551,Captain
+678,3307,Captain
+638,1438,First Officer
+399,245,Captain
+659,1208,First Officer
+583,2326,First Officer
+40,4452,Captain
+368,3029,First Officer
+173,4639,Captain
+922,2819,Captain
+440,3238,First Officer
+119,2440,Captain
+376,268,Captain
+918,1599,First Officer
+10,250,Captain
+315,1300,Captain
+517,2602,Captain
+379,4650,Captain
+387,276,Captain
+936,2668,Captain
+500,233,First Officer
+605,4538,Captain
+714,3389,Captain
+205,4577,Captain
+610,4617,First Officer
+77,4645,Captain
+81,3068,Captain
+92,872,First Officer
+154,844,Captain
+922,1135,First Officer
+798,408,Captain
+910,1347,Captain
+204,3185,Captain
+756,1321,Captain
+501,4469,First Officer
+896,4227,First Officer
+246,644,Captain
+813,689,First Officer
+762,4368,First Officer
+518,2858,First Officer
+917,3479,First Officer
+168,2484,Captain
+141,3002,Captain
+944,1495,Captain
+322,979,Captain
+905,2268,First Officer
+36,1601,First Officer
+432,1502,Captain
+809,2863,Captain
+336,4132,First Officer
+411,1205,Captain
+36,2973,Captain
+604,2459,Captain
+268,2389,Captain
+339,3205,Captain
+358,1098,First Officer
+515,2761,First Officer
+3,1750,First Officer
+191,3577,First Officer
+663,1195,First Officer
+193,2660,First Officer
+69,946,Captain
+164,3088,Captain
+718,4295,Captain
+39,4789,Captain
+188,4344,Captain
+263,2713,First Officer
+323,1258,First Officer
+431,3819,Captain
+580,4387,Captain
+669,2725,First Officer
+761,3742,Captain
+169,752,First Officer
+876,563,First Officer
+261,2398,Captain
+833,1931,First Officer
+395,4353,First Officer
+618,3929,Captain
+434,2947,First Officer
+745,4352,First Officer
+873,2940,First Officer
+146,4887,Captain
+838,297,Captain
+263,3721,Captain
+987,4869,First Officer
+744,4903,First Officer
+788,84,Captain
+967,3468,Captain
+440,4036,Captain
+901,3423,First Officer
+735,3030,Captain
+63,4490,First Officer
+718,3456,Captain
+911,468,First Officer
+828,4870,First Officer
+849,3740,First Officer
+200,1673,First Officer
+198,795,Captain
+419,4817,Captain
+37,1630,First Officer
+951,3182,Captain
+85,4168,Captain
+132,1870,First Officer
+466,4963,Captain
+118,535,First Officer
+58,2815,First Officer
+395,1670,Captain
+905,1570,Captain
+576,1205,Captain
+594,1042,Captain
+984,3903,Captain
+1000,4159,Captain
+898,4289,Captain
+214,508,Captain
+317,2272,First Officer
+70,101,Captain
+564,2806,First Officer
+10,29,First Officer
+545,281,Captain
+504,3493,Captain
+425,3840,Captain
+364,3976,First Officer
+167,1187,Captain
+413,2039,Captain
+877,3634,First Officer
+190,4327,First Officer
+560,1491,First Officer
+912,3093,Captain
+230,4565,Captain
+408,411,First Officer
+944,4670,First Officer
+521,1213,First Officer
+413,4121,First Officer
+285,2895,First Officer
+281,3927,Captain
+804,517,Captain
+162,3552,Captain
+745,338,First Officer
+321,4118,Captain
+510,1180,First Officer
+361,4278,First Officer
+492,3427,Captain
+841,1683,Captain
+685,2445,Captain
+603,995,Captain
+946,3767,Captain
+317,2756,First Officer
+957,2583,Captain
+468,2574,First Officer
+697,4489,Captain
+415,2666,First Officer
+240,1352,Captain
+796,3685,Captain
+813,2740,First Officer
+498,2335,Captain
+589,3473,First Officer
+883,3650,First Officer
+24,2648,First Officer
+991,4866,Captain
+405,4311,First Officer
+237,3951,Captain
+172,831,First Officer
+401,1189,Captain
+477,4280,Captain
+807,863,First Officer
+884,834,Captain
+475,86,Captain
+854,2991,First Officer
+809,3595,First Officer
+893,4230,Captain
+294,4553,Captain
+44,1696,Captain
+323,3357,Captain
+344,620,Captain
+711,618,Captain
+285,282,Captain
+980,4976,First Officer
+593,3419,First Officer
+332,3253,Captain
+827,69,First Officer
+863,3706,Captain
+230,2203,Captain
+177,2190,Captain
+8,2626,First Officer
+414,3078,First Officer
+294,2079,Captain
+837,754,First Officer
+306,2980,Captain
+185,3034,Captain
+576,1237,First Officer
+310,4805,First Officer
+679,4624,Captain
+890,4242,Captain
+634,3895,First Officer
+621,3444,First Officer
+330,1601,Captain
+517,4239,First Officer
+654,4704,Captain
+336,2995,First Officer
+111,4122,First Officer
+317,14,Captain
+483,2160,First Officer
+679,381,First Officer
+14,622,Captain
+34,3083,Captain
+634,2665,Captain
+687,1656,Captain
+999,4117,First Officer
+235,350,First Officer
+67,3543,First Officer
+107,200,First Officer
+638,98,First Officer
+450,2044,First Officer
+337,3008,First Officer
+526,2913,Captain
+166,3097,Captain
+942,4240,Captain
+900,4712,First Officer
+599,1271,First Officer
+355,2321,Captain
+927,114,First Officer
+307,4632,First Officer
+933,2714,Captain
+740,3694,First Officer
+593,4149,Captain
+484,604,Captain
+636,2224,Captain
+340,3261,Captain
+38,3093,Captain
+278,2806,Captain
+464,2685,Captain
+7,3046,Captain
+832,2795,Captain
+993,3244,First Officer
+948,1946,Captain
+84,4051,First Officer
+613,3195,Captain
+496,1604,First Officer
+174,3126,First Officer
+811,450,Captain
+797,393,First Officer
+943,1699,First Officer
+253,2565,First Officer
+882,2690,Captain
+176,3541,Captain
+761,2757,Captain
+697,794,First Officer
+987,178,First Officer
+909,310,First Officer
+558,4059,Captain
+559,4880,First Officer
+438,2295,Captain
+883,3050,Captain
+976,178,Captain
+358,1170,First Officer
+219,4333,Captain
+169,4542,First Officer
+292,1412,Captain
+924,1531,Captain
+732,1364,First Officer
+235,3604,First Officer
+203,4571,First Officer
+629,3322,Captain
+26,2458,Captain
+922,1020,Captain
+689,2710,Captain
+964,1947,First Officer
+710,3690,Captain
+947,3830,Captain
+680,712,Captain
+812,2865,Captain
+609,3157,Captain
+123,3984,First Officer
+72,2523,Captain
+318,4254,First Officer
+232,3302,Captain
+338,4167,First Officer
+35,3287,Captain
+363,3163,First Officer
+680,1665,First Officer
+422,1495,Captain
+669,4343,Captain
+998,3928,First Officer
+887,4984,Captain
+117,3232,Captain
+904,2211,First Officer
+432,1511,Captain
+905,1994,First Officer
+973,4034,First Officer
+891,2219,Captain
+795,2325,First Officer
+32,2045,Captain
+417,26,First Officer
+298,1172,First Officer
+559,4899,Captain
+745,4772,Captain
+879,581,First Officer
+144,738,First Officer
+501,2139,First Officer
+413,2364,Captain
+728,671,Captain
+370,1503,First Officer
+97,1455,Captain
+33,2524,First Officer
+49,4883,Captain
+656,374,Captain
+170,1425,First Officer
+433,4621,Captain
+188,4761,First Officer
+203,2131,Captain
+651,2408,First Officer
+807,243,Captain
+889,2713,Captain
+643,527,Captain
+980,4517,First Officer
+8,108,First Officer
+113,320,First Officer
+672,4203,Captain
+239,3731,First Officer
+262,2523,First Officer
+408,2961,Captain
+289,3920,Captain
+893,4570,First Officer
+401,3310,First Officer
+466,2522,Captain
+706,1920,Captain
+532,3838,First Officer
+24,2468,First Officer
+234,3265,First Officer
+978,1013,First Officer
+398,2659,First Officer
+602,457,Captain
+99,4820,First Officer
+314,3180,First Officer
+509,2917,First Officer
+115,2712,Captain
+394,663,Captain
+195,3601,First Officer
+137,963,Captain
+948,354,First Officer
+675,4281,First Officer
+879,1310,Captain
+7,1808,First Officer
+721,2795,First Officer
+439,1880,Captain
+8,4701,First Officer
+901,1564,First Officer
+391,2591,First Officer
+494,4489,First Officer
+168,520,Captain
+992,3813,Captain
+683,2528,Captain
+950,3773,Captain
+455,4648,Captain
+24,4907,First Officer
+922,2834,Captain
+176,1773,First Officer
+613,4580,Captain
+982,924,First Officer
+496,1408,First Officer
+602,2145,Captain
+90,354,Captain
+779,2414,First Officer
+952,3448,Captain
+574,3237,Captain
+701,1389,Captain
+385,4241,Captain
+328,716,Captain
+424,601,First Officer
+354,601,First Officer
+374,161,Captain
+240,2075,Captain
+991,521,Captain
+765,3144,Captain
+779,4867,First Officer
+190,909,Captain
+827,290,First Officer
+187,3439,First Officer
+909,2030,First Officer
+533,1441,First Officer
+507,4206,Captain
+777,1060,Captain
+523,4563,First Officer
+646,2470,First Officer
+186,3271,Captain
+541,4320,Captain
+982,4760,Captain
+853,2980,First Officer
+183,359,First Officer
+815,4074,First Officer
+246,3859,First Officer
+715,2440,First Officer
+959,4031,Captain
+63,3454,First Officer
+882,1457,First Officer
+843,4791,First Officer
+252,2834,First Officer
+910,1020,Captain
+959,177,Captain
+667,4376,Captain
+644,3498,First Officer
+327,3403,First Officer
+601,4461,First Officer
+983,995,First Officer
+793,1985,First Officer
+408,214,First Officer
+355,4632,First Officer
+27,3871,Captain
+457,3232,First Officer
+872,3640,Captain
+687,2316,Captain
+700,1436,First Officer
+819,1114,Captain
+36,4244,Captain
+567,4158,First Officer
+249,2416,Captain
+821,209,First Officer
+361,3182,Captain
+506,2185,Captain
+911,3385,Captain
+529,2579,Captain
+254,991,First Officer
+375,883,Captain
+126,2820,Captain
+904,2139,Captain
+540,1401,First Officer
+754,3975,Captain
+852,1839,Captain
+835,3060,Captain
+842,564,First Officer
+504,245,Captain
+183,1510,Captain
+276,796,First Officer
+851,2863,First Officer
+710,696,First Officer
+213,156,First Officer
+370,4587,First Officer
+990,3371,First Officer
+629,1659,Captain
+94,3315,Captain
+595,1453,Captain
+937,3354,Captain
+513,1489,Captain
+586,2509,Captain
+625,3609,First Officer
+458,3094,First Officer
+924,4694,Captain
+137,4195,First Officer
+204,2934,Captain
+512,1474,First Officer
+570,449,Captain
+419,909,First Officer
+261,4537,Captain
+369,1131,First Officer
+52,4944,Captain
+12,982,Captain
+231,1248,First Officer
+4,2169,First Officer
+361,4583,First Officer
+585,1881,First Officer
+525,4704,Captain
+141,4010,First Officer
+871,1231,Captain
+253,4212,First Officer
+512,59,First Officer
+146,2373,First Officer
+856,2381,First Officer
+895,2263,First Officer
+275,2205,Captain
+253,2366,Captain
+549,4097,First Officer
+94,2110,Captain
+783,833,First Officer
+596,3699,First Officer
+605,4978,First Officer
+273,2262,Captain
+695,2554,Captain
+260,3792,Captain
+178,1147,Captain
+281,1996,First Officer
+637,2874,First Officer
+517,4779,First Officer
+32,1151,Captain
+209,2154,Captain
+18,4954,First Officer
+359,1724,First Officer
+76,1070,First Officer
+59,4083,Captain
+855,3283,First Officer
+233,452,Captain
+943,4903,First Officer
+576,1322,First Officer
+633,1589,First Officer
+178,3279,First Officer
+576,1949,First Officer
+426,367,First Officer
+411,2186,Captain
+233,2872,Captain
+251,2848,First Officer
+22,1609,Captain
+584,4617,First Officer
+25,4736,Captain
+428,1180,Captain
+511,917,First Officer
+464,556,Captain
+94,2520,Captain
+792,3080,Captain
+696,1954,Captain
+203,2742,First Officer
+398,1207,First Officer
+52,2198,First Officer
+956,1295,Captain
+744,2123,Captain
+313,2849,Captain
+244,3433,First Officer
+50,4306,Captain
+311,1749,First Officer
+700,3254,Captain
+434,4980,First Officer
+213,4300,First Officer
+874,3206,First Officer
+885,365,Captain
+666,1632,Captain
+974,2249,First Officer
+541,4195,First Officer
+339,111,Captain
+556,3899,First Officer
+381,79,Captain
+944,605,First Officer
+323,4262,First Officer
+452,4509,Captain
+962,1738,First Officer
+450,1354,First Officer
+349,1195,Captain
+479,2047,First Officer
+901,2688,Captain
+543,1545,First Officer
+222,4426,Captain
+154,2372,Captain
+554,3151,Captain
+296,3394,Captain
+148,4855,First Officer
+300,1526,First Officer
+92,3756,Captain
+354,4084,Captain
+302,2105,Captain
+560,837,First Officer
+387,4988,Captain
+937,4459,First Officer
+207,4062,First Officer
+9,1584,First Officer
+309,1034,Captain
+483,4068,Captain
+293,4402,Captain
+564,704,Captain
+766,2084,Captain
+977,3558,First Officer
+143,2423,First Officer
+911,1574,First Officer
+172,4082,Captain
+559,526,Captain
+436,3715,Captain
+357,3558,First Officer
+808,1512,First Officer
+961,3269,Captain
+710,340,First Officer
+173,1358,First Officer
+468,3953,Captain
+833,3534,First Officer
+324,1384,First Officer
+82,477,Captain
+160,1828,First Officer
+187,4778,First Officer
+709,3381,First Officer
+751,4687,First Officer
+765,2503,First Officer
+772,1374,Captain
+653,290,Captain
+534,953,Captain
+401,2295,First Officer
+938,507,First Officer
+312,4618,First Officer
+569,1058,First Officer
+758,1296,Captain
+345,2655,First Officer
+520,4186,First Officer
+163,2268,Captain
+717,4861,Captain
+934,4204,Captain
+840,158,First Officer
+77,1677,First Officer
+469,652,Captain
+98,2593,Captain
+189,789,First Officer
+820,4485,First Officer
+906,516,Captain
+700,3454,First Officer
+448,1299,Captain
+586,4985,First Officer
+289,1503,First Officer
+722,1758,Captain
+202,3685,First Officer
+232,1438,Captain
+602,4347,First Officer
+196,1355,First Officer
+966,4827,First Officer
+835,4178,Captain
+617,4279,First Officer
+178,4142,Captain
+386,4128,First Officer
+324,4795,First Officer
+532,794,Captain
+88,4021,First Officer
+907,4271,First Officer
+341,1498,Captain
+118,3524,First Officer
+523,4867,Captain
+798,151,Captain
+681,3483,First Officer
+629,684,Captain
+901,335,Captain
+750,2568,First Officer
+228,4189,Captain
+428,4656,Captain
+433,2235,Captain
+208,3947,First Officer
+952,797,First Officer
+116,395,Captain
+548,2643,First Officer
+536,2280,Captain
+699,3970,First Officer
+84,1644,First Officer
+368,2023,First Officer
+817,2053,Captain
+292,4272,First Officer
+64,4192,First Officer
+189,4151,Captain
+230,9,Captain
+172,1850,Captain
+179,3489,First Officer
+798,3723,First Officer
+291,3667,Captain
+684,1184,First Officer
+618,4027,Captain
+831,1514,First Officer
+391,1320,First Officer
+636,4058,First Officer
+496,1990,Captain
+176,3266,Captain
+442,4519,First Officer
+138,2659,Captain
+238,797,Captain
+135,2683,Captain
+715,2985,Captain
+289,1586,Captain
+212,3615,First Officer
+580,4796,Captain
+51,733,Captain
+164,2362,First Officer
+525,593,First Officer
+713,3312,First Officer
+428,1513,Captain
+314,109,First Officer
+2,4430,Captain
+33,962,Captain
+479,1783,First Officer
+651,1646,First Officer
+582,1678,Captain
+535,1881,Captain
+776,896,Captain
+519,548,First Officer
+720,2263,Captain
+648,1376,Captain
+284,982,Captain
+275,1492,First Officer
+428,1221,Captain
+696,1555,First Officer
+595,3542,First Officer
+266,1941,First Officer
+86,3982,Captain
+948,1257,First Officer
+639,1588,First Officer
+988,1567,Captain
+688,4192,First Officer
+619,2792,Captain
+993,4741,First Officer
+480,697,First Officer
+596,2925,First Officer
+892,3956,Captain
+621,1960,Captain
+40,4540,Captain
+221,2503,First Officer
+214,1349,First Officer
+956,3422,Captain
+392,3793,First Officer
+756,78,Captain
+414,344,First Officer
+126,4365,Captain
+27,3257,First Officer
+696,706,First Officer
+306,92,Captain
+985,3798,Captain
+304,1880,First Officer
+36,4265,First Officer
+972,2011,Captain
+797,3928,Captain
+286,2945,Captain
+895,1975,First Officer
+553,3755,First Officer
+962,4927,First Officer
+532,790,Captain
+948,4375,First Officer
+806,491,First Officer
+661,2643,Captain
+363,3623,First Officer
+989,1235,Captain
+346,2007,First Officer
+237,2772,Captain
+814,3687,First Officer
+95,3745,Captain
+229,1741,First Officer
+619,2451,Captain
+512,3220,First Officer
+373,1519,First Officer
+581,1093,First Officer
+864,3801,Captain
+675,353,Captain
+788,2005,Captain
+800,2830,First Officer
+462,109,Captain
+32,3938,Captain
+274,2257,First Officer
+489,4314,Captain
+275,4104,Captain
+111,2598,First Officer
+733,302,First Officer
+123,3072,First Officer
+935,1212,First Officer
+986,304,First Officer
+334,2859,First Officer
+831,2681,Captain
+974,994,Captain
+584,4602,Captain
+931,3724,First Officer
+445,1871,First Officer
+514,2601,First Officer
+749,812,First Officer
+286,4137,Captain
+787,3829,First Officer
+340,2174,First Officer
+32,1052,First Officer
+1000,2853,First Officer
+146,2559,First Officer
+69,3598,First Officer
+708,744,First Officer
+994,4117,First Officer
+53,1484,Captain
+570,2557,First Officer
+893,2270,First Officer
+453,4223,Captain
+834,1650,Captain
+616,2328,First Officer
+161,4774,First Officer
+468,2589,First Officer
+760,2915,First Officer
+208,1497,First Officer
+247,2519,First Officer
+125,4716,Captain
+179,3236,First Officer
+752,2826,Captain
+318,484,Captain
+508,390,First Officer
+163,2614,First Officer
+826,3773,First Officer
+812,906,First Officer
+308,4542,Captain
+137,1973,Captain
+867,3761,First Officer
+728,4621,Captain
+838,3898,Captain
+109,3333,First Officer
+184,2954,First Officer
+353,2556,First Officer
+306,2023,First Officer
+753,1266,Captain
+797,2392,Captain
+157,1522,Captain
+37,1625,Captain
+301,1757,Captain
+387,1738,First Officer
+863,2697,Captain
+882,3181,Captain
+930,3732,Captain
+828,1203,First Officer
+911,554,Captain
+639,454,Captain
+556,3600,Captain
+476,424,Captain
+98,1623,First Officer
+220,2000,Captain
+493,651,First Officer
+833,3179,First Officer
+676,1017,Captain
+620,500,Captain
+751,4127,Captain
+623,382,First Officer
+188,2636,Captain
+537,344,Captain
+486,3317,First Officer
+892,1078,Captain
+450,1718,First Officer
+650,371,First Officer
+957,949,First Officer
+524,3250,Captain
+234,1641,First Officer
+291,2042,First Officer
+354,2856,Captain
+699,2606,Captain
+306,402,First Officer
+486,1180,First Officer
+805,3537,First Officer
+928,1968,Captain
+877,1519,First Officer
+259,2027,First Officer
+140,46,Captain
+20,2290,Captain
+39,2192,Captain
+747,3423,Captain
+506,251,First Officer
+417,5,First Officer
+902,2242,Captain
+491,332,Captain
+108,2378,First Officer
+726,4412,Captain
+831,1324,Captain
+684,277,Captain
+931,4072,First Officer
+629,406,Captain
+814,1607,Captain
+506,1105,First Officer
+42,3517,Captain
+616,3630,First Officer
+729,3946,First Officer
+538,2641,Captain
+114,2072,First Officer
+6,3663,First Officer
+234,2137,Captain
+819,4999,Captain
+747,1934,Captain
+967,2065,First Officer
+302,1854,Captain
+427,1542,Captain
+477,1575,Captain
+719,4741,Captain
+320,4854,Captain
+978,534,First Officer
+314,3215,First Officer
+255,151,Captain
+935,2781,First Officer
+340,1403,Captain
+289,4203,First Officer
+76,1815,Captain
+30,2982,Captain
+7,1600,First Officer
+736,1981,Captain
+292,3400,Captain
+183,3949,Captain
+273,2912,Captain
+748,3773,Captain
+905,4146,Captain
+994,416,Captain
+563,2085,Captain
+335,3664,Captain
+966,823,Captain
+494,3576,First Officer
+844,2991,Captain
+689,4578,First Officer
+722,1002,First Officer
+434,915,Captain
+371,866,First Officer
+278,351,First Officer
+44,559,First Officer
+484,4943,First Officer
+417,4719,Captain
+257,3859,Captain
+810,1850,Captain
+246,4788,First Officer
+984,15,Captain
+403,3569,First Officer
+57,1593,Captain
+908,684,Captain
+714,2289,Captain
+142,2506,Captain
+865,4842,First Officer
+854,3231,Captain
+459,486,Captain
+281,2052,First Officer
+367,4221,Captain
+768,2779,First Officer
+966,932,First Officer
+691,3822,First Officer
+220,3291,First Officer
+340,2048,Captain
+488,2989,Captain
+629,1431,Captain
+782,1744,First Officer
+819,4672,Captain
+193,1063,Captain
+637,3376,Captain
+410,1475,First Officer
+736,2928,Captain
+51,4580,First Officer
+308,1609,Captain
+984,2151,First Officer
+846,688,First Officer
+658,4837,Captain
+29,4178,Captain
+289,3835,Captain
+422,263,First Officer
+171,2696,First Officer
+184,531,Captain
+385,1249,Captain
+635,2272,First Officer
+201,4670,First Officer
+710,3963,Captain
+577,432,First Officer
+477,780,First Officer
+11,3875,Captain
+467,2936,Captain
+517,2018,First Officer
+938,31,Captain
+844,805,Captain
+900,4866,Captain
+334,1206,First Officer
+120,3460,First Officer
+476,965,First Officer
+533,4913,Captain
+493,2386,Captain
+384,664,Captain
+210,119,First Officer
+426,1888,Captain
+149,3455,First Officer
+808,1001,First Officer
+573,2250,First Officer
+788,477,Captain
+356,1215,Captain
+410,1831,First Officer
+300,4996,Captain
+324,2448,First Officer
+264,4811,First Officer
+855,4210,First Officer
+529,3846,First Officer
+34,3788,First Officer
+959,236,First Officer
+801,1897,First Officer
+513,4219,Captain
+50,687,First Officer
+409,3450,First Officer
+950,2366,Captain
+930,230,First Officer
+621,3513,Captain
+2,4279,Captain
+172,355,First Officer
+183,3060,First Officer
+226,4196,Captain
+400,2986,Captain
+648,1373,First Officer
+360,2101,Captain
+838,1621,Captain
+579,1774,First Officer
+133,3548,Captain
+746,2394,Captain
+558,380,First Officer
+610,2079,Captain
+617,4461,Captain
+643,3870,First Officer
+261,417,First Officer
+901,2334,Captain
+879,2047,Captain
+29,4009,First Officer
+337,2373,Captain
+529,3147,Captain
+2,1407,First Officer
+1,4597,Captain
+155,547,First Officer
+877,3028,First Officer
+508,1372,Captain
+568,684,First Officer
+457,2347,First Officer
+317,1099,Captain
+215,286,First Officer
+599,1986,Captain
+261,4891,First Officer
+502,1549,Captain
+231,148,Captain
+703,3124,Captain
+722,4274,Captain
+843,1715,First Officer
+172,2849,Captain
+18,1834,Captain
+650,3298,Captain
+636,3387,Captain
+283,5,First Officer
+840,3261,First Officer
+510,2593,Captain
+674,3406,Captain
+372,423,First Officer
+973,546,First Officer
+553,3644,Captain
+263,2508,Captain
+735,159,First Officer
+203,3246,First Officer
+636,3541,Captain
+136,4751,First Officer
+816,2081,Captain
+349,214,First Officer
+972,1516,Captain
+441,3186,First Officer
+566,4548,Captain
+236,1689,Captain
+436,1191,First Officer
+177,1047,Captain
+443,804,Captain
+299,4582,Captain
+174,2868,Captain
+564,1895,First Officer
+89,1451,First Officer
+962,1943,Captain
+544,1976,Captain
+601,4915,First Officer
+13,3912,Captain
+727,1262,First Officer
+997,233,First Officer
+402,3948,Captain
+778,3144,First Officer
+226,1509,First Officer
+328,3553,First Officer
+917,4522,Captain
+5,2272,First Officer
+757,2040,First Officer
+79,2686,Captain
+967,2112,First Officer
+941,2810,Captain
+355,3679,First Officer
+267,1175,First Officer
+126,4542,Captain
+645,3094,First Officer
+927,2226,First Officer
+22,919,First Officer
+939,2055,First Officer
+19,4474,First Officer
+366,2006,Captain
+888,3729,Captain
+930,420,Captain
+955,3684,Captain
+604,2989,Captain
+265,1056,First Officer
+248,476,First Officer
+704,1551,First Officer
+39,3878,Captain
+109,2632,First Officer
+859,1445,First Officer
+796,403,First Officer
+365,1953,First Officer
+910,1094,First Officer
+970,1823,Captain
+665,4019,First Officer
+690,1389,Captain
+639,457,First Officer
+181,3282,Captain
+771,4855,First Officer
+305,889,First Officer
+274,3071,First Officer
+936,1913,Captain
+677,172,Captain
+458,2980,First Officer
+703,4711,Captain
+931,2121,Captain
+989,1977,First Officer
+364,2637,Captain
+940,4609,First Officer
+506,3304,Captain
+44,2982,First Officer
+904,4816,Captain
+190,2566,Captain
+848,112,First Officer
+532,3327,First Officer
+578,2328,Captain
+685,2388,First Officer
+313,2899,First Officer
+827,4538,Captain
+950,4672,Captain
+715,974,Captain
+123,3706,First Officer
+126,247,Captain
+124,2814,First Officer
+348,4684,Captain
+877,1462,First Officer
+370,1110,Captain
+791,293,First Officer
+728,2731,First Officer
+960,198,First Officer
+678,4480,Captain
+258,4141,First Officer
+418,1021,First Officer
+415,3385,First Officer
+879,4074,Captain
+835,4438,First Officer
+128,2630,Captain
+80,795,First Officer
+399,2223,Captain
+619,308,First Officer
+935,893,Captain
+284,595,Captain
+607,4040,First Officer
+109,4630,First Officer
+961,2818,First Officer
+144,4709,First Officer
+503,1611,First Officer
+961,1083,First Officer
+250,476,First Officer
+385,413,Captain
+482,3487,First Officer
+210,778,Captain
+868,4249,Captain
+673,979,Captain
+566,4697,First Officer
+913,1994,Captain
+161,4878,Captain
+863,931,Captain
+181,4490,Captain
+226,3106,Captain
+987,1915,First Officer
+926,3700,First Officer
+446,1879,First Officer
+704,4439,First Officer
+79,2327,Captain
+935,1540,Captain
+477,947,Captain
+996,4813,Captain
+539,4706,Captain
+216,652,First Officer
+283,3685,First Officer
+275,3194,First Officer
+505,2406,Captain
+21,1207,First Officer
+53,4772,Captain
+487,3968,First Officer
+933,4909,First Officer
+629,1162,First Officer
+284,2801,Captain
+73,2421,Captain
+596,355,Captain
+826,3772,Captain
+69,3918,First Officer
+498,611,Captain
+94,3687,First Officer
+764,1933,First Officer
+929,4064,Captain
+939,4247,First Officer
+222,1323,First Officer
+625,2969,Captain
+125,4466,First Officer
+419,2610,First Officer
+820,412,Captain
+627,2333,First Officer
+58,2617,Captain
+117,4739,First Officer
+929,4753,First Officer
+132,3761,First Officer
+91,1835,First Officer
+144,3321,Captain
+430,1219,First Officer
+333,3079,First Officer
+635,2384,First Officer
+805,3327,Captain
+244,4870,Captain
+251,489,Captain
+932,2029,Captain
+797,1812,First Officer
+747,3223,First Officer
+130,1298,Captain
+661,173,First Officer
+495,1733,First Officer
+117,760,First Officer
+769,4041,First Officer
+105,4010,First Officer
+192,4838,Captain
+731,1552,First Officer
+615,2768,Captain
+715,3355,Captain
+282,1197,First Officer
+486,996,First Officer
+721,3223,Captain
+134,1412,Captain
+916,956,First Officer
+39,1625,First Officer
+781,1467,First Officer
+204,3759,Captain
+719,1784,First Officer
+645,4783,First Officer
+6,4724,First Officer
+190,3995,First Officer
+674,3752,Captain
+992,4263,Captain
+896,3037,Captain
+946,2304,First Officer
+424,3106,Captain
+715,2801,First Officer
+688,2991,Captain
+810,4917,Captain
+857,1215,First Officer
+50,2713,Captain
+493,3801,First Officer
+376,1361,Captain
+684,1459,First Officer
+943,4717,Captain
+662,931,Captain
+773,3250,First Officer
+636,2794,First Officer
+366,762,Captain
+332,963,First Officer
+249,3808,Captain
+773,4126,First Officer
+933,2548,First Officer
+257,2203,First Officer
+506,4267,Captain
+576,1165,First Officer
+604,441,Captain
+287,115,First Officer
+339,3124,Captain
+524,1518,Captain
+67,660,First Officer
+640,1728,First Officer
+220,2387,Captain
+601,4529,First Officer
+192,3765,First Officer
+438,1979,Captain
+150,1960,Captain
+861,3243,First Officer
+209,2225,Captain
+242,1356,First Officer
+522,1078,Captain
+431,1999,Captain
+328,366,First Officer
+212,1095,First Officer
+824,2516,Captain
+193,393,Captain
+713,884,Captain
+190,2012,First Officer
+990,3115,Captain
+341,3965,Captain
+327,3039,Captain
+576,600,First Officer
+592,3702,Captain
+11,483,Captain
+124,1781,Captain
+427,3619,First Officer
+807,2719,Captain
+870,1722,Captain
+91,709,Captain
+926,1673,First Officer
+856,3408,First Officer
+702,3957,First Officer
+255,2230,Captain
+8,1626,First Officer
+32,3460,Captain
+42,1096,Captain
+679,1302,Captain
+549,2105,Captain
+522,2116,First Officer
+923,1581,Captain
+442,4580,First Officer
+500,4669,Captain
+200,3205,First Officer
+730,3676,Captain
+831,4572,First Officer
+648,8,Captain
+647,27,Captain
+681,1404,Captain
+8,655,Captain
+268,2956,Captain
+758,751,Captain
+602,1194,Captain
+468,313,Captain
+455,928,Captain
+606,2780,First Officer
+934,102,First Officer
+974,794,Captain
+538,2301,Captain
+282,676,Captain
+950,240,Captain
+917,2682,Captain
+972,1525,First Officer
+797,2434,Captain
+283,360,First Officer
+824,3827,Captain
+953,85,First Officer
+22,173,Captain
+366,403,Captain
+59,214,First Officer
+172,2038,Captain
+137,275,First Officer
+894,3457,Captain
+74,4335,Captain
+846,4499,Captain
+868,1651,Captain
+292,3863,First Officer
+6,3100,Captain
+756,1166,Captain
+995,3422,First Officer
+992,1177,First Officer
+164,3570,Captain
+839,2566,Captain
+29,2174,First Officer
+616,964,First Officer
+44,4754,Captain
+361,1423,Captain
+83,3932,Captain
+7,1407,Captain
+683,3429,Captain
+66,466,First Officer
+710,393,Captain
+550,3685,First Officer
+533,2521,First Officer
+625,55,Captain
+162,1831,First Officer
+447,4210,First Officer
+839,3443,Captain
+461,464,First Officer
+248,2827,Captain
+941,399,First Officer
+323,49,Captain
+913,187,Captain
+967,4948,Captain
+618,2470,Captain
+892,1204,Captain
+260,181,Captain
+279,1785,First Officer
+975,794,First Officer
+918,1897,Captain
+946,4593,Captain
+716,4557,First Officer
+636,4327,First Officer
+604,4932,Captain
+850,4254,Captain
+74,4203,First Officer
+653,890,Captain
+49,226,First Officer
+439,1213,Captain
+67,3301,Captain
+856,4491,Captain
+913,701,Captain
+435,1878,First Officer
+535,645,First Officer
+902,738,Captain
+881,3197,Captain
+457,1988,First Officer
+47,2164,Captain
+192,879,Captain
+969,1993,Captain
+477,2811,First Officer
+136,637,First Officer
+778,11,Captain
+402,3580,First Officer
+967,152,Captain
+587,43,Captain
+714,2654,First Officer
+87,2248,Captain
+438,2013,Captain
+894,3697,Captain
+33,4738,First Officer
+91,3025,First Officer
+365,788,First Officer
+147,4938,First Officer
+269,2439,First Officer
+849,2851,First Officer
+303,4123,First Officer
+777,3235,First Officer
+579,3626,Captain
+585,1184,Captain
+995,4383,First Officer
+279,2225,First Officer
+498,1163,First Officer
+613,4141,Captain
+472,1739,First Officer
+740,4386,First Officer
+526,3444,First Officer
+37,3824,First Officer
+20,4598,Captain
+748,1902,First Officer
+65,42,Captain
+873,949,Captain
+729,761,First Officer
+184,3085,First Officer
+324,977,Captain
+577,3063,First Officer
+216,3665,Captain
+311,1406,Captain
+418,172,First Officer
+251,1052,Captain
+932,2141,Captain
+957,3946,Captain
+749,530,First Officer
+278,3789,Captain
+170,1068,First Officer
+623,1144,Captain
+303,3259,Captain
+921,3498,Captain
+178,3005,First Officer
+510,1669,Captain
+915,4433,Captain
+211,4549,First Officer
+866,3078,Captain
+919,1482,First Officer
+431,1760,First Officer
+709,659,Captain
+834,3279,First Officer
+6,3131,Captain
+497,680,Captain
+332,4719,Captain
+759,3308,Captain
+708,2538,First Officer
+44,1074,Captain
+926,3266,First Officer
+141,3294,Captain
+510,2099,First Officer
+198,2940,Captain
+906,1919,First Officer
+700,2897,Captain
+93,1419,Captain
+182,4979,First Officer
+38,1728,Captain
+294,2047,Captain
+958,2734,Captain
+469,4455,Captain
+965,417,First Officer
+234,87,First Officer
+696,102,First Officer
+731,1952,Captain
+44,1793,First Officer
+364,4762,First Officer
+797,2224,First Officer
+792,3765,First Officer
+62,1418,First Officer
+640,2014,Captain
+625,484,First Officer
+168,766,Captain
+300,2220,First Officer
+906,2745,Captain
+220,351,Captain
+408,3805,Captain
+587,2654,Captain
+840,1708,First Officer
+822,4725,First Officer
+759,3001,First Officer
+859,2699,Captain
+867,3093,Captain
+913,833,Captain
+830,3881,First Officer
+159,1962,First Officer
+584,1088,First Officer
+239,686,Captain
+59,3307,Captain
+77,3014,Captain
+730,2822,First Officer
+751,890,Captain
+613,4116,Captain
+974,4979,First Officer
+435,3608,Captain
+28,3121,First Officer
+77,137,First Officer
+308,2631,Captain
+242,1815,First Officer
+794,3212,First Officer
+180,4524,First Officer
+88,3915,Captain
+293,276,First Officer
+692,1244,First Officer
+26,1027,Captain
+887,3419,Captain
+898,723,First Officer
+207,4948,First Officer
+242,3689,Captain
+685,4249,First Officer
+371,2761,First Officer
+469,2988,First Officer
+634,4638,Captain
+994,1569,Captain
+79,1954,First Officer
+118,4916,Captain
+906,3613,Captain
+761,4208,First Officer
+552,3972,First Officer
+355,1922,Captain
+644,2916,Captain
+553,3829,First Officer
+372,3190,First Officer
+493,2262,First Officer
+491,3371,First Officer
+82,3347,First Officer
+752,2537,Captain
+236,2942,First Officer
+228,4132,First Officer
+5,1716,Captain
+617,1209,First Officer
+270,3151,Captain
+110,2794,Captain
+378,290,First Officer
+32,43,Captain
+94,4696,Captain
+721,3721,First Officer
+812,2814,First Officer
+492,2985,First Officer
+38,1942,Captain
+963,1897,First Officer
+559,2278,Captain
+267,2243,Captain
+56,2910,First Officer
+823,845,First Officer
+80,911,Captain
+442,4624,Captain
+563,2648,First Officer
+378,3418,Captain
+59,861,First Officer
+117,3968,First Officer
+240,162,Captain
+304,2251,Captain
+57,1458,Captain
+295,1859,First Officer
+584,1302,Captain
+248,2346,First Officer
+931,3108,First Officer
+179,1488,Captain
+262,4141,Captain
+992,2770,First Officer
+382,925,First Officer
+148,4721,First Officer
+280,1701,First Officer
+123,1403,First Officer
+410,2405,First Officer
+343,888,Captain
+55,778,First Officer
+807,546,First Officer
+999,2497,Captain
+962,141,First Officer
+969,3232,Captain
+293,4218,Captain
+324,198,First Officer
+184,2487,First Officer
+753,3190,Captain
+797,4672,Captain
+747,3202,First Officer
+580,120,First Officer
+378,90,Captain
+149,4900,Captain
+300,1219,First Officer
+577,4174,First Officer
+814,3382,Captain
+650,2528,First Officer
+378,3126,First Officer
+389,1069,Captain
+433,4323,First Officer
+778,816,First Officer
+771,4298,Captain
+384,444,First Officer
+35,2924,First Officer
+31,3630,Captain
+32,1082,First Officer
+826,1837,Captain
+808,2530,Captain
+830,3359,First Officer
+155,4393,First Officer
+68,1114,First Officer
+186,2745,Captain
+86,2083,Captain
+498,3529,First Officer
+681,1752,First Officer
+286,3972,Captain
+370,2188,First Officer
+307,4500,Captain
+329,2782,First Officer
+315,4039,First Officer
+465,2630,Captain
+126,3112,Captain
+742,4225,Captain
+587,4859,First Officer
+782,508,First Officer
+114,3356,First Officer
+78,744,Captain
+396,4926,Captain
+466,438,Captain
+949,4355,Captain
+109,3407,First Officer
+129,2154,First Officer
+451,2419,First Officer
+866,4593,First Officer
+529,3077,First Officer
+280,2287,First Officer
+205,3866,Captain
+743,2252,Captain
+265,1077,First Officer
+205,4290,First Officer
+103,2860,Captain
+823,2771,Captain
+973,3160,First Officer
+392,1827,First Officer
+854,4538,First Officer
+408,4810,First Officer
+662,205,First Officer
+71,1490,Captain
+13,2819,Captain
+95,4749,First Officer
+829,4231,First Officer
+358,4992,Captain
+558,445,First Officer
+653,3819,Captain
+474,2681,Captain
+733,4128,First Officer
+725,3134,Captain
+294,2112,First Officer
+906,3011,First Officer
+727,669,Captain
+734,171,Captain
+536,4183,First Officer
+239,3531,First Officer
+318,1606,Captain
+567,2653,First Officer
+520,4531,First Officer
+235,265,First Officer
+14,1798,Captain
+881,3689,First Officer
+935,2831,Captain
+483,2419,Captain
+425,3157,Captain
+730,3510,First Officer
+101,2965,Captain
+6,4948,First Officer
+699,3165,First Officer
+666,1785,Captain
+606,4956,First Officer
+227,4559,First Officer
+887,1861,First Officer
+138,2442,First Officer
+657,579,First Officer
+310,3390,Captain
+386,2016,First Officer
+596,3428,First Officer
+338,2142,Captain
+505,4241,First Officer
+259,2215,First Officer
+522,2026,First Officer
+700,779,First Officer
+465,2565,Captain
+911,855,First Officer
+626,4428,First Officer
+899,791,Captain
+688,2719,First Officer
+630,4436,First Officer
+38,3745,Captain
+132,3584,Captain
+457,2820,Captain
+965,1959,Captain
+852,624,First Officer
+532,1427,Captain
+53,621,Captain
+62,4509,First Officer
+778,2553,First Officer
+177,1885,First Officer
+357,397,First Officer
+899,3805,First Officer
+356,2295,Captain
+463,851,Captain
+770,3130,First Officer
+643,879,Captain
+740,3292,First Officer
+1,3495,Captain
+767,1012,Captain
+3,1660,Captain
+541,4281,Captain
+173,3261,First Officer
+593,1383,First Officer
+876,4277,Captain
+669,4123,Captain
+543,186,First Officer
+754,1196,Captain
+826,3406,First Officer
+674,2262,First Officer
+525,2340,Captain
+631,2408,Captain
+12,1362,First Officer
+265,542,First Officer
+241,2825,Captain
+117,4821,Captain
+571,413,Captain
+877,2205,First Officer
+823,571,First Officer
+990,916,First Officer
+182,2122,First Officer
+178,1582,Captain
+344,1465,First Officer
+366,3280,First Officer
+7,4994,First Officer
+785,3836,First Officer
+224,1210,First Officer
+392,3226,First Officer
+457,1230,Captain
+686,987,First Officer
+905,4305,Captain
+650,504,First Officer
+341,1257,Captain
+63,1880,Captain
+558,2750,Captain
+508,2831,Captain
+578,2418,First Officer
+2,377,First Officer
+568,1537,First Officer
+272,2213,First Officer
+435,3467,Captain
+1000,3715,First Officer
+675,3466,First Officer
+696,1509,Captain
+362,209,First Officer
+236,3958,First Officer
+253,3508,Captain
+746,1575,First Officer
+612,4973,First Officer
+460,452,Captain
+728,277,Captain
+311,2811,First Officer
+551,706,First Officer
+271,549,Captain
+426,1887,First Officer
+545,4920,First Officer
+180,4367,First Officer
+23,2554,First Officer
+51,3743,Captain
+300,3392,First Officer
+746,3492,Captain
+289,2393,First Officer
+183,1393,First Officer
+821,1102,Captain
+394,1183,First Officer
+671,1443,Captain
+271,3207,Captain
+641,1539,Captain
+288,1605,First Officer
+873,691,Captain
+593,2281,First Officer
+727,2128,Captain
+357,2431,Captain
+210,1322,First Officer
+978,4291,Captain
+20,146,First Officer
+176,1487,Captain
+36,2234,First Officer
+817,4160,First Officer
+834,4444,First Officer
+556,3190,First Officer
+694,2800,Captain
+382,2554,First Officer
+841,3894,First Officer
+525,1545,First Officer
+387,4321,Captain
+261,1590,Captain
+943,2248,Captain
+124,637,First Officer
+327,663,Captain
+738,3851,Captain
+167,1805,First Officer
+38,1077,First Officer
+498,4677,Captain
+594,310,Captain
+242,1222,First Officer
+971,114,Captain
+131,4257,First Officer
+629,2838,First Officer
+184,2884,Captain
+824,4700,First Officer
+605,1299,Captain
+352,4861,Captain
+619,1957,Captain
+781,4172,First Officer
+825,1769,Captain
+425,2029,Captain
+16,931,First Officer
+914,39,Captain
+49,966,First Officer
+193,341,Captain
+377,1159,Captain
+294,64,First Officer
+991,1393,Captain
+389,2761,First Officer
+418,4577,First Officer
+149,3334,First Officer
+904,4879,First Officer
+570,488,First Officer
+404,2894,First Officer
+699,4936,Captain
+615,1842,Captain
+731,901,Captain
+837,828,First Officer
+940,2568,First Officer
+151,3625,Captain
+723,4628,Captain
+825,4332,First Officer
+580,2744,Captain
+274,2146,First Officer
+606,246,Captain
+96,4935,Captain
+557,1034,Captain
+354,4315,First Officer
+261,170,Captain
+122,1293,Captain
+549,2999,Captain
+896,1616,Captain
+250,2128,First Officer
+361,1645,First Officer
+975,3206,Captain
+437,480,Captain
+246,2146,Captain
+250,196,Captain
+877,1811,Captain
+206,573,Captain
+426,2215,First Officer
+625,4775,First Officer
+449,2869,Captain
+560,4123,First Officer
+290,2081,Captain
+286,4788,Captain
+771,250,Captain
+417,2719,Captain
+212,75,Captain
+110,2751,First Officer
+739,1738,Captain
+553,419,First Officer
+787,3142,Captain
+968,3646,Captain
+510,3339,Captain
+179,135,First Officer
+883,4746,First Officer
+874,2067,First Officer
+896,3226,First Officer
+762,333,First Officer
+277,331,First Officer
+639,3513,First Officer
+532,1163,First Officer
+194,215,First Officer
+104,1109,First Officer
+306,851,Captain
+979,2796,First Officer
+581,3995,Captain
+65,3812,First Officer
+869,2963,First Officer
+239,420,Captain
+25,1172,Captain
+608,68,Captain
+105,4416,Captain
+304,1503,First Officer
+5,946,First Officer
+292,2330,First Officer
+862,3366,First Officer
+701,820,First Officer
+930,4676,Captain
+363,2860,First Officer
+159,3791,First Officer
+327,1043,First Officer
+591,2344,Captain
+36,3726,Captain
+694,3746,Captain
+832,821,First Officer
+807,66,Captain
+342,1723,First Officer
+402,1918,First Officer
+397,3139,Captain
+55,1776,Captain
+65,3932,First Officer
+307,1895,First Officer
+521,1644,Captain
+9,3371,Captain
+44,1191,First Officer
+560,3678,First Officer
+437,3956,Captain
+946,791,Captain
+693,4626,First Officer
+751,2981,Captain
+649,1975,Captain
+821,588,Captain
+900,3631,First Officer
+196,3290,First Officer
+460,3098,First Officer
+102,2905,Captain
+526,1658,Captain
+810,3609,Captain
+825,1370,First Officer
+869,3662,Captain
+102,1149,Captain
+680,3129,First Officer
+493,1109,Captain
+29,421,First Officer
+533,4558,Captain
+989,801,First Officer
+112,4096,First Officer
+918,112,First Officer
+309,1458,Captain
+252,2057,First Officer
+237,331,First Officer
+73,4747,First Officer
+933,437,Captain
+32,4989,First Officer
+241,4962,Captain
+383,3375,First Officer
+934,1149,Captain
+204,1813,First Officer
+461,3499,Captain
+516,3739,Captain
+654,743,First Officer
+690,429,Captain
+331,72,Captain
+187,2906,First Officer
+18,372,Captain
+691,4290,First Officer
+563,3222,Captain
+861,4344,First Officer
+741,3110,Captain
+810,2036,Captain
+359,4252,First Officer
+944,4427,First Officer
+805,2032,Captain
+897,4578,First Officer
+466,3090,First Officer
+150,4721,Captain
+866,528,Captain
+270,2144,Captain
+196,1564,Captain
+862,846,Captain
+579,4788,First Officer
+670,1913,First Officer
+736,1128,Captain
+440,3678,First Officer
+13,1673,First Officer
+646,4064,First Officer
+901,3808,Captain
+295,3691,First Officer
+905,1066,Captain
+271,3076,First Officer
+276,4059,First Officer
+51,3908,First Officer
+846,2943,Captain
+866,2184,First Officer
+837,2870,Captain
+165,688,Captain
+547,1256,Captain
+719,2355,First Officer
+504,260,Captain
+46,4860,First Officer
+538,3703,First Officer
+339,1382,First Officer
+20,769,Captain
+592,4924,Captain
+44,273,First Officer
+862,1658,First Officer
+424,4851,Captain
+323,2280,First Officer
+844,4786,First Officer
+646,545,First Officer
+826,4324,Captain
+110,1713,Captain
+391,4339,First Officer
+752,653,Captain
+334,2183,First Officer
+178,4815,Captain
+485,453,Captain
+376,547,Captain
+662,4347,First Officer
+365,2783,Captain
+655,966,Captain
+453,3112,First Officer
+620,3733,Captain
+54,2547,First Officer
+408,3069,First Officer
+377,1040,First Officer
+505,395,Captain
+827,2680,First Officer
+486,4125,First Officer
+201,2222,Captain
+472,3998,Captain
+25,2147,Captain
+459,4287,Captain
+667,189,Captain
+577,667,First Officer
+828,128,Captain
+970,3535,Captain
+817,3887,Captain
+158,2744,First Officer
+118,3943,Captain
+966,1040,Captain
+124,4482,Captain
+409,142,First Officer
+821,1847,Captain
+770,4551,Captain
+339,2407,First Officer
+824,1614,Captain
+434,1795,First Officer
+355,751,Captain
+421,3034,First Officer
+529,1461,Captain
+235,4824,Captain
+161,386,Captain
+636,1809,Captain
+555,1925,First Officer
+233,3422,First Officer
+975,3080,Captain
+229,4624,Captain
+502,929,Captain
+84,3826,First Officer
+931,2628,First Officer
+486,33,Captain
+536,121,Captain
+631,3392,First Officer
+568,1968,First Officer
+957,2532,First Officer
+294,4070,Captain
+603,3836,Captain
+638,2912,Captain
+931,3284,First Officer
+625,2285,First Officer
+94,2488,First Officer
+991,1949,Captain
+209,3546,Captain
+245,195,Captain
+104,1471,Captain
+213,412,First Officer
+108,941,Captain
+106,4645,First Officer
+387,766,First Officer
+751,384,First Officer
+734,725,First Officer
+116,2916,Captain
+185,2114,Captain
+188,3050,First Officer
+805,161,First Officer
+247,1252,First Officer
+428,3978,First Officer
+344,3051,Captain
+344,1546,Captain
+672,1942,First Officer
+974,1413,Captain
+713,2064,Captain
+627,916,Captain
+776,2861,First Officer
+944,151,First Officer
+372,2302,Captain
+570,3744,Captain
+220,271,Captain
+976,3292,Captain
+655,776,First Officer
+659,2647,Captain
+90,494,Captain
+533,882,Captain
+65,4970,Captain
+10,4261,Captain
+838,2101,First Officer
+785,623,Captain
+141,213,First Officer
+372,4042,First Officer
+857,2263,Captain
+243,1349,Captain
+292,2723,First Officer
+848,2957,First Officer
+855,4626,Captain
+385,1293,Captain
+993,666,Captain
+260,2079,Captain
+493,4475,Captain
+659,752,First Officer
+252,1215,Captain
+255,813,First Officer
+565,3806,First Officer
+832,2388,Captain
+164,4881,First Officer
+247,1906,First Officer
+597,4300,Captain
+564,4934,First Officer
+884,3841,First Officer
+624,874,Captain
+145,4952,First Officer
+388,1927,Captain
+337,3751,First Officer
+276,3422,First Officer
+123,4886,First Officer
+485,3706,Captain
+675,2591,First Officer
+555,1397,First Officer
+862,2418,First Officer
+503,3453,Captain
+509,1328,Captain
+46,4595,Captain
+400,3383,Captain
+698,2457,Captain
+616,2441,First Officer
+111,2020,Captain
+7,3896,Captain
+165,4825,Captain
+776,3626,Captain
+975,3774,First Officer
+141,2963,First Officer
+585,2295,Captain
+568,3012,First Officer
+595,4108,Captain
+215,3319,First Officer
+63,4552,First Officer
+888,1276,Captain
+295,610,First Officer
+895,4011,First Officer
+174,1184,Captain
+885,567,First Officer
+970,1062,First Officer
+898,87,Captain
+87,815,First Officer
+961,4553,First Officer
+940,3206,Captain
+56,4691,Captain
+535,4239,Captain
+655,866,Captain
+246,3325,First Officer
+561,3767,Captain
+579,674,Captain
+682,4515,Captain
+123,1609,First Officer
+100,3252,First Officer
+265,4697,Captain
+762,1785,First Officer
+63,307,Captain
+896,3903,First Officer
+811,1087,Captain
+188,4069,First Officer
+984,4337,Captain
+112,2716,First Officer
+54,4683,Captain
+804,2514,First Officer
+250,3361,Captain
+668,3577,First Officer
+184,535,First Officer
+15,1095,First Officer
+256,2629,Captain
+481,469,First Officer
+953,3334,First Officer
+15,4096,Captain
+109,2725,Captain
+552,4018,Captain
+229,1092,Captain
+944,3082,First Officer
+653,4956,Captain
+792,3403,Captain
+969,3550,Captain
+839,2186,First Officer
+415,4173,First Officer
+685,2205,Captain
+263,3816,First Officer
+948,245,First Officer
+399,3932,First Officer
+746,2306,Captain
+271,3225,First Officer
+485,2542,First Officer
+461,767,Captain
+200,3448,First Officer
+870,2913,Captain
+542,1310,First Officer
+120,101,First Officer
+812,3369,First Officer
+751,1708,Captain
+122,3712,First Officer
+902,550,First Officer
+260,1705,First Officer
+10,3078,First Officer
+94,4040,First Officer
+134,684,First Officer
+861,1767,First Officer
+475,4659,First Officer
+21,1963,Captain
+101,593,Captain
+476,1386,Captain
+351,4170,Captain
+646,3731,Captain
+601,1702,First Officer
+826,2125,First Officer
+865,3220,Captain
+770,2668,First Officer
+488,57,Captain
+699,3279,First Officer
+964,4725,First Officer
+941,3749,Captain
+5,2645,Captain
+316,3649,First Officer
+884,2658,Captain
+733,2614,First Officer
+419,1075,First Officer
+934,3636,Captain
+937,977,First Officer
+749,203,First Officer
+545,3341,First Officer
+964,3135,First Officer
+502,3211,Captain
+688,4751,Captain
+235,617,First Officer
+188,4997,Captain
+989,1988,First Officer
+714,3820,First Officer
+326,553,Captain
+578,2958,First Officer
+287,4415,First Officer
+940,4010,Captain
+742,3099,First Officer
+868,4472,Captain
+804,1068,Captain
+116,643,Captain
+478,1894,Captain
+623,4465,First Officer
+615,4063,First Officer
+698,3466,Captain
+130,2360,First Officer
+756,3266,First Officer
+871,1422,First Officer
+289,4682,Captain
+793,3552,First Officer
+116,1569,First Officer
+261,29,First Officer
+836,1776,First Officer
+793,2465,First Officer
+726,1052,Captain
+905,1454,First Officer
+808,2070,Captain
+523,2591,First Officer
+750,1296,First Officer
+387,2625,First Officer
+782,1153,Captain
+855,1099,Captain
+742,2358,Captain
+998,4002,First Officer
+269,4841,Captain
+459,1604,First Officer
+115,2963,Captain
+558,2339,Captain
+22,403,Captain
+533,2103,First Officer
+849,3972,First Officer
+873,2017,First Officer
+111,2193,First Officer
+533,2104,First Officer
+181,1548,Captain
+929,4023,First Officer
+435,109,Captain
+851,1749,Captain
+611,1324,First Officer
+506,3675,Captain
+908,140,Captain
+598,2847,First Officer
+721,3369,Captain
+118,983,First Officer
+670,2357,First Officer
+484,1669,First Officer
+861,1705,First Officer
+125,4350,First Officer
+846,4936,Captain
+797,4996,Captain
+97,1808,Captain
+360,2938,First Officer
+703,3420,First Officer
+219,4773,First Officer
+598,1664,Captain
+600,799,First Officer
+583,4537,Captain
+700,4900,Captain
+818,1812,First Officer
+906,2936,Captain
+161,1187,First Officer
+168,1830,Captain
+148,3798,First Officer
+221,263,First Officer
+856,476,First Officer
+903,1266,Captain
+131,2931,First Officer
+726,633,Captain
+915,1349,First Officer
+826,1351,Captain
+102,1952,First Officer
+996,4970,Captain
+290,2904,First Officer
+619,4929,First Officer
+651,3777,First Officer
+740,3738,First Officer
+904,1444,First Officer
+55,1250,Captain
+102,1101,Captain
+753,135,First Officer
+203,366,First Officer
+455,2463,Captain
+660,1348,First Officer
+764,258,First Officer
+181,3832,Captain
+62,1104,First Officer
+247,3292,First Officer
+453,4055,First Officer
+577,2094,Captain
+855,4885,Captain
+354,3402,First Officer
+987,1733,First Officer
+229,405,Captain
+974,3352,First Officer
+276,4151,First Officer
+557,1724,Captain
+275,4212,Captain
+340,1208,First Officer
+588,4783,First Officer
+763,4858,First Officer
+432,4166,First Officer
+807,1212,First Officer
+477,460,Captain
+719,170,First Officer
+848,3807,First Officer
+670,4132,Captain
+225,1169,First Officer
+834,1937,Captain
+283,4399,Captain
+700,3424,First Officer
+320,4544,First Officer
+112,810,Captain
+455,3502,Captain
+71,691,Captain
+806,1499,Captain
+143,1247,Captain
+737,4073,First Officer
+188,1125,First Officer
+482,3556,First Officer
+546,1297,Captain
+66,861,First Officer
+227,193,First Officer
+434,696,First Officer
+926,4210,First Officer
+358,2388,Captain
+657,3920,Captain
+214,1610,First Officer
+586,1958,First Officer
+974,3055,First Officer
+232,2935,Captain
+691,754,Captain
+462,2041,First Officer
+614,4104,First Officer
+139,2027,First Officer
+176,2556,Captain
+558,3549,Captain
+709,2860,First Officer
+298,3239,First Officer
+775,1457,First Officer
+229,4225,First Officer
+113,651,Captain
+460,4580,First Officer
+789,295,Captain
+419,4246,First Officer
+170,1171,First Officer
+194,3782,Captain
+253,2310,Captain
+925,285,Captain
+365,2371,First Officer
+955,408,Captain
+366,374,First Officer
+958,4670,Captain
+978,516,Captain
+79,3037,First Officer
+842,4541,Captain
+779,242,First Officer
+832,2736,Captain
+298,3514,First Officer
+945,335,Captain
+536,3557,Captain
+577,3149,Captain
+590,1591,First Officer
+911,4766,First Officer
+797,4322,First Officer
+440,2760,Captain
+44,3168,Captain
+448,1123,Captain
+996,604,First Officer
+123,4871,Captain
+197,2787,First Officer
+894,2222,First Officer
+461,1102,Captain
+626,3595,Captain
+482,3842,Captain
+661,661,Captain
+227,1050,First Officer
+500,2429,Captain
+272,192,Captain
+724,958,Captain
+543,4667,First Officer
+617,743,First Officer
+827,2517,First Officer
+642,1583,Captain
+144,2349,Captain
+931,3533,First Officer
+865,3238,First Officer
+671,3052,First Officer
+647,2109,First Officer
+862,1284,Captain
+342,3729,Captain
+60,2183,First Officer
+120,2079,Captain
+479,2058,Captain
+81,3063,First Officer
+824,205,First Officer
+188,108,First Officer
+878,4933,First Officer
+533,1571,First Officer
+819,3679,Captain
+270,4441,First Officer
+39,4513,Captain
+525,298,First Officer
+493,3237,First Officer
+156,3503,Captain
+691,1800,First Officer
+949,270,Captain
+192,4430,First Officer
+598,2774,Captain
+25,3980,Captain
+809,1671,First Officer
+642,4140,Captain
+49,4611,First Officer
+232,4812,Captain
+226,3325,First Officer
+219,1350,Captain
+325,310,Captain
+571,4167,Captain
+511,708,Captain
+46,4552,Captain
+34,4011,First Officer
+328,4642,First Officer
+58,300,Captain
+187,824,First Officer
+260,2020,Captain
+645,783,First Officer
+989,2532,Captain
+190,4995,Captain
+774,1878,First Officer
+898,4619,First Officer
+776,71,Captain
+391,4774,Captain
+985,2137,First Officer
+532,3047,Captain
+785,4061,Captain
+785,3092,Captain
+261,4971,First Officer
+55,4032,First Officer
+813,3973,First Officer
+585,451,Captain
+544,154,First Officer
+31,949,First Officer
+577,2008,First Officer
+417,3120,Captain
+920,2455,First Officer
+957,2287,Captain
+187,4793,Captain
+763,3740,Captain
+177,4073,Captain
+192,668,Captain
+326,1615,First Officer
+619,2155,Captain
+662,4335,Captain
+969,365,First Officer
+634,4433,Captain
+700,2287,Captain
+490,4699,First Officer
+190,1931,Captain
+171,3460,First Officer
+563,149,Captain
+382,2024,First Officer
+472,253,Captain
+731,1029,Captain
+78,2552,First Officer
+437,2581,Captain
+429,197,First Officer
+952,2588,Captain
+771,1871,First Officer
+218,2913,First Officer
+420,462,First Officer
+710,4125,First Officer
+278,340,Captain
+420,1410,First Officer
+230,1783,Captain
+154,4075,First Officer
+673,1447,Captain
+465,4451,Captain
+414,4212,First Officer
+438,1138,First Officer
+955,1907,First Officer
+540,1724,Captain
+565,707,First Officer
+395,1453,Captain
+912,2181,First Officer
+380,2831,First Officer
+784,1621,Captain
+307,4215,Captain
+129,233,First Officer
+614,2857,Captain
+712,325,Captain
+81,2794,Captain
+686,4850,Captain
+519,55,Captain
+7,3013,First Officer
+909,3055,First Officer
+215,1445,Captain
+634,106,First Officer
+312,2439,First Officer
